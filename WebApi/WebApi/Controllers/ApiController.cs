@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Cassandra;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 using WebApi.Models;
 
 namespace WebApi.Controllers
@@ -26,24 +27,24 @@ namespace WebApi.Controllers
         }
 
         [HttpGet]
-        [Route("category/{name}")]
-        public async Task<IActionResult> GetCategoryAsync(string name)
+        [Route("category/{categoryName}")]
+        public async Task<IActionResult> GetCategoryAsync(string categoryName)
         {
-            var rows = await _dbSession.ExecuteAsync(new SimpleStatement($"SELECT * FROM api_data WHERE category='{name}'"));
-
-            if (!rows.Any())
-            {
-                NotFound("No APIs found for the category provided");
-            }
+            var rows = await _dbSession.ExecuteAsync(new SimpleStatement($"SELECT * FROM api_data WHERE category='{categoryName}' ALLOW FILTERING;"));
+            var records = rows.Select(FromRow).ToList();
             
-            return Ok(rows.Select(FromRow));
+            if (!records.Any())
+            {
+                return NotFound("No APIs found for the category provided");
+            }
+
+            return Ok(records);
         }
 
-        private ApiData FromRow(Row row)
+        private static ApiData FromRow(Row row)
         {
             return new()
             {
-                Id = Guid.Parse(row.GetValue<string>("id")),
                 Category = row.GetValue<string>("category"),
                 Description = row.GetValue<string>("description"),
                 Endpoint = row.GetValue<string>("endpoint"),
