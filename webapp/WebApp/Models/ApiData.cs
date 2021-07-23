@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace WebApi.Models
+namespace WebApp.Models
 {
     public class ApiData
     {

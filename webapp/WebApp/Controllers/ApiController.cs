@@ -6,12 +6,12 @@ using Cassandra;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
-using WebApi.Models;
-using WebApi.Services;
+using WebApp.Models;
+using WebApp.Services;
 
-namespace WebApi.Controllers
+namespace WebApp.Controllers
 {
-    [Route("[controller]")]
+    [Route("api")]
     public class ApiController : ControllerBase
     {
         private readonly DbService _dbService;

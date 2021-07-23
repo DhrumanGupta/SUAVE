@@ -3,9 +3,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Cassandra;
 using Microsoft.Extensions.Configuration;
-using WebApi.Models;
+using WebApp.Models;
 
-namespace WebApi.Services
+namespace WebApp.Services
 {
     public class DbService
     {
