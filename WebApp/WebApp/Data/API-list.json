@@ -1,285 +1,297 @@
 [
   {
-    "name": "Omdb",
-    "description": "The Open Movie Database API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.",
-    "category": "Entertainment",
-    "link": "https://www.omdbapi.com/"
+    "name": "7Timer!",
+    "description": "lang=en) | ",
+    "category": "Weather",
+    "link": "http://www.7timer.info/doc.php?lang=en"
   },
   {
-    "name": "Cat Facts",
-    "description": "Daily Car Facts",
-    "category": "Animals",
-    "link": "https://alexwohlbruck.github.io/cat-facts/"
+    "name": "AccuWeather",
+    "description": "Weather and forecast data",
+    "category": "Weather",
+    "link": "https://developer.accuweather.com/apis"
   },
   {
-    "name": "The Lord Of The Rings Api",
-    "description": "The one API serves your needs regarding data about The Lord of the Rings, the epic books by J. R. R. Tolkien and the movie adaptions by Peter Jackson. It provides information about the books, the movie trilogy, many characters and quotes.",
-    "category": "Entertainment",
-    "link": "https://the-one-api.dev/"
+    "name": "APIXU",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://www.apixu.com/doc/request.aspx"
   },
   {
-    "name": "Api Meme",
-    "description": "Generate memes with a simple link!",
-    "category": "Funny",
-    "link": "https://apimeme.com/"
+    "name": "AviationWeather",
+    "description": "NOAA aviation weather forecasts and observations",
+    "category": "Weather",
+    "link": "https://www.aviationweather.gov/dataserver"
   },
   {
-    "name": "Food Api",
-    "description": "Let’s you access over 330,000 recipes and 80,000 food products",
-    "category": "Food",
-    "link": "https://spoonacular.com/food-api"
+    "name": "ColorfulClouds",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://open.caiyunapp.com/ColorfulClouds_Weather_API"
   },
   {
-    "name": "The Cocktail Db",
-    "description": "A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB.",
-    "category": "Food",
-    "link": "https://www.thecocktaildb.com/api.php"
+    "name": "Foreca",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://developer.foreca.com"
   },
   {
-    "name": "MEME Generator",
-    "description": "Let’s you generate memes by choosing preloaded images, and short top and bottom text sentences",
-    "category": "Funny",
-    "link": "http://version1.api.memegenerator.net/"
+    "name": "MetaWeather",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://www.metaweather.com/api/"
   },
   {
-    "name": "SoundCloud API",
-    "description": "Discover, stream, and share a constantly expanding mix of music from emerging and major artists around the world.",
-    "category": "Music",
-    "link": "https://developers.soundcloud.com/"
+    "name": "Meteorologisk Institutt",
+    "description": "Weather and climate data",
+    "category": "Weather",
+    "link": "https://api.met.no/weatherapi/documentation"
   },
   {
-    "name": "Bing Search API",
-    "description": "Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements. The results can be automatically customized to your users' locations or markets, increasing relevancy by staying local.",
-    "category": "Search",
-    "link": "https://redirect.microsoft/dataset/bing/search"
+    "name": "NOAA Climate Data",
+    "description": "Weather and climate data",
+    "category": "Weather",
+    "link": "https://www.ncdc.noaa.gov/cdo-web/"
   },
   {
-    "name": "Zestful Data",
-    "description": "The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free.",
-    "category": "Food",
-    "link": "https://zestfuldata.com/"
+    "name": "ODWeather",
+    "description": "Weather and weather webcams",
+    "category": "Weather",
+    "link": "http://api.oceandrivers.com/static/docs.html"
   },
   {
-    "name": "Coinmarketcap",
-    "description": "Cryptocurrencies Prices",
-    "category": "Finance",
-    "link": "https://coinmarketcap.com/api/"
+    "name": "openSenseMap",
+    "description": "Data from Personal Weather Stations called senseBoxes",
+    "category": "Weather",
+    "link": "https://api.opensensemap.org/"
   },
   {
-    "name": "IBM Watson Text To Speech",
-    "description": "A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage",
-    "category": "Audio",
-    "link": "https://www.ibm.com/thought-leadership/smart/"
+    "name": "OpenUV",
+    "description": "Real-time UV Index Forecast",
+    "category": "Weather",
+    "link": "https://www.openuv.io"
   },
   {
-    "name": "Intellexer",
-    "description": "Processing (NLP) Service including sentiment analysis, content extraction, and language detection",
-    "category": "ML",
-    "link": "http://esapi.intellexer.com/"
-  },
-  {
-    "name": "WatchMouse API",
-    "description": "Offers self-service website and application performance monitoring solutions",
-    "category": "ML",
-    "link": "http://more.watchmouse.com/transaction_monitoring/"
-  },
-  {
-    "name": "API2Cart",
-    "description": "API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others.",
-    "category": "Shopping",
-    "link": "https://api2cart.com/"
-  },
-  {
-    "name": "Spotify",
-    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
-    "category": "Music",
-    "link": "https://developer.spotify.com/documentation/web-api/"
-  },
-  {
-    "name": "Facebook API",
-    "description": "Helps developers build, grow and monetize their business.",
-    "category": "Social Media",
-    "link": "https://developers.facebook.com/"
-  },
-  {
-    "name": "Imgflip",
-    "description": "Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API.",
-    "category": "Funny",
-    "link": "https://imgflip.com/api"
-  },
-  {
-    "name": "Traveltime Api",
-    "description": "Create polygons to show how far you can travel within a time limit. Calculate times from an origin to thousands of destinations in a single API call.",
-    "category": "Travel",
-    "link": "https://traveltime.com/docs/api/overview/introduction"
-  },
-  {
-    "name": "Iplegit.Com",
-    "description": "Simple and free to use IP lookup service. Get basic and detailed data on IP addresses. Two free endpoints available.",
-    "category": "Miscellaneous",
-    "link": "https://iplegit.com/"
-  },
-  {
-    "name": "Randomdog",
-    "description": "Random pictures of dogs",
-    "category": "Animals",
-    "link": "https://random.dog/"
-  },
-  {
-    "name": "Riot Games",
-    "description": "League of Legends Game Information",
-    "category": "Entertainment",
-    "link": "https://developer.riotgames.com/"
-  },
-  {
-    "name": "Data Demograph",
-    "description": "Enrich your contact lists with intelligent demographics. Add gender age, income, education, ancestry, crime, and political leaning to your customer insights.",
-    "category": "ML",
-    "link": "https://datademograph.com/"
-  },
-  {
-    "name": "Robohash Image Generator",
-    "description": "Generates cool looking robot image for any text",
-    "category": "Funny",
-    "link": "https://www.mashape.com/blaazetech/robohash-image-generator"
-  },
-  {
-    "name": "FengShui",
-    "description": "Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship",
-    "category": "Astrology",
-    "link": "https://fengshui-api.com/"
-  },
-  {
-    "name": "Trace.Moe",
-    "description": "Scan anime image to get specific detail",
-    "category": "Anime",
-    "link": "https://soruly.github.io/trace.moe/"
-  },
-  {
-    "name": "The Meal Db",
-    "description": "This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!",
-    "category": "Food",
-    "link": "https://www.themealdb.com/api.php"
-  },
-  {
-    "name": "Lolwallpapers Api",
-    "description": "League of Legends Wallpapers website official API.",
-    "category": "Entertainment",
-    "link": "https://api.lolwallpapers.net/"
-  },
-  {
-    "name": "The Sports Db",
-    "description": "With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)",
-    "category": "Sports",
-    "link": "https://www.thesportsdb.com/api.php"
-  },
-  {
-    "name": "Furniture Store Data Api",
-    "description": "The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store. The API is developed on C# and json. The great thing in this api is that it very simple to use and edit. You will learn how to provide any type of data via api in seconds. Prerequisites: Visual Studio 4.0 and above Functionality: Can let your user get data based on keyset and its value set by specifying any TokenKey and value on which basis the API request can be validated. The updated version of the API is also available at <a href='https://getrit.com'>getrit.com</a>",
-    "category": "Shopping",
-    "link": "https://getrit.com/API/Token"
-  },
-  {
-    "name": "Adorable Avatars",
-    "description": "Generate random cartoon avatars",
-    "category": "Funny",
-    "link": "http://avatars.adorable.io/"
-  },
-  {
-    "name": "Httpcat",
-    "description": "Cat for every HTTP Status",
-    "category": "Animals",
-    "link": "https://http.cat/"
-  },
-  {
-    "name": "Qrcode Monkey",
-    "description": "Integrate custom and unique looking QR codes into your system or workflow. This API is perfect for creating thousands of high quality QR codes in png or svg vector format.",
-    "category": "Miscellaneous",
-    "link": "https://www.qrcode-monkey.com/qr-code-api-with-logo/"
-  },
-  {
-    "name": "Theaudiodb",
-    "description": "Music",
-    "category": "Music",
-    "link": "https://www.theaudiodb.com/"
-  },
-  {
-    "name": "Quora API",
-    "description": "Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world.",
-    "category": "Social Media",
-    "link": "https://edmondlausposts.quora.com/Quora-Extension-API"
-  },
-  {
-    "name": "MusixMatch",
-    "description": "Let’s you legally display lyrics of over 640k artists and 13M tracks on your app or website",
-    "category": "Music",
-    "link": "https://developer.musixmatch.com/documentation"
-  },
-  {
-    "name": "Wal-Mart",
-    "description": "Item price and availability",
-    "category": "Shopping",
-    "link": "https://developer.walmartlabs.com/"
-  },
-  {
-    "name": "Html2pdf.App",
-    "description": "Free Html to Pdf online generator Most realistic, high quality html to pdf api service! Free API - no payments No need your own server Maintainable and improving service Easy to use",
-    "category": "Miscellaneous",
-    "link": "https://html2pdf.app/"
-  },
-  {
-    "name": "Openweathermap",
+    "name": "OpenWeatherMap",
     "description": "Weather",
     "category": "Weather",
     "link": "https://openweathermap.org/api"
   },
   {
-    "name": "Jooble",
-    "description": "Job search engine",
-    "category": "Search",
-    "link": "https://jooble.org/api/about"
+    "name": "QWeather",
+    "description": "Location-based weather data",
+    "category": "Weather",
+    "link": "https://dev.qweather.com/"
   },
   {
-    "name": "Fortnite Api",
-    "description": "A fortnite tracker api that returns data about and account",
+    "name": "Storm Glass",
+    "description": "Global marine weather from multiple sources",
+    "category": "Weather",
+    "link": "https://stormglass.io/"
+  },
+  {
+    "name": "TheRainery",
+    "description": "Forecast models from meteorological institutes",
+    "category": "Weather",
+    "link": "https://therainery.com/documentation/"
+  },
+  {
+    "name": "Troposphere",
+    "description": "Global weather and climate data",
+    "category": "Weather",
+    "link": "https://www.troposphere.io/developer"
+  },
+  {
+    "name": "Visual Crossing",
+    "description": "Global historical and weather forecast data",
+    "category": "Weather",
+    "link": "https://www.visualcrossing.com/weather-api"
+  },
+  {
+    "name": "weather-api",
+    "description": "A RESTful free API to check the weather",
+    "category": "Weather",
+    "link": "https://github.com/robertoduessmann/weather-api"
+  },
+  {
+    "name": "Weatherbit",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://www.weatherbit.io/api"
+  },
+  {
+    "name": "weatherstack",
+    "description": "Real-Time & Historical World Weather Data API",
+    "category": "Weather",
+    "link": "https://weatherstack.com/"
+  },
+  {
+    "name": "An API of Ice And Fire",
+    "description": "Game Of Thrones API",
     "category": "Entertainment",
-    "link": "https://fortnite-api.com/"
+    "link": "https://anapioficeandfire.com/"
   },
   {
-    "name": "Jobs2careers",
-    "description": "Job aggregator",
-    "category": "Search",
-    "link": "https://api.jobs2careers.com/api/"
+    "name": "Breaking Bad",
+    "description": "Breaking Bad API",
+    "category": "Entertainment",
+    "link": "https://breakingbadapi.com/documentation"
   },
   {
-    "name": "Image-Charts",
-    "description": "Image-Charts API returns a chart image in response to a URL GET or POST request. The API can generate many kinds of charts, from pie or line charts to bar charts and radars. All the information about the chart that you want, such as chart data, size, colors, and labels, are part of the URL. It can generates animated gif as well!",
-    "category": "Miscellaneous",
-    "link": "https://www.image-charts.com/"
+    "name": "Breaking Bad Quotes",
+    "description": "Some Breaking Bad quotes",
+    "category": "Entertainment",
+    "link": "https://github.com/shevabam/breaking-bad-quotes"
   },
   {
-    "name": "Cloudmersive",
-    "description": "Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.",
-    "category": "Miscellaneous",
-    "link": "https://api.cloudmersive.com/swagger/index.html?urls.primaryName=Convert%20API"
+    "name": "Czech Television",
+    "description": "TV programme of Czech TV",
+    "category": "Entertainment",
+    "link": "http://www.ceskatelevize.cz/xml/tv-program/"
   },
   {
-    "name": "Football Prediction",
-    "description": "API that offers predictions for upcoming football (soccer) matches, odds and performance stats.",
+    "name": "Dailymotion",
+    "description": "Dailymotion Developer API",
+    "category": "Entertainment",
+    "link": "https://developer.dailymotion.com/"
+  },
+  {
+    "name": "ErosNow",
+    "description": "API for Bollywood films and many more",
+    "category": "Entertainment",
+    "link": "https://erosnow.com/developers/api/"
+  },
+  {
+    "name": "Final Space",
+    "description": "Final Space API",
+    "category": "Entertainment",
+    "link": "https://finalspaceapi.com/docs/"
+  },
+  {
+    "name": "Game of Thrones Quotes",
+    "description": "Some Game of Thrones quotes",
+    "category": "Entertainment",
+    "link": "https://gameofthronesquotes.xyz/"
+  },
+  {
+    "name": "Harry Potter",
+    "description": "Harry Potter API",
+    "category": "Entertainment",
+    "link": "https://www.potterapi.com/"
+  },
+  {
+    "name": "MCU Countdown",
+    "description": "A Countdown to the next MCU Film",
+    "category": "Entertainment",
+    "link": "https://github.com/DiljotSG/MCU-Countdown"
+  },
+  {
+    "name": "Movie Quote",
+    "description": "Random Movie and Series Quotes",
+    "category": "Entertainment",
+    "link": "https://github.com/F4R4N/movie-quote/"
+  },
+  {
+    "name": "Open Movie Database",
+    "description": "Movie information",
+    "category": "Entertainment",
+    "link": "http://www.omdbapi.com/"
+  },
+  {
+    "name": "Ron Swanson Quotes",
+    "description": "Television",
+    "category": "Entertainment",
+    "link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api"
+  },
+  {
+    "name": "STAPI",
+    "description": "Information on all things Star Trek",
+    "category": "Entertainment",
+    "link": "http://stapi.co"
+  },
+  {
+    "name": "SWAPI",
+    "description": "All the Star Wars data you've ever wanted",
+    "category": "Entertainment",
+    "link": "https://swapi.dev/"
+  },
+  {
+    "name": "SWAPI",
+    "description": "All things Star Wars",
+    "category": "Entertainment",
+    "link": "https://www.swapi.tech"
+  },
+  {
+    "name": "The Lord of the Rings",
+    "description": "The Lord of the Rings API",
+    "category": "Entertainment",
+    "link": "https://the-one-api.dev/"
+  },
+  {
+    "name": "The Vampire Diaries",
+    "description": "TV Show Data",
+    "category": "Entertainment",
+    "link": "https://vampire-diaries-api.netlify.app/"
+  },
+  {
+    "name": "TMDb",
+    "description": "Community-based movie data",
+    "category": "Entertainment",
+    "link": "https://www.themoviedb.org/documentation/api"
+  },
+  {
+    "name": "Trakt",
+    "description": "Movie and TV Data",
+    "category": "Entertainment",
+    "link": "https://trakt.tv/b/api-docs"
+  },
+  {
+    "name": "TVDB",
+    "description": "Television data",
+    "category": "Entertainment",
+    "link": "https://api.thetvdb.com/swagger"
+  },
+  {
+    "name": "TVMaze",
+    "description": "TV Show Data",
+    "category": "Entertainment",
+    "link": "http://www.tvmaze.com/api"
+  },
+  {
+    "name": "Vimeo",
+    "description": "Vimeo Developer API",
+    "category": "Entertainment",
+    "link": "https://developer.vimeo.com/"
+  },
+  {
+    "name": "YouTube",
+    "description": "Add YouTube functionality to your sites and apps",
+    "category": "Entertainment",
+    "link": "https://developers.google.com/youtube/"
+  },
+  {
+    "name": "balldontlie",
+    "description": "Balldontlie provides access to stats data from the NBA",
     "category": "Sports",
-    "link": "https://boggio-analytics.com/fp-api/"
+    "link": "https://balldontlie.io"
   },
   {
-    "name": "The Star Wars Api",
-    "description": "All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species.",
-    "category": "Entertainment",
-    "link": "https://swapi.co/"
+    "name": "BikeWise",
+    "description": "Bikewise is a place to learn about and report bike crashes, hazards and thefts",
+    "category": "Sports",
+    "link": "https://www.bikewise.org/documentation/api_v2"
   },
   {
-    "name": "Foursquare API",
-    "description": "Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need.",
-    "category": "Search",
-    "link": "https://developer.foursquare.com/"
+    "name": "Canadian Football League (CFL)",
+    "description": "Official JSON API providing real-time league, team and player statistics about the CFL",
+    "category": "Sports",
+    "link": "CFL"
+  },
+  {
+    "name": "City Bikes",
+    "description": "City Bikes around the world",
+    "category": "Sports",
+    "link": "http://api.citybik.es/v2/"
   },
   {
     "name": "Ergast F1",
@@ -288,328 +300,2428 @@
     "link": "http://ergast.com/mrd/"
   },
   {
-    "name": "Shutterstock",
-    "description": "The Shutterstock API provides access to Shutterstock's library of media, as well as information about customers' accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media.",
-    "category": "Miscellaneous",
-    "link": "https://www.shutterstock.com/developers/"
+    "name": "Fitbit",
+    "description": "Fitbit Information",
+    "category": "Sports",
+    "link": "https://dev.fitbit.com/"
   },
   {
-    "name": "News Feed Search",
-    "description": "Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily",
-    "category": "Search",
-    "link": "https://imbrikapi.com/"
+    "name": "Football (Soccer) Videos",
+    "description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
+    "category": "Sports",
+    "link": "Soccer"
   },
   {
-    "name": "Axolotl",
-    "description": "Collection of axolotl pictures and facts",
-    "category": "Animals",
-    "link": "https://theaxolotlapi.netlify.app/"
+    "name": "Football Prediction",
+    "description": "Predictions for upcoming football matches, odds, results and stats",
+    "category": "Sports",
+    "link": "https://boggio-analytics.com/fp-api/"
   },
   {
-    "name": "Cat Facts",
-    "description": "Daily cat facts",
-    "category": "Animals",
-    "link": "https://alexwohlbruck.github.io/cat-facts/"
+    "name": "Football-Data.org",
+    "description": "Football Data",
+    "category": "Sports",
+    "link": "http://api.football-data.org/index"
   },
   {
-    "name": "Cataas",
-    "description": "Cat as a service (cats pictures and gifs)",
-    "category": "Animals",
-    "link": "https://cataas.com/"
+    "name": "JCDecaux Bike",
+    "description": "JCDecaux's self-service bicycles",
+    "category": "Sports",
+    "link": "https://developer.jcdecaux.com/"
   },
   {
-    "name": "catAPI",
-    "description": "Random pictures of cats",
-    "category": "Animals",
-    "link": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+    "name": "MLB Records and Stats",
+    "description": "Current and historical MLB statistics",
+    "category": "Sports",
+    "link": "https://appac.github.io/mlb-data-api-docs/"
   },
   {
-    "name": "Cats",
-    "description": "Pictures of cats from Tumblr",
-    "category": "Animals",
-    "link": "https://docs.thecatapi.com/"
+    "name": "NBA Stats",
+    "description": "Current and historical NBA Statistics",
+    "category": "Sports",
+    "link": "https://any-api.com/nba_com/nba_com/docs/API_Description"
   },
   {
-    "name": "Dog Facts",
-    "description": "Random dog facts",
-    "category": "Animals",
-    "link": "https://dukengn.github.io/Dog-facts-API/"
+    "name": "NHL Records and Stats",
+    "description": "NHL historical data and statistics",
+    "category": "Sports",
+    "link": "https://gitlab.com/dword4/nhlapi"
   },
   {
-    "name": "Dogs",
-    "description": "",
-    "category": "Animals",
-    "link": "https://dog.ceo/dog-api/"
+    "name": "Sport List & Data",
+    "description": "List of and resources related to sports",
+    "category": "Sports",
+    "link": "https://developers.decathlon.com/products/sports"
   },
   {
-    "name": "HTTPCat",
-    "description": "Cat for every HTTP Status",
-    "category": "Animals",
-    "link": "https://http.cat/"
+    "name": "Strava",
+    "description": "Connect with athletes, activities and more",
+    "category": "Sports",
+    "link": "https://strava.github.io/api/"
   },
   {
-    "name": "IUCN",
-    "description": "IUCN Red List of Threatened Species",
-    "category": "Animals",
-    "link": "http://apiv3.iucnredlist.org/api/v3/docs"
+    "name": "SuredBits",
+    "description": "Query sports data, including teams, players, games, scores and statistics",
+    "category": "Sports",
+    "link": "https://suredbits.com/api/"
   },
   {
-    "name": "Movebank",
-    "description": "Movement and Migration data of animals",
-    "category": "Animals",
-    "link": "https://github.com/movebank/movebank-api-doc"
+    "name": "TheSportsDB",
+    "description": "Crowd-Sourced Sports Data and Artwork",
+    "category": "Sports",
+    "link": "https://www.thesportsdb.com/api.php"
   },
   {
-    "name": "PlaceBear",
-    "description": "Placeholder bear pictures",
-    "category": "Animals",
-    "link": "https://placebear.com/"
+    "name": "Wger",
+    "description": "Workout manager data as exercises, muscles or equipment",
+    "category": "Sports",
+    "link": "https://wger.de/en/software/api"
   },
   {
-    "name": "PlaceDog",
-    "description": "Placeholder Dog pictures",
-    "category": "Animals",
-    "link": "https://place.dog"
+    "name": "4chan",
+    "description": "Simple image-based bulletin board dedicated to a variety of topics",
+    "category": "Social Media",
+    "link": "https://github.com/4chan/4chan-API"
   },
   {
-    "name": "RandomCat",
-    "description": "Random pictures of cats",
-    "category": "Animals",
-    "link": "https://aws.random.cat/meow"
+    "name": "Buffer",
+    "description": "Access to pending and sent updates in Buffer",
+    "category": "Social Media",
+    "link": "https://buffer.com/developers/api"
   },
   {
-    "name": "RandomDog",
-    "description": "Random pictures of dogs",
-    "category": "Animals",
-    "link": "https://random.dog/woof.json"
+    "name": "Cisco Spark",
+    "description": "Team Collaboration Software",
+    "category": "Social Media",
+    "link": "https://developer.ciscospark.com"
   },
   {
-    "name": "RandomFox",
-    "description": "Random pictures of foxes",
-    "category": "Animals",
-    "link": "https://randomfox.ca/floof/"
+    "name": "Discord",
+    "description": "Make bots for Discord, integrate Discord onto an external platform",
+    "category": "Social Media",
+    "link": "https://discord.com/developers/docs/intro"
   },
   {
-    "name": "RescueGroups",
-    "description": "Adoption",
-    "category": "Animals",
-    "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+    "name": "Disqus",
+    "description": "Communicate with Disqus data",
+    "category": "Social Media",
+    "link": "https://disqus.com/api/docs/auth/"
   },
   {
-    "name": "Shibe.Online",
-    "description": "Random pictures of Shiba Inu, cats or birds",
-    "category": "Animals",
-    "link": "http://shibe.online/"
+    "name": "Facebook",
+    "description": "Facebook Login, Share on FB, Social Plugins, Analytics and more",
+    "category": "Social Media",
+    "link": "https://developers.facebook.com/"
   },
   {
-    "name": "Axolotl",
-    "description": "Collection of axolotl pictures and facts",
-    "category": "Animals",
-    "link": "https://theaxolotlapi.netlify.app/"
+    "name": "Foursquare",
+    "description": "Interact with Foursquare users and places geolocation-based checkins, photos, tips, events, etc",
+    "category": "Social Media",
+    "link": "https://developer.foursquare.com/"
   },
   {
-    "name": "Cat Facts",
-    "description": "Daily cat facts",
-    "category": "Animals",
-    "link": "https://alexwohlbruck.github.io/cat-facts/"
+    "name": "Fuck Off as a Service",
+    "description": "Asks someone to fuck off",
+    "category": "Social Media",
+    "link": "https://www.foaas.com"
   },
   {
-    "name": "Cataas",
-    "description": "Cat as a service (cats pictures and gifs)",
-    "category": "Animals",
-    "link": "https://cataas.com/"
+    "name": "Full Contact",
+    "description": "Get Social Media profiles and contact Information",
+    "category": "Social Media",
+    "link": "https://www.fullcontact.com/developer/docs/"
   },
   {
-    "name": "catAPI",
-    "description": "Random pictures of cats",
-    "category": "Animals",
-    "link": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+    "name": "HackerNews",
+    "description": "Social news for CS and entrepreneurship",
+    "category": "Social Media",
+    "link": "https://github.com/HackerNews/API"
   },
   {
-    "name": "Cats",
-    "description": "Pictures of cats from Tumblr",
-    "category": "Animals",
-    "link": "https://docs.thecatapi.com/"
+    "name": "Instagram",
+    "description": "Instagram Login, Share on Instagram, Social Plugins and more",
+    "category": "Social Media",
+    "link": "https://www.instagram.com/developer/"
   },
   {
-    "name": "Dog Facts",
-    "description": "Random dog facts",
-    "category": "Animals",
-    "link": "https://dukengn.github.io/Dog-facts-API/"
+    "name": "Meetup.com",
+    "description": "Data about Meetups from Meetup.com",
+    "category": "Social Media",
+    "link": "https://www.meetup.com/meetup_api/"
   },
   {
-    "name": "Dogs",
-    "description": "",
-    "category": "Animals",
-    "link": "https://dog.ceo/dog-api/"
+    "name": "MySocialApp",
+    "description": "Seamless Social Networking features, API, SDK to any app",
+    "category": "Social Media",
+    "link": "https://mysocialapp.io"
   },
   {
-    "name": "HTTPCat",
-    "description": "Cat for every HTTP Status",
-    "category": "Animals",
-    "link": "https://http.cat/"
+    "name": "Open Collective",
+    "description": "Get Open Collective data",
+    "category": "Social Media",
+    "link": "https://docs.opencollective.com/help/developers/api"
   },
   {
-    "name": "IUCN",
-    "description": "IUCN Red List of Threatened Species",
-    "category": "Animals",
-    "link": "http://apiv3.iucnredlist.org/api/v3/docs"
+    "name": "Pinterest",
+    "description": "The world's catalog of ideas",
+    "category": "Social Media",
+    "link": "https://developers.pinterest.com/"
   },
   {
-    "name": "Movebank",
-    "description": "Movement and Migration data of animals",
-    "category": "Animals",
-    "link": "https://github.com/movebank/movebank-api-doc"
+    "name": "Reddit",
+    "description": "Homepage of the internet",
+    "category": "Social Media",
+    "link": "https://www.reddit.com/dev/api"
   },
   {
-    "name": "PlaceBear",
-    "description": "Placeholder bear pictures",
-    "category": "Animals",
-    "link": "https://placebear.com/"
+    "name": "Saidit",
+    "description": "Open Source Reddit Clone",
+    "category": "Social Media",
+    "link": "https://www.saidit.net/dev/api"
   },
   {
-    "name": "PlaceDog",
-    "description": "Placeholder Dog pictures",
-    "category": "Animals",
-    "link": "https://place.dog"
+    "name": "Slack",
+    "description": "Team Instant Messaging",
+    "category": "Social Media",
+    "link": "https://api.slack.com/"
   },
   {
-    "name": "RandomCat",
-    "description": "Random pictures of cats",
-    "category": "Animals",
-    "link": "https://aws.random.cat/meow"
+    "name": "Telegram Bot",
+    "description": "Simplified HTTP version of the MTProto API for bots",
+    "category": "Social Media",
+    "link": "https://core.telegram.org/bots/api"
   },
   {
-    "name": "RandomDog",
-    "description": "Random pictures of dogs",
-    "category": "Animals",
-    "link": "https://random.dog/woof.json"
+    "name": "Telegram MTProto",
+    "description": "Read and write Telegram data",
+    "category": "Social Media",
+    "link": "https://core.telegram.org/api#getting-started"
   },
   {
-    "name": "RandomFox",
-    "description": "Random pictures of foxes",
-    "category": "Animals",
-    "link": "https://randomfox.ca/floof/"
+    "name": "Trash Nothing",
+    "description": "A freecycling community with thousands of free items posted every day",
+    "category": "Social Media",
+    "link": "https://trashnothing.com/developer"
   },
   {
-    "name": "RescueGroups",
-    "description": "Adoption",
-    "category": "Animals",
-    "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+    "name": "Tumblr",
+    "description": "Read and write Tumblr Data",
+    "category": "Social Media",
+    "link": "https://www.tumblr.com/docs/en/api/v2"
   },
   {
-    "name": "Shibe.Online",
-    "description": "Random pictures of Shiba Inu, cats or birds",
-    "category": "Animals",
-    "link": "http://shibe.online/"
+    "name": "Twitch",
+    "description": "Game Streaming API",
+    "category": "Social Media",
+    "link": "https://dev.twitch.tv/docs"
   },
   {
-    "name": "AniAPI",
-    "description": "Anime discovery, streaming & syncing with trackers",
-    "category": "Anime",
-    "link": "https://github.com/AniAPI-Team/AniAPI"
+    "name": "Twitter",
+    "description": "Read and write Twitter data",
+    "category": "Social Media",
+    "link": "https://developer.twitter.com/en/docs"
   },
   {
-    "name": "AniList",
-    "description": "Anime discovery & tracking",
-    "category": "Anime",
-    "link": "https://github.com/AniList/ApiV2-GraphQL-Docs"
+    "name": "vk",
+    "description": "Read and write vk data",
+    "category": "Social Media",
+    "link": "https://vk.com/dev/sites"
   },
   {
-    "name": "AnimeChan",
-    "description": "Anime quotes (over 10k+)",
-    "category": "Anime",
-    "link": "https://github.com/RocktimSaikia/anime-chan"
+    "name": "Best Buy",
+    "description": "Products, Buying Options, Categories, Recommendations, Stores and Commerce",
+    "category": "Shopping",
+    "link": "https://bestbuyapis.github.io/api-documentation/#overview"
   },
   {
-    "name": "AnimeNewsNetwork",
-    "description": "Anime industry news",
-    "category": "Anime",
-    "link": "https://www.animenewsnetwork.com/encyclopedia/api.php"
+    "name": "Bratabase",
+    "description": "Database of different types of Bra Sizes",
+    "category": "Shopping",
+    "link": "https://developers.bratabase.com/"
   },
   {
-    "name": "Jikan",
-    "description": "Unofficial MyAnimeList API",
-    "category": "Anime",
-    "link": "https://jikan.moe"
+    "name": "Dummy Products",
+    "description": "An api to fetch dummy e-commerce products JSON data with placeholder images",
+    "category": "Shopping",
+    "link": "https://dummyproducts-api.herokuapp.com/"
   },
   {
-    "name": "Kitsu",
-    "description": "Anime discovery platform",
-    "category": "Anime",
-    "link": "https://kitsu.docs.apiary.io/"
+    "name": "eBay",
+    "description": "Sell and Buy on eBay",
+    "category": "Shopping",
+    "link": "https://go.developer.ebay.com/"
   },
   {
-    "name": "MyAnimeList",
-    "description": "cid=13727) | ",
-    "category": "Anime",
-    "link": "https://myanimelist.net/clubs.php?cid=13727"
+    "name": "Etsy",
+    "description": "Manage shop and interact with listings",
+    "category": "Shopping",
+    "link": "https://www.etsy.com/developers/documentation/getting_started/api_basics"
   },
   {
-    "name": "Shikimori",
-    "description": "Anime discovery, tracking, forum, rates",
-    "category": "Anime",
-    "link": "https://shikimori.one/api/doc"
+    "name": "Wal-Mart",
+    "description": "Item price and availability",
+    "category": "Shopping",
+    "link": "https://developer.walmartlabs.com/docs"
   },
   {
-    "name": "Studio Ghibli",
-    "description": "Resources from Studio Ghibli films",
-    "category": "Anime",
-    "link": "https://ghibliapi.herokuapp.com"
+    "name": "Wegmans",
+    "description": "Wegmans Food Markets",
+    "category": "Shopping",
+    "link": "https://dev.wegmans.io"
   },
   {
-    "name": "Waifu.pics",
-    "description": "Image sharing platform for anime images",
-    "category": "Anime",
-    "link": "https://waifu.pics/docs"
+    "name": "arcsecond.io",
+    "description": "Multiple astronomy data sources",
+    "category": "Science and Maths",
+    "link": "https://api.arcsecond.io/"
   },
   {
-    "name": "What Anime",
-    "description": "Scan anime image to get specific detail",
-    "category": "Anime",
-    "link": "https://soruly.github.io/trace.moe/"
+    "name": "arXiv",
+    "description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
+    "category": "Science and Maths",
+    "link": "https://arxiv.org/help/api/user-manual"
   },
   {
-    "name": "AbuseIPDB",
-    "description": "IP/domain/URL reputation",
-    "category": "Anti-Malware",
-    "link": "https://docs.abuseipdb.com/"
+    "name": "CORE",
+    "description": "Access the world's Open Access research papers",
+    "category": "Science and Maths",
+    "link": "https://core.ac.uk/services#api"
   },
   {
-    "name": "AlienVault Open Threat Exchange (OTX)",
-    "description": "IP/domain/URL reputation",
-    "category": "Anti-Malware",
-    "link": "OTX"
+    "name": "GBIF",
+    "description": "Global Biodiversity Information Facility",
+    "category": "Science and Maths",
+    "link": "https://www.gbif.org/developer/summary"
   },
   {
-    "name": "Google Safe Browsing",
-    "description": "Google Link/Domain Flagging",
-    "category": "Anti-Malware",
-    "link": "https://developers.google.com/safe-browsing/"
+    "name": "hubblesite",
+    "description": "Space Telescope News Releases",
+    "category": "Science and Maths",
+    "link": "https://hubblesite.org/api/documentation/"
   },
   {
-    "name": "Metacert",
-    "description": "Metacert Link Flagging",
-    "category": "Anti-Malware",
-    "link": "https://metacert.com/"
+    "name": "iDigBio",
+    "description": "Access millions of museum specimens from organizations around the world",
+    "category": "Science and Maths",
+    "link": "https://github.com/idigbio/idigbio-search-api/wiki"
   },
   {
-    "name": "URLhaus",
-    "description": "Bulk queries and Download Malware Samples",
-    "category": "Anti-Malware",
-    "link": "https://urlhaus-api.abuse.ch/"
+    "name": "inspirehep.net",
+    "description": "High Energy Physics info. system",
+    "category": "Science and Maths",
+    "link": "https://github.com/inspirehep/rest-api-doc"
   },
   {
-    "name": "URLScan.io",
-    "description": "Scan and Analyse URLs",
-    "category": "Anti-Malware",
-    "link": "https://urlscan.io/about-api/"
+    "name": "isEven (humor)",
+    "description": "Check if a number is even",
+    "category": "Science and Maths",
+    "link": "humor"
   },
   {
-    "name": "VirusTotal",
-    "description": "VirusTotal File/URL Analysis",
-    "category": "Anti-Malware",
-    "link": "https://www.virustotal.com/en/documentation/public-api/"
+    "name": "ITIS",
+    "description": "Integrated Taxonomic Information System",
+    "category": "Science and Maths",
+    "link": "https://www.itis.gov/ws_description.html"
+  },
+  {
+    "name": "Launch Library 2",
+    "description": "Spaceflight launches and events database",
+    "category": "Science and Maths",
+    "link": "https://thespacedevs.com/llapi"
+  },
+  {
+    "name": "Materials Platform for Data Science",
+    "description": "Curated experimental data for materials science",
+    "category": "Science and Maths",
+    "link": "https://mpds.io"
+  },
+  {
+    "name": "Minor Planet Center",
+    "description": "Asterank.com Information",
+    "category": "Science and Maths",
+    "link": "http://www.asterank.com/mpc"
+  },
+  {
+    "name": "NASA",
+    "description": "NASA data, including imagery",
+    "category": "Science and Maths",
+    "link": "https://api.nasa.gov"
+  },
+  {
+    "name": "NASA APOD (official API)",
+    "description": "api_key=DEMO_KEY) | ",
+    "category": "Science and Maths",
+    "link": "official API"
+  },
+  {
+    "name": "NASA APOD (unofficial API)",
+    "description": "API for getting Astronomy Image of the Day images along with metadata",
+    "category": "Science and Maths",
+    "link": "unofficial API"
+  },
+  {
+    "name": "Newton",
+    "description": "Symbolic and Arithmetic Math Calculator",
+    "category": "Science and Maths",
+    "link": "https://newton.now.sh/"
+  },
+  {
+    "name": "Numbers",
+    "description": "Number of the day, random number, number facts and anything else you want to do with numbers",
+    "category": "Science and Maths",
+    "link": "https://math.tools/api/numbers/"
+  },
+  {
+    "name": "Numbers",
+    "description": "Facts about numbers",
+    "category": "Science and Maths",
+    "link": "http://numbersapi.com"
+  },
+  {
+    "name": "Open Notify",
+    "description": "ISS astronauts, current location, etc",
+    "category": "Science and Maths",
+    "link": "http://open-notify.org/Open-Notify-API/"
+  },
+  {
+    "name": "Open Science Framework",
+    "description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
+    "category": "Science and Maths",
+    "link": "https://developer.osf.io"
+  },
+  {
+    "name": "Purple Air",
+    "description": "Real Time Air Quality Monitoring",
+    "category": "Science and Maths",
+    "link": "https://www2.purpleair.com/"
+  },
+  {
+    "name": "Satellite Passes",
+    "description": "Query next satellite passes above you",
+    "category": "Science and Maths",
+    "link": "https://satellites.fly.dev"
+  },
+  {
+    "name": "SHARE",
+    "description": "A free, open, dataset about research and scholarly activities",
+    "category": "Science and Maths",
+    "link": "https://share.osf.io/api/v2/"
+  },
+  {
+    "name": "SpaceX",
+    "description": "Company, vehicle, launchpad and launch data",
+    "category": "Science and Maths",
+    "link": "https://github.com/r-spacex/SpaceX-API"
+  },
+  {
+    "name": "Sunrise and Sunset",
+    "description": "Sunset and sunrise times for a given latitude and longitude",
+    "category": "Science and Maths",
+    "link": "https://sunrise-sunset.org/api"
+  },
+  {
+    "name": "USGS Earthquake Hazards Program",
+    "description": "Earthquakes data real-time",
+    "category": "Science and Maths",
+    "link": "https://earthquake.usgs.gov/fdsnws/event/1/"
+  },
+  {
+    "name": "USGS Water Services",
+    "description": "Water quality and level info for rivers and lakes",
+    "category": "Science and Maths",
+    "link": "https://waterservices.usgs.gov/"
+  },
+  {
+    "name": "World Bank",
+    "description": "World Data",
+    "category": "Science and Maths",
+    "link": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589"
+  },
+  {
+    "name": "7digital",
+    "description": "Api of Music store 7digital",
+    "category": "Music",
+    "link": "https://docs.7digital.com/reference"
+  },
+  {
+    "name": "AI Mastering",
+    "description": "Automated Music Mastering",
+    "category": "Music",
+    "link": "https://aimastering.com/api_docs/"
+  },
+  {
+    "name": "Apple Music",
+    "description": "Official API of the music streaming site Apple Music",
+    "category": "Music",
+    "link": "https://developer.apple.com/documentation/applemusicapi/"
+  },
+  {
+    "name": "Audiomack",
+    "description": "Api of the streaming music hub Audiomack",
+    "category": "Music",
+    "link": "https://www.audiomack.com/data-api/docs"
+  },
+  {
+    "name": "Bandcamp",
+    "description": "API of Music store Bandcamp",
+    "category": "Music",
+    "link": "https://bandcamp.com/developer"
+  },
+  {
+    "name": "Bandsintown",
+    "description": "Music Events",
+    "category": "Music",
+    "link": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0"
+  },
+  {
+    "name": "BlipFm",
+    "description": "Api of BlipFm",
+    "category": "Music",
+    "link": "http://api.blip.fm/"
+  },
+  {
+    "name": "Deezer",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://developers.deezer.com/api"
+  },
+  {
+    "name": "Discogs",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://www.discogs.com/developers/"
+  },
+  {
+    "name": "Freesound",
+    "description": "Music Samples",
+    "category": "Music",
+    "link": "https://freesound.org/docs/api/"
+  },
+  {
+    "name": "Genius",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "category": "Music",
+    "link": "https://docs.genius.com/"
+  },
+  {
+    "name": "Genrenator",
+    "description": "Music genre generator",
+    "category": "Music",
+    "link": "https://binaryjazz.us/genrenator-api/"
+  },
+  {
+    "name": "iTunes Search",
+    "description": "Software products",
+    "category": "Music",
+    "link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/"
+  },
+  {
+    "name": "Jamendo",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://developer.jamendo.com/v3.0/docs"
+  },
+  {
+    "name": "JioSaavn",
+    "description": "API to retrive song information, album meta data and many more from JioSaavn",
+    "category": "Music",
+    "link": "https://github.com/cyberboysumanjay/JioSaavnAPI"
+  },
+  {
+    "name": "KKBOX",
+    "description": "Get music libraries, playlists, charts, and perform out of KKBOX's platform",
+    "category": "Music",
+    "link": "https://developer.kkbox.com"
+  },
+  {
+    "name": "KSoft.Si Lyrics",
+    "description": "API to get lyrics for songs",
+    "category": "Music",
+    "link": "https://docs.ksoft.si/api/lyrics-api"
+  },
+  {
+    "name": "LastFm",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://www.last.fm/api"
+  },
+  {
+    "name": "Lyrics.ovh",
+    "description": "Simple API to retrieve the lyrics of a song",
+    "category": "Music",
+    "link": "http://docs.lyricsovh.apiary.io/"
+  },
+  {
+    "name": "Mixcloud",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://www.mixcloud.com/developers/"
+  },
+  {
+    "name": "MusicBrainz",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2"
+  },
+  {
+    "name": "Musixmatch",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://developer.musixmatch.com/"
+  },
+  {
+    "name": "Openwhyd",
+    "description": "Download curated playlists of streaming tracks YouTube, SoundCloud, etc...",
+    "category": "Music",
+    "link": "https://openwhyd.github.io/openwhyd/API"
+  },
+  {
+    "name": "Songkick",
+    "description": "Music Events",
+    "category": "Music",
+    "link": "https://www.songkick.com/developer/"
+  },
+  {
+    "name": "Songsterr",
+    "description": "Provides guitar, bass and drums tabs and chords",
+    "category": "Music",
+    "link": "https://www.songsterr.com/a/wa/api/"
+  },
+  {
+    "name": "SoundCloud",
+    "description": "Allow users to upload and share sounds",
+    "category": "Music",
+    "link": "https://developers.soundcloud.com/"
+  },
+  {
+    "name": "Spotify",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "category": "Music",
+    "link": "https://beta.developer.spotify.com/documentation/web-api/"
+  },
+  {
+    "name": "TasteDive",
+    "description": "Similar artist API (also works for movies and TV shows)",
+    "category": "Music",
+    "link": "https://tastedive.com/read/api"
+  },
+  {
+    "name": "TheAudioDB",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://www.theaudiodb.com/api_guide.php"
+  },
+  {
+    "name": "Vagalume",
+    "description": "Crowdsourced lyrics and music knowledge",
+    "category": "Music",
+    "link": "https://api.vagalume.com.br/docs/"
+  },
+  {
+    "name": "Abstract IP Geolocation",
+    "description": "Geolocate website visitors from their IPs",
+    "category": "Location",
+    "link": "https://www.abstractapi.com/ip-geolocation-api"
+  },
+  {
+    "name": "adresse.data.gouv.fr",
+    "description": "Address database of France, geocoding and reverse",
+    "category": "Location",
+    "link": "https://adresse.data.gouv.fr"
+  },
+  {
+    "name": "Airtel IP",
+    "description": "full=true) | ",
+    "category": "Location",
+    "link": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true"
+  },
+  {
+    "name": "apilayer ipstack",
+    "description": "Locate and identify website visitors by IP address",
+    "category": "Location",
+    "link": "https://ipstack.com/"
+  },
+  {
+    "name": "Battuta",
+    "description": "A country/region/city in-cascade location API",
+    "category": "Location",
+    "link": "http://battuta.medunes.net"
+  },
+  {
+    "name": "BigDataCloud",
+    "description": "Provides fast and accurate IP geolocation APIs along with security checks and confidence area",
+    "category": "Location",
+    "link": "https://www.bigdatacloud.com/ip-geolocation-apis"
+  },
+  {
+    "name": "Bing Maps",
+    "description": "Create/customize digital maps based on Bing Maps data",
+    "category": "Location",
+    "link": "https://www.microsoft.com/maps/"
+  },
+  {
+    "name": "bng2latlong",
+    "description": "Convert British OSGB36 easting and northing British National Grid to WGS84 latitude and longitude",
+    "category": "Location",
+    "link": "https://www.getthedata.com/bng2latlong"
+  },
+  {
+    "name": "Cartes.io",
+    "description": "Create maps and markers for anything",
+    "category": "Location",
+    "link": "https://github.com/M-Media-Group/Cartes.io/wiki/API"
+  },
+  {
+    "name": "Cep.la",
+    "description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
+    "category": "Location",
+    "link": "http://cep.la/"
+  },
+  {
+    "name": "CitySDK",
+    "description": "Open APIs for select European cities",
+    "category": "Location",
+    "link": "http://www.citysdk.eu/citysdk-toolkit/"
+  },
+  {
+    "name": "Country",
+    "description": "Get your visitors' country from their IP",
+    "category": "Location",
+    "link": "http://country.is/"
+  },
+  {
+    "name": "CountryStateCity",
+    "description": "World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",
+    "category": "Location",
+    "link": "https://countrystatecity.in/"
+  },
+  {
+    "name": "Daum Maps",
+    "description": "Daum Maps provide multiple APIs for Korean maps",
+    "category": "Location",
+    "link": "http://apis.map.daum.net/"
+  },
+  {
+    "name": "FreeGeoIP",
+    "description": "Free geo ip information, no registration required. 15k/hour rate limit",
+    "category": "Location",
+    "link": "https://freegeoip.app/"
+  },
+  {
+    "name": "GeoApi",
+    "description": "French geographical data",
+    "category": "Location",
+    "link": "https://api.gouv.fr/api/geoapi.html"
+  },
+  {
+    "name": "Geoapify",
+    "description": "Forward and reverse geocoding, address autocomplete",
+    "category": "Location",
+    "link": "https://www.geoapify.com/api/geocoding-api/"
+  },
+  {
+    "name": "Geocod.io",
+    "description": "Address geocoding / reverse geocoding in bulk",
+    "category": "Location",
+    "link": "https://www.geocod.io/"
+  },
+  {
+    "name": "Geocode.xyz",
+    "description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
+    "category": "Location",
+    "link": "https://geocode.xyz/api"
+  },
+  {
+    "name": "Geocodify.com",
+    "description": "Worldwide geocoding, geoparsing and autocomplete for addresses",
+    "category": "Location",
+    "link": "https://geocodify.com/"
+  },
+  {
+    "name": "Geocoding.ai",
+    "description": "Provides worldwide forward / reverse geocoding",
+    "category": "Location",
+    "link": "https://nominatim.geocoding.ai/"
+  },
+  {
+    "name": "GeoDataSource",
+    "description": "Geocoding of city name by using latitude and longitude coordinates",
+    "category": "Location",
+    "link": "https://www.geodatasource.com/web-service"
+  },
+  {
+    "name": "GeoJS",
+    "description": "IP geolocation with ChatOps integration",
+    "category": "Location",
+    "link": "https://geojs.io/"
+  },
+  {
+    "name": "GeoNames",
+    "description": "Place names and other geographical data",
+    "category": "Location",
+    "link": "http://www.geonames.org/export/web-services.html"
+  },
+  {
+    "name": "geoPlugin",
+    "description": "IP geolocation and currency conversion",
+    "category": "Location",
+    "link": "https://www.geoplugin.com"
+  },
+  {
+    "name": "Google Earth Engine",
+    "description": "A cloud-based platform for planetary-scale environmental data analysis",
+    "category": "Location",
+    "link": "https://developers.google.com/earth-engine/"
+  },
+  {
+    "name": "Google Maps",
+    "description": "Create/customize digital maps based on Google Maps data",
+    "category": "Location",
+    "link": "https://developers.google.com/maps/"
+  },
+  {
+    "name": "Graph Countries",
+    "description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
+    "category": "Location",
+    "link": "https://github.com/lennertVanSever/graphcountries"
+  },
+  {
+    "name": "HelloSalut",
+    "description": "Get hello translation following user language",
+    "category": "Location",
+    "link": "https://www.fourtonfish.com/hellosalut/hello/"
+  },
+  {
+    "name": "HERE Maps",
+    "description": "Create/customize digital maps based on HERE Maps data",
+    "category": "Location",
+    "link": "https://developer.here.com"
+  },
+  {
+    "name": "Hong Kong GeoData Store",
+    "description": "API for accessing geo-data of Hong Kong",
+    "category": "Location",
+    "link": "https://geodata.gov.hk/gs/"
+  },
+  {
+    "name": "IP 2 Country",
+    "description": "Map an IP to a country",
+    "category": "Location",
+    "link": "https://ip2country.info"
+  },
+  {
+    "name": "IP Address Details",
+    "description": "Find geolocation with ip address",
+    "category": "Location",
+    "link": "https://ipinfo.io/"
+  },
+  {
+    "name": "IP Location",
+    "description": "Find IP address location information",
+    "category": "Location",
+    "link": "https://ipapi.co/api/#introduction"
+  },
+  {
+    "name": "IP Location",
+    "description": "Find location with ip address",
+    "category": "Location",
+    "link": "https://ip-api.com/docs"
+  },
+  {
+    "name": "IP Sidekick",
+    "description": "Geolocation API that returns extra information about an IP address",
+    "category": "Location",
+    "link": "https://ipsidekick.com"
+  },
+  {
+    "name": "IP Vigilante",
+    "description": "Free IP Geolocation API",
+    "category": "Location",
+    "link": "https://www.ipvigilante.com/"
+  },
+  {
+    "name": "IP2Location",
+    "description": "IP geolocation web service to get more than 55 parameters",
+    "category": "Location",
+    "link": "https://www.ip2location.com/web-service/ip2location"
+  },
+  {
+    "name": "IP2Proxy",
+    "description": "Detect proxy and VPN using IP address",
+    "category": "Location",
+    "link": "https://www.ip2location.com/web-service/ip2proxy"
+  },
+  {
+    "name": "ipapi",
+    "description": "Real-time Geolocation & Reverse IP Lookup REST API",
+    "category": "Location",
+    "link": "https://ipapi.com/"
+  },
+  {
+    "name": "IPGEO",
+    "description": "Unlimited free IP Address API with useful information",
+    "category": "Location",
+    "link": "https://api.techniknews.net/ipgeo/"
+  },
+  {
+    "name": "IPGeolocationAPI.com",
+    "description": "Locate your visitors by IP with country details",
+    "category": "Location",
+    "link": "https://ipgeolocationapi.com/"
+  },
+  {
+    "name": "IPInfoDB",
+    "description": "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",
+    "category": "Location",
+    "link": "https://ipinfodb.com/api"
+  },
+  {
+    "name": "Localizr",
+    "description": "Get a list of countries,currencies or locales translated from a locale/language code",
+    "category": "Location",
+    "link": "https://docs.localizr.xyz"
+  },
+  {
+    "name": "LocationIQ",
+    "description": "Provides forward/reverse geocoding and batch geocoding",
+    "category": "Location",
+    "link": "https://locationiq.org/docs/"
+  },
+  {
+    "name": "Mapbox",
+    "description": "Create/customize beautiful digital maps",
+    "category": "Location",
+    "link": "https://www.mapbox.com/developers/"
+  },
+  {
+    "name": "Mexico",
+    "description": "Mexico RESTful zip codes API",
+    "category": "Location",
+    "link": "https://github.com/IcaliaLabs/sepomex"
+  },
+  {
+    "name": "One Map, Singapore",
+    "description": "Singapore Land Authority REST API services for Singapore addresses",
+    "category": "Location",
+    "link": "https://docs.onemap.sg/"
+  },
+  {
+    "name": "OnWater",
+    "description": "Determine if a lat/lon is on water or land",
+    "category": "Location",
+    "link": "https://onwater.io/"
+  },
+  {
+    "name": "Open Topo Data",
+    "description": "Elevation and ocean depth for a latitude and longitude",
+    "category": "Location",
+    "link": "https://www.opentopodata.org"
+  },
+  {
+    "name": "OpenCage",
+    "description": "Forward and reverse geocoding using open data",
+    "category": "Location",
+    "link": "https://opencagedata.com"
+  },
+  {
+    "name": "openrouteservice.org",
+    "description": "Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",
+    "category": "Location",
+    "link": "https://openrouteservice.org/"
+  },
+  {
+    "name": "OpenStreetMap",
+    "description": "Navigation, geolocation and geographical data",
+    "category": "Location",
+    "link": "http://wiki.openstreetmap.org/wiki/API"
+  },
+  {
+    "name": "positionstack",
+    "description": "Forward & Reverse Batch Geocoding REST API",
+    "category": "Location",
+    "link": "https://positionstack.com/"
+  },
+  {
+    "name": "PostcodeData.nl",
+    "description": "postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | ",
+    "category": "Location",
+    "link": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json"
+  },
+  {
+    "name": "Postcodes.io",
+    "description": "Postcode lookup & Geolocation for the UK",
+    "category": "Location",
+    "link": "https://postcodes.io"
+  },
+  {
+    "name": "REST Countries",
+    "description": "Get information about countries via a RESTful API",
+    "category": "Location",
+    "link": "https://restcountries.eu"
+  },
+  {
+    "name": "RoadGoat Cities",
+    "description": "Cities content & photos API",
+    "category": "Location",
+    "link": "https://www.roadgoat.com/business/cities-api"
+  },
+  {
+    "name": "SpotSense",
+    "description": "Add location based interactions to your mobile app",
+    "category": "Location",
+    "link": "https://www.spotsense.io"
+  },
+  {
+    "name": "Uebermaps",
+    "description": "Discover and share maps with friends",
+    "category": "Location",
+    "link": "https://uebermaps.com/api/v2"
+  },
+  {
+    "name": "US ZipCode",
+    "description": "Validate and append data for any US ZipCode",
+    "category": "Location",
+    "link": "https://smartystreets.com/docs/cloud/us-zipcode-api"
+  },
+  {
+    "name": "Utah AGRC",
+    "description": "Utah Web API for geocoding Utah addresses",
+    "category": "Location",
+    "link": "https://api.mapserv.utah.gov"
+  },
+  {
+    "name": "ViaCep",
+    "description": "Brazil RESTful zip codes API",
+    "category": "Location",
+    "link": "https://viacep.com.br"
+  },
+  {
+    "name": "ZipCodeAPI",
+    "description": "US zip code distance, radius and location API",
+    "category": "Location",
+    "link": "https://www.zipcodeapi.com"
+  },
+  {
+    "name": "Zippopotam.us",
+    "description": "Get information about place such as country, city, state, etc",
+    "category": "Location",
+    "link": "http://www.zippopotam.us"
+  },
+  {
+    "name": "Ziptastic",
+    "description": "Get the country, state, and city of any US zip-code",
+    "category": "Location",
+    "link": "https://ziptasticapi.com/"
+  },
+  {
+    "name": "Age of Empires II",
+    "description": "Get information about Age of Empires II resources",
+    "category": "Entertainment",
+    "link": "https://age-of-empires-2-api.herokuapp.com"
+  },
+  {
+    "name": "AmiiboAPI",
+    "description": "Nintendo Amiibo Information",
+    "category": "Entertainment",
+    "link": "https://amiiboapi.com/"
+  },
+  {
+    "name": "Animal Crossing: New Horizons",
+    "description": "API for critters, fossils, art, music, furniture and villagers",
+    "category": "Entertainment",
+    "link": "http://acnhapi.com/"
+  },
+  {
+    "name": "Autochess VNG",
+    "description": "Rest Api for Autochess VNG",
+    "category": "Entertainment",
+    "link": "https://github.com/didadadida93/autochess-vng-api"
+  },
+  {
+    "name": "Barter.VG",
+    "description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
+    "category": "Entertainment",
+    "link": "https://github.com/bartervg/barter.vg/wiki"
+  },
+  {
+    "name": "Board Game Geek",
+    "description": "Board games, RPG and videogames",
+    "category": "Entertainment",
+    "link": "https://boardgamegeek.com/wiki/page/BGG_XML_API2"
+  },
+  {
+    "name": "Brawl Stars",
+    "description": "Brawl Stars Game Information",
+    "category": "Entertainment",
+    "link": "https://developer.brawlstars.com"
+  },
+  {
+    "name": "CheapShark",
+    "description": "Steam/PC Game Prices and Deals",
+    "category": "Entertainment",
+    "link": "https://www.cheapshark.com/api"
+  },
+  {
+    "name": "Chuck Norris Database",
+    "description": "Jokes",
+    "category": "Entertainment",
+    "link": "http://www.icndb.com/api/"
+  },
+  {
+    "name": "Clash of Clans",
+    "description": "Clash of Clans Game Information",
+    "category": "Entertainment",
+    "link": "https://developer.clashofclans.com"
+  },
+  {
+    "name": "Clash Royale",
+    "description": "Clash Royale Game Information",
+    "category": "Entertainment",
+    "link": "https://developer.clashroyale.com"
+  },
+  {
+    "name": "Comic Vine",
+    "description": "Comics",
+    "category": "Entertainment",
+    "link": "https://comicvine.gamespot.com/api/documentation"
+  },
+  {
+    "name": "Dark Souls 3",
+    "description": "Information about Dark Souls 3 Items",
+    "category": "Entertainment",
+    "link": "https://blog.mugenmonkey.com/2017/09/10/ds3-api.html"
+  },
+  {
+    "name": "Deck of Cards",
+    "description": "Deck of Cards",
+    "category": "Entertainment",
+    "link": "http://deckofcardsapi.com/"
+  },
+  {
+    "name": "Destiny The Game",
+    "description": "Bungie Platform API",
+    "category": "Entertainment",
+    "link": "https://github.com/Bungie-net/api"
+  },
+  {
+    "name": "Dota 2",
+    "description": "Provides information about Player stats , Match stats, Rankings for Dota 2",
+    "category": "Entertainment",
+    "link": "https://docs.opendota.com/"
+  },
+  {
+    "name": "Dungeons and Dragons",
+    "description": "Reference for 5th edition spells, classes, monsters, and more",
+    "category": "Entertainment",
+    "link": "http://www.dnd5eapi.co/"
+  },
+  {
+    "name": "Eve Online",
+    "description": "Third-Party Developer Documentation",
+    "category": "Entertainment",
+    "link": "https://esi.evetech.net/ui"
+  },
+  {
+    "name": "FIFA Ultimate Team",
+    "description": "FIFA Ultimate Team items API",
+    "category": "Entertainment",
+    "link": "https://www.easports.com/fifa/ultimate-team/api/fut/item"
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "description": "Final Fantasy XIV Game data API",
+    "category": "Entertainment",
+    "link": "https://xivapi.com/"
+  },
+  {
+    "name": "Fortnite",
+    "description": "Fortnite Stats",
+    "category": "Entertainment",
+    "link": "https://fortnitetracker.com/site-api"
+  },
+  {
+    "name": "FreeToGame",
+    "description": "Free-To-Play Games Database",
+    "category": "Entertainment",
+    "link": "https://www.freetogame.com/api-doc"
+  },
+  {
+    "name": "GamerPower",
+    "description": "Game Giveaways Tracker",
+    "category": "Entertainment",
+    "link": "https://www.gamerpower.com/api-read"
+  },
+  {
+    "name": "Giant Bomb",
+    "description": "Video Games",
+    "category": "Entertainment",
+    "link": "https://www.giantbomb.com/api/documentation"
+  },
+  {
+    "name": "Guild Wars 2",
+    "description": "Guild Wars 2 Game Information",
+    "category": "Entertainment",
+    "link": "https://wiki.guildwars2.com/wiki/API:Main"
+  },
+  {
+    "name": "GW2Spidy",
+    "description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
+    "category": "Entertainment",
+    "link": "https://github.com/rubensayshi/gw2spidy/wiki"
+  },
+  {
+    "name": "Halo",
+    "description": "Halo 5 and Halo Wars 2 Information",
+    "category": "Entertainment",
+    "link": "https://developer.haloapi.com/"
+  },
+  {
+    "name": "Hearthstone",
+    "description": "Hearthstone Cards Information",
+    "category": "Entertainment",
+    "link": "http://hearthstoneapi.com/"
+  },
+  {
+    "name": "Humble Bundle",
+    "description": "Humble Bundle's current bundles",
+    "category": "Entertainment",
+    "link": "https://rapidapi.com/Ziggoto/api/humble-bundle"
+  },
+  {
+    "name": "Hypixel",
+    "description": "Hypixel player stats",
+    "category": "Entertainment",
+    "link": "https://api.hypixel.net/"
+  },
+  {
+    "name": "Hyrule Compendium",
+    "description": "Data on all interactive items from The Legend of Zelda: BOTW",
+    "category": "Entertainment",
+    "link": "https://github.com/gadhagod/Hyrule-Compendium-API"
+  },
+  {
+    "name": "Hytale",
+    "description": "Hytale blog posts and jobs",
+    "category": "Entertainment",
+    "link": "https://hytale-api.com/"
+  },
+  {
+    "name": "IGDB.com",
+    "description": "Video Game Database",
+    "category": "Entertainment",
+    "link": "https://api.igdb.com/"
+  },
+  {
+    "name": "JokeAPI",
+    "description": "Programming, Miscellaneous and Dark Jokes",
+    "category": "Entertainment",
+    "link": "https://sv443.net/jokeapi/v2/"
+  },
+  {
+    "name": "Jokes",
+    "description": "Programming and general jokes",
+    "category": "Entertainment",
+    "link": "https://github.com/15Dkatz/official_joke_api"
+  },
+  {
+    "name": "Jokes One",
+    "description": "Joke of the day and large category of jokes accessible via REST API",
+    "category": "Entertainment",
+    "link": "https://jokes.one/api/joke/"
+  },
+  {
+    "name": "Jservice",
+    "description": "Jeopardy Question Database",
+    "category": "Entertainment",
+    "link": "http://jservice.io"
+  },
+  {
+    "name": "Lichess",
+    "description": "Access to all data of users, games, puzzles and etc on Lichess",
+    "category": "Entertainment",
+    "link": "https://lichess.org/api"
+  },
+  {
+    "name": "Magic The Gathering",
+    "description": "Magic The Gathering Game Information",
+    "category": "Entertainment",
+    "link": "http://magicthegathering.io/"
+  },
+  {
+    "name": "Mario Kart Tour",
+    "description": "API for Drivers, Karts, Gliders and Courses",
+    "category": "Entertainment",
+    "link": "https://mario-kart-tour-api.herokuapp.com/"
+  },
+  {
+    "name": "Marvel",
+    "description": "Marvel Comics",
+    "category": "Entertainment",
+    "link": "http://developer.marvel.com"
+  },
+  {
+    "name": "mod.io",
+    "description": "Cross Platform Mod API",
+    "category": "Entertainment",
+    "link": "https://docs.mod.io"
+  },
+  {
+    "name": "Open Trivia",
+    "description": "Trivia Questions",
+    "category": "Entertainment",
+    "link": "https://opentdb.com/api_config.php"
+  },
+  {
+    "name": "PandaScore",
+    "description": "E-sports games and results",
+    "category": "Entertainment",
+    "link": "https://developers.pandascore.co/"
+  },
+  {
+    "name": "PlayerUnknown's Battlegrounds",
+    "description": "PUBG Stats",
+    "category": "Entertainment",
+    "link": "https://pubgtracker.com/site-api"
+  },
+  {
+    "name": "Pokéapi",
+    "description": "Pokémon Information",
+    "category": "Entertainment",
+    "link": "https://pokeapi.co"
+  },
+  {
+    "name": "Pokémon TCG",
+    "description": "Pokémon TCG Information",
+    "category": "Entertainment",
+    "link": "https://pokemontcg.io"
+  },
+  {
+    "name": "Psychonauts",
+    "description": "Psychonauts World Characters Information and PSI Powers",
+    "category": "Entertainment",
+    "link": "https://psychonauts-api.netlify.app/"
+  },
+  {
+    "name": "Random Facts",
+    "description": "Random Facts from hundreds of categories",
+    "category": "Entertainment",
+    "link": "https://fungenerators.com/api/facts/"
+  },
+  {
+    "name": "Rick and Morty",
+    "description": "All the Rick and Morty information, including images",
+    "category": "Entertainment",
+    "link": "https://rickandmortyapi.com"
+  },
+  {
+    "name": "Riot Games",
+    "description": "League of Legends Game Information",
+    "category": "Entertainment",
+    "link": "https://developer.riotgames.com/"
+  },
+  {
+    "name": "RuneScape",
+    "description": "RuneScape and OSRS RPGs information",
+    "category": "Entertainment",
+    "link": "https://runescape.wiki/w/Application_programming_interface"
+  },
+  {
+    "name": "Scryfall",
+    "description": "Magic: The Gathering database",
+    "category": "Entertainment",
+    "link": "https://scryfall.com/docs/api"
+  },
+  {
+    "name": "SpaceTradersAPI",
+    "description": "rel=pub-apis) | ",
+    "category": "Entertainment",
+    "link": "https://spacetraders.io?rel=pub-apis"
+  },
+  {
+    "name": "Steam",
+    "description": "Steam Client Interaction",
+    "category": "Entertainment",
+    "link": "https://developer.valvesoftware.com/wiki/Steam_Web_API"
+  },
+  {
+    "name": "SuperHeroes",
+    "description": "All SuperHeroes and Villains data from all universes under a single API",
+    "category": "Entertainment",
+    "link": "https://superheroapi.com"
+  },
+  {
+    "name": "TCGdex",
+    "description": "Multi languages Pokémon TCG Information",
+    "category": "Entertainment",
+    "link": "https://www.tcgdex.net/docs"
+  },
+  {
+    "name": "Tronald Dump",
+    "description": "The dumbest things Donald Trump has ever said",
+    "category": "Entertainment",
+    "link": "https://www.tronalddump.io/"
+  },
+  {
+    "name": "Wargaming.net",
+    "description": "Wargaming.net info and stats",
+    "category": "Entertainment",
+    "link": "https://developers.wargaming.net/"
+  },
+  {
+    "name": "xkcd",
+    "description": "Retrieve xkcd comics as JSON",
+    "category": "Entertainment",
+    "link": "https://xkcd.com/json.html"
+  },
+  {
+    "name": "24 Pull Requests",
+    "description": "Project to promote open source collaboration during December",
+    "category": "Development",
+    "link": "https://24pullrequests.com/api"
+  },
+  {
+    "name": "Abstract Screenshot",
+    "description": "Take programmatic screenshots of web pages from any website",
+    "category": "Development",
+    "link": "https://www.abstractapi.com/website-screenshot-api"
+  },
+  {
+    "name": "Agify.io",
+    "description": "Estimates the age from a first name",
+    "category": "Development",
+    "link": "https://agify.io"
+  },
+  {
+    "name": "ApicAgent",
+    "description": "Extract device details from user-agent string",
+    "category": "Development",
+    "link": "https://www.apicagent.com"
+  },
+  {
+    "name": "ApiFlash",
+    "description": "Chrome based screenshot API for developers",
+    "category": "Development",
+    "link": "https://apiflash.com/"
+  },
+  {
+    "name": "APIs.guru",
+    "description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
+    "category": "Development",
+    "link": "https://apis.guru/api-doc/"
+  },
+  {
+    "name": "Bitbucket",
+    "description": "Bitbucket API",
+    "category": "Development",
+    "link": "https://developer.atlassian.com/bitbucket/api/2/reference/"
+  },
+  {
+    "name": "Blitapp",
+    "description": "Schedule screenshots of web pages and sync them to your cloud",
+    "category": "Development",
+    "link": "https://blitapp.com/api/"
+  },
+  {
+    "name": "Bored",
+    "description": "Find random activities to fight boredom",
+    "category": "Development",
+    "link": "https://www.boredapi.com/"
+  },
+  {
+    "name": "Browshot",
+    "description": "Easily make screenshots of web pages in any screen size, as any device",
+    "category": "Development",
+    "link": "https://browshot.com/api/documentation"
+  },
+  {
+    "name": "CDNJS",
+    "description": "Library info on CDNJS",
+    "category": "Development",
+    "link": "https://api.cdnjs.com/libraries/jquery"
+  },
+  {
+    "name": "Changelogs.md",
+    "description": "Structured changelog metadata from open source projects",
+    "category": "Development",
+    "link": "https://changelogs.md"
+  },
+  {
+    "name": "Ciprand",
+    "description": "Secure random string generator",
+    "category": "Development",
+    "link": "https://github.com/polarspetroll/ciprand"
+  },
+  {
+    "name": "Cloudflare Trace",
+    "description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",
+    "category": "Development",
+    "link": "https://github.com/fawazahmed0/cloudflare-trace-api"
+  },
+  {
+    "name": "CountAPI",
+    "description": "Free and simple counting service. You can use it to track page hits and specific events",
+    "category": "Development",
+    "link": "https://countapi.xyz"
+  },
+  {
+    "name": "DigitalOcean Status",
+    "description": "Status of all DigitalOcean services",
+    "category": "Development",
+    "link": "https://status.digitalocean.com/api"
+  },
+  {
+    "name": "DomainDb Info",
+    "description": "Domain name search to find all domains containing particular words/phrases/etc",
+    "category": "Development",
+    "link": "https://api.domainsdb.info/"
+  },
+  {
+    "name": "ExtendsClass JSON Storage",
+    "description": "A simple JSON store API",
+    "category": "Development",
+    "link": "https://extendsclass.com/json-storage.html"
+  },
+  {
+    "name": "Form2Channel",
+    "description": "Send static html form submissions to Google Sheets, Email, Slack or Telegram",
+    "category": "Development",
+    "link": "https://form2channel.com/"
+  },
+  {
+    "name": "Genderize.io",
+    "description": "Estimates a gender from a first name",
+    "category": "Development",
+    "link": "https://genderize.io"
+  },
+  {
+    "name": "GETPing",
+    "description": "Trigger an email notification with a simple GET request",
+    "category": "Development",
+    "link": "https://www.getping.info"
+  },
+  {
+    "name": "GitHub",
+    "description": "Make use of GitHub repositories, code and user info programmatically",
+    "category": "Development",
+    "link": "https://docs.github.com/en/free-pro-team@latest/rest"
+  },
+  {
+    "name": "Gitlab",
+    "description": "Automate GitLab interaction programmatically",
+    "category": "Development",
+    "link": "https://docs.gitlab.com/ee/api/"
+  },
+  {
+    "name": "Gitter",
+    "description": "Chat for Developers",
+    "category": "Development",
+    "link": "https://developer.gitter.im/docs/welcome"
+  },
+  {
+    "name": "Glitterly",
+    "description": "Image generation API",
+    "category": "Development",
+    "link": "https://developers.glitterly.app"
+  },
+  {
+    "name": "Gorest",
+    "description": "Online REST API for Testing and Prototyping",
+    "category": "Development",
+    "link": "https://gorest.co.in/"
+  },
+  {
+    "name": "Hexabin",
+    "description": "Convert and retrieve hexadecimal, binary, decimal, and octal values with ease",
+    "category": "Development",
+    "link": "https://hexabin.herokuapp.com/"
+  },
+  {
+    "name": "host-t.com",
+    "description": "Basic DNS query via HTTP GET request",
+    "category": "Development",
+    "link": "https://host-t.com"
+  },
+  {
+    "name": "Host.io",
+    "description": "Domains Data API for Developers",
+    "category": "Development",
+    "link": "https://host.io"
+  },
+  {
+    "name": "HTTP2.Pro",
+    "description": "Test endpoints for client and server HTTP/2 protocol support",
+    "category": "Development",
+    "link": "https://http2.pro/doc/api"
+  },
+  {
+    "name": "Httpbin",
+    "description": "A Simple HTTP Request & Response Service",
+    "category": "Development",
+    "link": "https://httpbin.org/"
+  },
+  {
+    "name": "Httpbin Cloudflare",
+    "description": "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare",
+    "category": "Development",
+    "link": "https://cloudflare-quic.com/b/"
+  },
+  {
+    "name": "IBM Text to Speech",
+    "description": "Convert text to speech",
+    "category": "Development",
+    "link": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html"
+  },
+  {
+    "name": "Icanhazepoch",
+    "description": "Get Epoch time",
+    "category": "Development",
+    "link": "https://icanhazepoch.com"
+  },
+  {
+    "name": "Icanhazip",
+    "description": "IP Address API",
+    "category": "Development",
+    "link": "https://major.io/icanhazip-com-faq/"
+  },
+  {
+    "name": "IFTTT",
+    "description": "IFTTT Connect API",
+    "category": "Development",
+    "link": "https://platform.ifttt.com/docs/connect_api"
+  },
+  {
+    "name": "Image-Charts",
+    "description": "Generate charts, QR codes and graph images",
+    "category": "Development",
+    "link": "https://documentation.image-charts.com/"
+  },
+  {
+    "name": "import.io",
+    "description": "Retrieve structured data from a website or RSS feed",
+    "category": "Development",
+    "link": "http://api.docs.import.io/"
+  },
+  {
+    "name": "IP2WHOIS Information Lookup",
+    "description": "WHOIS domain name lookup",
+    "category": "Development",
+    "link": "https://www.ip2whois.com/"
+  },
+  {
+    "name": "IPify",
+    "description": "A simple IP Address API",
+    "category": "Development",
+    "link": "https://www.ipify.org/"
+  },
+  {
+    "name": "IPinfo",
+    "description": "Another simple IP Address API",
+    "category": "Development",
+    "link": "https://ipinfo.io/developers"
+  },
+  {
+    "name": "jsDelivr",
+    "description": "Package info and download stats on jsDelivr CDN",
+    "category": "Development",
+    "link": "https://github.com/jsdelivr/data.jsdelivr.com"
+  },
+  {
+    "name": "JSON 2 JSONP",
+    "description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
+    "category": "Development",
+    "link": "https://json2jsonp.com/"
+  },
+  {
+    "name": "JSONbin.io",
+    "description": "Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",
+    "category": "Development",
+    "link": "https://jsonbin.io"
+  },
+  {
+    "name": "Judge0",
+    "description": "Compile and run source code",
+    "category": "Development",
+    "link": "https://api.judge0.com/"
+  },
+  {
+    "name": "Kroki",
+    "description": "Creates diagrams from textual descriptions",
+    "category": "Development",
+    "link": "https://kroki.io"
+  },
+  {
+    "name": "License-API",
+    "description": "Unofficial REST API for choosealicense.com",
+    "category": "Development",
+    "link": "https://github.com/cmccandless/license-api/blob/master/README.md"
+  },
+  {
+    "name": "MAC address vendor lookup",
+    "description": "Retrieve vendor details and other information regarding a given MAC address or an OUI",
+    "category": "Development",
+    "link": "https://macaddress.io/api"
+  },
+  {
+    "name": "MicroENV",
+    "description": "Fake Rest API for developers",
+    "category": "Development",
+    "link": "https://microenv.com/"
+  },
+  {
+    "name": "Nationalize.io",
+    "description": "Estimate the nationality of a first name",
+    "category": "Development",
+    "link": "https://nationalize.io"
+  },
+  {
+    "name": "OOPSpam",
+    "description": "Multiple spam filtering service",
+    "category": "Development",
+    "link": "https://oopspam.com/"
+  },
+  {
+    "name": "PageCDN",
+    "description": "Public API for javascript, css and font libraries on PageCDN",
+    "category": "Development",
+    "link": "https://pagecdn.com/docs/public-api"
+  },
+  {
+    "name": "Postman",
+    "description": "Tool for testing APIs",
+    "category": "Development",
+    "link": "https://docs.api.getpostman.com/"
+  },
+  {
+    "name": "ProxyCrawl",
+    "description": "Scraping and crawling anticaptcha service",
+    "category": "Development",
+    "link": "https://proxycrawl.com"
+  },
+  {
+    "name": "Public APIs",
+    "description": "A collective list of free JSON APIs for use in web development",
+    "category": "Development",
+    "link": "https://github.com/davemachado/public-api"
+  },
+  {
+    "name": "Pusher Beams",
+    "description": "Push notifications for Android & iOS",
+    "category": "Development",
+    "link": "https://pusher.com/beams"
+  },
+  {
+    "name": "QR Code",
+    "description": "Create new QR Code or decode existing one",
+    "category": "Development",
+    "link": "https://fungenerators.com/api/qrcode/"
+  },
+  {
+    "name": "QR code",
+    "description": "Create an easy to read QR code and URL shortener",
+    "category": "Development",
+    "link": "http://qrtag.net/api/"
+  },
+  {
+    "name": "QR code",
+    "description": "Generate and decode / read QR code graphics",
+    "category": "Development",
+    "link": "http://goqr.me/api/"
+  },
+  {
+    "name": "QuickChart",
+    "description": "Generate chart and graph images",
+    "category": "Development",
+    "link": "https://quickchart.io/"
+  },
+  {
+    "name": "ReqRes",
+    "description": "A hosted REST-API ready to respond to your AJAX requests",
+    "category": "Development",
+    "link": "https://reqres.in/ "
+  },
+  {
+    "name": "RSS feed to JSON",
+    "description": "Returns RSS feed in JSON format using feed URL",
+    "category": "Development",
+    "link": "https://rss-to-json-serverless-api.vercel.app"
+  },
+  {
+    "name": "Scraper.AI",
+    "description": "Extract and monitor data from any website",
+    "category": "Development",
+    "link": "https://docs.scraper.ai/#/"
+  },
+  {
+    "name": "ScraperApi",
+    "description": "Easily build scalable web scrapers",
+    "category": "Development",
+    "link": "https://www.scraperapi.com"
+  },
+  {
+    "name": "scraperBox",
+    "description": "Undetectable web scraping API",
+    "category": "Development",
+    "link": "https://scraperbox.com/"
+  },
+  {
+    "name": "scrapestack",
+    "description": "Real-time, Scalable Proxy & Web Scraping REST API",
+    "category": "Development",
+    "link": "https://scrapestack.com/"
+  },
+  {
+    "name": "ScrapingAnt",
+    "description": "Headless Chrome scraping with a simple API",
+    "category": "Development",
+    "link": "https://scrapingant.com"
+  },
+  {
+    "name": "ScrapingDog",
+    "description": "Proxy API for Web scraping",
+    "category": "Development",
+    "link": "https://www.scrapingdog.com/"
+  },
+  {
+    "name": "ScreenshotAPI.net",
+    "description": "Create pixel-perfect website screenshots",
+    "category": "Development",
+    "link": "https://screenshotapi.net/"
+  },
+  {
+    "name": "Serialif Color",
+    "description": "Color conversion, complementary, grayscale and contrasted text",
+    "category": "Development",
+    "link": "https://color.serialif.com/"
+  },
+  {
+    "name": "serpstack",
+    "description": "Real-Time & Accurate Google Search Results API",
+    "category": "Development",
+    "link": "https://serpstack.com/"
+  },
+  {
+    "name": "SHOUTCLOUD",
+    "description": "ALL-CAPS AS A SERVICE",
+    "category": "Development",
+    "link": "http://shoutcloud.io/"
+  },
+  {
+    "name": "StackExchange",
+    "description": "Q&A forum for developers",
+    "category": "Development",
+    "link": "https://api.stackexchange.com/"
+  },
+  {
+    "name": "Statically",
+    "description": "A free CDN for developers",
+    "category": "Development",
+    "link": "https://statically.io/"
+  },
+  {
+    "name": "Trending-Github",
+    "description": "Discover what is currently trending on github",
+    "category": "Development",
+    "link": "https://docs.trending-github.com"
+  },
+  {
+    "name": "Tyk",
+    "description": "Api and service management platform",
+    "category": "Development",
+    "link": "https://tyk.io/open-source/"
+  },
+  {
+    "name": "userstack",
+    "description": "Secure User-Agent String Lookup JSON API",
+    "category": "Development",
+    "link": "https://userstack.com/"
+  },
+  {
+    "name": "WebScraping.AI",
+    "description": "Web Scraping API with built-in proxies and JS rendering",
+    "category": "Development",
+    "link": "https://webscraping.ai/"
+  },
+  {
+    "name": "Binance",
+    "description": "Exchange for Trading Cryptocurrencies based in China",
+    "category": "Currency",
+    "link": "https://github.com/binance/binance-spot-api-docs"
+  },
+  {
+    "name": "BitcoinAverage",
+    "description": "Digital Asset Price Data for the blockchain industry",
+    "category": "Currency",
+    "link": "https://apiv2.bitcoinaverage.com/"
+  },
+  {
+    "name": "BitcoinCharts",
+    "description": "Financial and Technical Data related to the Bitcoin Network",
+    "category": "Currency",
+    "link": "https://bitcoincharts.com/about/exchanges/"
+  },
+  {
+    "name": "Bitfinex",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Currency",
+    "link": "https://docs.bitfinex.com/docs"
+  },
+  {
+    "name": "Bitmex",
+    "description": "Real-Time Cryptocurrency derivatives trading platform based in Hong Kong",
+    "category": "Currency",
+    "link": "https://www.bitmex.com/app/apiOverview"
+  },
+  {
+    "name": "Bittrex",
+    "description": "Next Generation Crypto Trading Platform",
+    "category": "Currency",
+    "link": "https://bittrex.com/Home/Api"
+  },
+  {
+    "name": "Block",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "category": "Currency",
+    "link": "https://www.block.io/docs/basic"
+  },
+  {
+    "name": "Blockchain",
+    "description": "Bitcoin Payment, Wallet & Transaction Data",
+    "category": "Currency",
+    "link": "https://www.blockchain.com/api"
+  },
+  {
+    "name": "BlockFacts",
+    "description": "Real-time crypto data from multiple exchanges via a single unified API, and much more",
+    "category": "Currency",
+    "link": "https://blockfacts.io/"
+  },
+  {
+    "name": "CoinAPI",
+    "description": "All Currency Exchanges integrate under a single api",
+    "category": "Currency",
+    "link": "https://docs.coinapi.io/"
+  },
+  {
+    "name": "Coinbase",
+    "description": "Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",
+    "category": "Currency",
+    "link": "https://developers.coinbase.com"
+  },
+  {
+    "name": "Coinbase Pro",
+    "description": "Cryptocurrency Trading Platform",
+    "category": "Currency",
+    "link": "https://docs.pro.coinbase.com/#api"
+  },
+  {
+    "name": "CoinCap",
+    "description": "Real time Cryptocurrency prices through a RESTful API",
+    "category": "Currency",
+    "link": "https://docs.coincap.io/"
+  },
+  {
+    "name": "CoinDesk",
+    "description": "Bitcoin Price Index",
+    "category": "Currency",
+    "link": "http://www.coindesk.com/api/"
+  },
+  {
+    "name": "CoinGecko",
+    "description": "Cryptocurrency Price, Market, and Developer/Social Data",
+    "category": "Currency",
+    "link": "http://www.coingecko.com/api"
+  },
+  {
+    "name": "Coinigy",
+    "description": "Interacting with Coinigy Accounts and Exchange Directly",
+    "category": "Currency",
+    "link": "https://coinigy.docs.apiary.io"
+  },
+  {
+    "name": "coinlayer",
+    "description": "Real-time Crypto Currency Exchange Rates",
+    "category": "Currency",
+    "link": "https://coinlayer.com"
+  },
+  {
+    "name": "Coinlib",
+    "description": "Crypto Currency Prices",
+    "category": "Currency",
+    "link": "https://coinlib.io/apidocs"
+  },
+  {
+    "name": "Coinlore",
+    "description": "Cryptocurrencies prices, volume and more",
+    "category": "Currency",
+    "link": "https://www.coinlore.com/cryptocurrency-data-api"
+  },
+  {
+    "name": "CoinMarketCap",
+    "description": "Cryptocurrencies Prices",
+    "category": "Currency",
+    "link": "https://coinmarketcap.com/api/"
+  },
+  {
+    "name": "Coinpaprika",
+    "description": "Cryptocurrencies prices, volume and more",
+    "category": "Currency",
+    "link": "https://api.coinpaprika.com"
+  },
+  {
+    "name": "CoinRanking",
+    "description": "Live Cryptocurrency data",
+    "category": "Currency",
+    "link": "https://docs.coinranking.com/"
+  },
+  {
+    "name": "CoinStats",
+    "description": "version=latest) | ",
+    "category": "Currency",
+    "link": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest"
+  },
+  {
+    "name": "Covalent",
+    "description": "Multi-blockchain data aggregator",
+    "category": "Currency",
+    "link": "https://www.covalenthq.com/docs/api/"
+  },
+  {
+    "name": "CryptoCompare",
+    "description": "Cryptocurrencies Comparison",
+    "category": "Currency",
+    "link": "https://www.cryptocompare.com/api#"
+  },
+  {
+    "name": "CryptoMarket",
+    "description": "Cryptocurrencies Trading platform",
+    "category": "Currency",
+    "link": "https://developers.cryptomkt.com"
+  },
+  {
+    "name": "Cryptonator",
+    "description": "Cryptocurrencies Exchange Rates",
+    "category": "Currency",
+    "link": "https://www.cryptonator.com/api/"
+  },
+  {
+    "name": "Gemini",
+    "description": "Cryptocurrencies Exchange",
+    "category": "Currency",
+    "link": "https://docs.gemini.com/rest-api/"
+  },
+  {
+    "name": "ICObench",
+    "description": "Various information on listing, ratings, stats, and more",
+    "category": "Currency",
+    "link": "https://icobench.com/developers"
+  },
+  {
+    "name": "MercadoBitcoin",
+    "description": "Brazilian Cryptocurrency Information",
+    "category": "Currency",
+    "link": "https://www.mercadobitcoin.net/api-doc/"
+  },
+  {
+    "name": "Nexchange",
+    "description": "Automated cryptocurrency exchange service",
+    "category": "Currency",
+    "link": "https://nexchange2.docs.apiary.io/"
+  },
+  {
+    "name": "Nomics",
+    "description": "Historical and realtime cryptocurrency prices and market data",
+    "category": "Currency",
+    "link": "https://nomics.com/docs/"
+  },
+  {
+    "name": "Poloniex",
+    "description": "US based digital asset exchange",
+    "category": "Currency",
+    "link": "https://poloniex.com/support/api/"
+  },
+  {
+    "name": "Technical Analysis",
+    "description": "Cryptocurrency prices and technical analysis",
+    "category": "Currency",
+    "link": "https://technical-analysis-api.com"
+  },
+  {
+    "name": "VALR",
+    "description": "Cryptocurrency Exchange based in South Africa",
+    "category": "Currency",
+    "link": "https://docs.valr.com/"
+  },
+  {
+    "name": "WallstreetBets",
+    "description": "WallstreetBets Stock Comments Sentiment Analysis",
+    "category": "Currency",
+    "link": "https://dashboard.nbshare.io/apps/reddit/api/"
+  },
+  {
+    "name": "WorldCoinIndex",
+    "description": "Cryptocurrencies Prices",
+    "category": "Currency",
+    "link": "https://www.worldcoinindex.com/apiservice"
+  },
+  {
+    "name": "1Forge",
+    "description": "Forex currency market data",
+    "category": "Currency",
+    "link": "https://1forge.com/forex-data-api/api-documentation"
+  },
+  {
+    "name": "apilayer fixer.io",
+    "description": "Exchange rates and currency conversion",
+    "category": "Currency",
+    "link": "https://fixer.io"
+  },
+  {
+    "name": "Currency-api",
+    "description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
+    "category": "Currency",
+    "link": "https://github.com/fawazahmed0/currency-api#readme"
+  },
+  {
+    "name": "Currencylayer",
+    "description": "Exchange rates and currency conversion",
+    "category": "Currency",
+    "link": "https://currencylayer.com/documentation"
+  },
+  {
+    "name": "CurrencyScoop",
+    "description": "Real-time and historical currency rates JSON API",
+    "category": "Currency",
+    "link": "https://currencyscoop.com/api-documentation"
+  },
+  {
+    "name": "Czech National Bank",
+    "description": "A collection of exchange rates",
+    "category": "Currency",
+    "link": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml"
+  },
+  {
+    "name": "ExchangeRate-API",
+    "description": "Free currency conversion",
+    "category": "Currency",
+    "link": "https://www.exchangerate-api.com"
+  },
+  {
+    "name": "Exchangerate.host",
+    "description": "Free foreign exchange & crypto rates API",
+    "category": "Currency",
+    "link": "https://exchangerate.host"
+  },
+  {
+    "name": "Exchangeratesapi.io",
+    "description": "Exchange rates with currency conversion",
+    "category": "Currency",
+    "link": "https://exchangeratesapi.io"
+  },
+  {
+    "name": "Frankfurter",
+    "description": "Exchange rates, currency conversion and time series",
+    "category": "Currency",
+    "link": "https://www.frankfurter.app/docs"
+  },
+  {
+    "name": "National Bank of Poland",
+    "description": "A collection of currency exchange rates (data in XML and JSON)",
+    "category": "Currency",
+    "link": "http://api.nbp.pl/en.html"
+  },
+  {
+    "name": "VATComply.com",
+    "description": "Exchange rates, geolocation and VAT number validation",
+    "category": "Currency",
+    "link": "https://www.vatcomply.com/documentation"
+  },
+  {
+    "name": "Abstract Public Holidays",
+    "description": "Data on national, regional, and religious holidays via API",
+    "category": "Calendar",
+    "link": "https://www.abstractapi.com/holidays-api"
+  },
+  {
+    "name": "Calendar Index",
+    "description": "Worldwide Holidays and Working Days",
+    "category": "Calendar",
+    "link": "https://www.calendarindex.com/"
+  },
+  {
+    "name": "Church Calendar",
+    "description": "Catholic liturgical calendar",
+    "category": "Calendar",
+    "link": "http://calapi.inadiutorium.cz/"
+  },
+  {
+    "name": "Czech Namedays Calendar",
+    "description": "Lookup for a name and returns nameday date",
+    "category": "Calendar",
+    "link": "https://svatky.adresa.info"
+  },
+  {
+    "name": "Google Calendar",
+    "description": "Display, create and modify Google calendar events",
+    "category": "Calendar",
+    "link": "https://developers.google.com/google-apps/calendar/"
+  },
+  {
+    "name": "Hebrew Calendar",
+    "description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+    "category": "Calendar",
+    "link": "https://www.hebcal.com/home/developer-apis"
+  },
+  {
+    "name": "Holidays",
+    "description": "Historical data regarding holidays",
+    "category": "Calendar",
+    "link": "https://holidayapi.com/"
+  },
+  {
+    "name": "LectServe",
+    "description": "Protestant liturgical calendar",
+    "category": "Calendar",
+    "link": "http://www.lectserve.com"
+  },
+  {
+    "name": "Megavangelical",
+    "description": "A (satirical) Evangelical liturgical calendar",
+    "category": "Calendar",
+    "link": "https://megavangelicals.com/sundays.json"
+  },
+  {
+    "name": "Nager.Date",
+    "description": "Public holidays for more than 90 countries",
+    "category": "Calendar",
+    "link": "https://date.nager.at"
+  },
+  {
+    "name": "Namedays Calendar",
+    "description": "Provides namedays for multiple countries",
+    "category": "Calendar",
+    "link": "https://nameday.abalin.net"
+  },
+  {
+    "name": "Non-Working Days",
+    "description": "Database of ICS files for non working days",
+    "category": "Calendar",
+    "link": "https://github.com/gadael/icsdb"
+  },
+  {
+    "name": "Non-Working Days",
+    "description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
+    "category": "Calendar",
+    "link": "https://isdayoff.ru"
+  },
+  {
+    "name": "Russian Calendar",
+    "description": "Check if a date is a Russian holiday or not",
+    "category": "Calendar",
+    "link": "https://github.com/egno/work-calendar"
+  },
+  {
+    "name": "UK Bank Holidays",
+    "description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+    "category": "Calendar",
+    "link": "https://www.gov.uk/bank-holidays.json"
+  },
+  {
+    "name": "UnixTime Converter",
+    "description": "A REST API to convert UnixTime to DateTime and DateTime to UnixTime",
+    "category": "Calendar",
+    "link": "https://unixtime.co.za"
+  },
+  {
+    "name": "Charity Search",
+    "description": "Non-profit charity data",
+    "category": "Business",
+    "link": "http://charityapi.orghunter.com/"
+  },
+  {
+    "name": "Clearbit Logo",
+    "description": "Search for company logos and embed them in your projects",
+    "category": "Business",
+    "link": "https://clearbit.com/docs#logo-api"
+  },
+  {
+    "name": "Domainsdb.info",
+    "description": "Registered Domain Names Search",
+    "category": "Business",
+    "link": "https://domainsdb.info/"
+  },
+  {
+    "name": "Freelancer",
+    "description": "Hire freelancers to get work done",
+    "category": "Business",
+    "link": "https://developers.freelancer.com"
+  },
+  {
+    "name": "Gmail",
+    "description": "Flexible, RESTful access to the user's inbox",
+    "category": "Business",
+    "link": "https://developers.google.com/gmail/api/"
+  },
+  {
+    "name": "Google Analytics",
+    "description": "Collect, configure and analyze your data to reach the right audience",
+    "category": "Business",
+    "link": "https://developers.google.com/analytics/"
+  },
+  {
+    "name": "mail.tm",
+    "description": "Temporary Email Service",
+    "category": "Business",
+    "link": "https://docs.mail.tm"
+  },
+  {
+    "name": "MailboxValidator",
+    "description": "Validate email address to improve deliverability",
+    "category": "Business",
+    "link": "https://www.mailboxvalidator.com/api-email-free"
+  },
+  {
+    "name": "mailgun",
+    "description": "Email Service",
+    "category": "Business",
+    "link": "https://www.mailgun.com/"
+  },
+  {
+    "name": "markerapi",
+    "description": "Trademark Search",
+    "category": "Business",
+    "link": "http://www.markerapi.com/"
+  },
+  {
+    "name": "ORB Intelligence",
+    "description": "Company lookup",
+    "category": "Business",
+    "link": "https://api.orb-intelligence.com/docs/"
+  },
+  {
+    "name": "Smartsheet",
+    "description": "Allows you to programmatically access and Smartsheet data and account information",
+    "category": "Business",
+    "link": "https://smartsheet-platform.github.io/api-docs/"
+  },
+  {
+    "name": "SwiftKanban",
+    "description": "Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",
+    "category": "Business",
+    "link": "https://www.digite.com/swiftkanban/"
+  },
+  {
+    "name": "Ticksel",
+    "description": "Friendly website analytics made for humans",
+    "category": "Business",
+    "link": "https://ticksel.com"
+  },
+  {
+    "name": "Trello",
+    "description": "Boards, lists and cards to help you organize and prioritize your projects",
+    "category": "Business",
+    "link": "https://developers.trello.com/"
+  },
+  {
+    "name": "Bhagavad Gita",
+    "description": "Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi",
+    "category": "Books",
+    "link": "https://docs.bhagavadgitaapi.in"
+  },
+  {
+    "name": "Bhagavad Gita",
+    "description": "Bhagavad Gita text",
+    "category": "Books",
+    "link": "https://bhagavadgita.io/api"
+  },
+  {
+    "name": "Bible",
+    "description": "RESTful Bible API with 7 versions, 4 languages and multiple features",
+    "category": "Books",
+    "link": "https://bibleapi.co/"
+  },
+  {
+    "name": "British National Bibliography",
+    "description": "Books",
+    "category": "Books",
+    "link": "http://bnb.data.bl.uk/"
+  },
+  {
+    "name": "Crossref Metadata Search",
+    "description": "Books & Articles Metadata",
+    "category": "Books",
+    "link": "https://github.com/CrossRef/rest-api-doc"
+  },
+  {
+    "name": "Google Books",
+    "description": "Books",
+    "category": "Books",
+    "link": "https://developers.google.com/books/"
+  },
+  {
+    "name": "LibGen",
+    "description": "Library Genesis search engine",
+    "category": "Books",
+    "link": "https://garbage.world/posts/libgen/"
+  },
+  {
+    "name": "New York Times Books",
+    "description": "Book reviews and The New York Times Best Sellers lists",
+    "category": "Books",
+    "link": "https://developer.nytimes.com/docs/books-product/1/overview"
+  },
+  {
+    "name": "Open Library",
+    "description": "Books, book covers and related data",
+    "category": "Books",
+    "link": "https://openlibrary.org/developers/api"
+  },
+  {
+    "name": "Penguin Publishing",
+    "description": "Books, book covers and related data",
+    "category": "Books",
+    "link": "http://www.penguinrandomhouse.biz/webservices/rest/"
+  },
+  {
+    "name": "Quran",
+    "description": "RESTful Quran API with multiple languages",
+    "category": "Books",
+    "link": "https://quran.api-docs.io/"
+  },
+  {
+    "name": "Quran Cloud",
+    "description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the enitre Holy Quran",
+    "category": "Books",
+    "link": "https://alquran.cloud/api"
+  },
+  {
+    "name": "Quran-api",
+    "description": "Free Quran API Service with 90+ different languages and 400+ translations",
+    "category": "Books",
+    "link": "https://github.com/fawazahmed0/quran-api#readme"
+  },
+  {
+    "name": "Rig Veda",
+    "description": "Gods and poets, their categories, and the verse meters, with the mandal and sukta number",
+    "category": "Books",
+    "link": "https://aninditabasu.github.io/indica/html/rv.html"
+  },
+  {
+    "name": "Thirukkural",
+    "description": "1330 Thirukkural poems and explanation in Tamil and English",
+    "category": "Books",
+    "link": "https://api-thirukkural.web.app/"
+  },
+  {
+    "name": "Vedic Society",
+    "description": "Descriptions of all nouns (names, places, animals, things) from vedic literature",
+    "category": "Books",
+    "link": "https://aninditabasu.github.io/indica/html/vs.html"
+  },
+  {
+    "name": "Wolne Lektury",
+    "description": "API for obtaining information about e-books available on the WolneLektury.pl website",
+    "category": "Books",
+    "link": "https://wolnelektury.pl/api/"
   },
   {
     "name": "Art Institute of Chicago",
@@ -688,5 +2800,215 @@
     "description": "Art",
     "category": "Art and Design",
     "link": "https://www.rijksmuseum.nl/en/api"
+  },
+  {
+    "name": "AbuseIPDB",
+    "description": "IP/domain/URL reputation",
+    "category": "Anti-Malware",
+    "link": "https://docs.abuseipdb.com/"
+  },
+  {
+    "name": "AlienVault Open Threat Exchange (OTX)",
+    "description": "IP/domain/URL reputation",
+    "category": "Anti-Malware",
+    "link": "OTX"
+  },
+  {
+    "name": "Google Safe Browsing",
+    "description": "Google Link/Domain Flagging",
+    "category": "Anti-Malware",
+    "link": "https://developers.google.com/safe-browsing/"
+  },
+  {
+    "name": "Metacert",
+    "description": "Metacert Link Flagging",
+    "category": "Anti-Malware",
+    "link": "https://metacert.com/"
+  },
+  {
+    "name": "URLhaus",
+    "description": "Bulk queries and Download Malware Samples",
+    "category": "Anti-Malware",
+    "link": "https://urlhaus-api.abuse.ch/"
+  },
+  {
+    "name": "URLScan.io",
+    "description": "Scan and Analyse URLs",
+    "category": "Anti-Malware",
+    "link": "https://urlscan.io/about-api/"
+  },
+  {
+    "name": "VirusTotal",
+    "description": "VirusTotal File/URL Analysis",
+    "category": "Anti-Malware",
+    "link": "https://www.virustotal.com/en/documentation/public-api/"
+  },
+  {
+    "name": "AniAPI",
+    "description": "Anime discovery, streaming & syncing with trackers",
+    "category": "Anime",
+    "link": "https://github.com/AniAPI-Team/AniAPI"
+  },
+  {
+    "name": "AniList",
+    "description": "Anime discovery & tracking",
+    "category": "Anime",
+    "link": "https://github.com/AniList/ApiV2-GraphQL-Docs"
+  },
+  {
+    "name": "AnimeChan",
+    "description": "Anime quotes (over 10k+)",
+    "category": "Anime",
+    "link": "https://github.com/RocktimSaikia/anime-chan"
+  },
+  {
+    "name": "AnimeNewsNetwork",
+    "description": "Anime industry news",
+    "category": "Anime",
+    "link": "https://www.animenewsnetwork.com/encyclopedia/api.php"
+  },
+  {
+    "name": "Jikan",
+    "description": "Unofficial MyAnimeList API",
+    "category": "Anime",
+    "link": "https://jikan.moe"
+  },
+  {
+    "name": "Kitsu",
+    "description": "Anime discovery platform",
+    "category": "Anime",
+    "link": "https://kitsu.docs.apiary.io/"
+  },
+  {
+    "name": "MyAnimeList",
+    "description": "cid=13727) | ",
+    "category": "Anime",
+    "link": "https://myanimelist.net/clubs.php?cid=13727"
+  },
+  {
+    "name": "Shikimori",
+    "description": "Anime discovery, tracking, forum, rates",
+    "category": "Anime",
+    "link": "https://shikimori.one/api/doc"
+  },
+  {
+    "name": "Studio Ghibli",
+    "description": "Resources from Studio Ghibli films",
+    "category": "Anime",
+    "link": "https://ghibliapi.herokuapp.com"
+  },
+  {
+    "name": "Waifu.pics",
+    "description": "Image sharing platform for anime images",
+    "category": "Anime",
+    "link": "https://waifu.pics/docs"
+  },
+  {
+    "name": "What Anime",
+    "description": "Scan anime image to get specific detail",
+    "category": "Anime",
+    "link": "https://soruly.github.io/trace.moe/"
+  },
+  {
+    "name": "Axolotl",
+    "description": "Collection of axolotl pictures and facts",
+    "category": "Animals",
+    "link": "https://theaxolotlapi.netlify.app/"
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Daily cat facts",
+    "category": "Animals",
+    "link": "https://alexwohlbruck.github.io/cat-facts/"
+  },
+  {
+    "name": "Cataas",
+    "description": "Cat as a service (cats pictures and gifs)",
+    "category": "Animals",
+    "link": "https://cataas.com/"
+  },
+  {
+    "name": "catAPI",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+  },
+  {
+    "name": "Cats",
+    "description": "Pictures of cats from Tumblr",
+    "category": "Animals",
+    "link": "https://docs.thecatapi.com/"
+  },
+  {
+    "name": "Dog Facts",
+    "description": "Random dog facts",
+    "category": "Animals",
+    "link": "https://dukengn.github.io/Dog-facts-API/"
+  },
+  {
+    "name": "Dogs",
+    "description": "",
+    "category": "Animals",
+    "link": "https://dog.ceo/dog-api/"
+  },
+  {
+    "name": "HTTPCat",
+    "description": "Cat for every HTTP Status",
+    "category": "Animals",
+    "link": "https://http.cat/"
+  },
+  {
+    "name": "IUCN",
+    "description": "IUCN Red List of Threatened Species",
+    "category": "Animals",
+    "link": "http://apiv3.iucnredlist.org/api/v3/docs"
+  },
+  {
+    "name": "Movebank",
+    "description": "Movement and Migration data of animals",
+    "category": "Animals",
+    "link": "https://github.com/movebank/movebank-api-doc"
+  },
+  {
+    "name": "PlaceBear",
+    "description": "Placeholder bear pictures",
+    "category": "Animals",
+    "link": "https://placebear.com/"
+  },
+  {
+    "name": "PlaceDog",
+    "description": "Placeholder Dog pictures",
+    "category": "Animals",
+    "link": "https://place.dog"
+  },
+  {
+    "name": "RandomCat",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://aws.random.cat/meow"
+  },
+  {
+    "name": "RandomDog",
+    "description": "Random pictures of dogs",
+    "category": "Animals",
+    "link": "https://random.dog/woof.json"
+  },
+  {
+    "name": "RandomFox",
+    "description": "Random pictures of foxes",
+    "category": "Animals",
+    "link": "https://randomfox.ca/floof/"
+  },
+  {
+    "name": "RescueGroups",
+    "description": "Adoption",
+    "category": "Animals",
+    "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+  },
+  {
+    "name": "Shibe.Online",
+    "description": "Random pictures of Shiba Inu, cats or birds",
+    "category": "Animals",
+    "link": "http://shibe.online/"
   }
 ]

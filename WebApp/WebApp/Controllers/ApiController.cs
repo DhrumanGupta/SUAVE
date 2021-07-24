@@ -26,9 +26,9 @@ namespace WebApp.Controllers
         /// </summary>
         [HttpGet]
         [Route("category")]
-        public async Task<IActionResult> GetCategoriesAsync()
+        public IActionResult GetCategoriesAsync()
         {
-            var records = await _dbService.GetCategoriesAsync();
+            var records = _dbService.GetCategories();
 
             if (!records.Any())
                 return NotFound("The database is under maintenance, please try again later");
@@ -37,18 +37,41 @@ namespace WebApp.Controllers
         }
 
         /// <summary>
-        /// Gets all the APIs found for the category provided
+        /// Gets all the APIs found for the use provided
         /// </summary>
         /// <param name="categoryName">The category to find for</param>
         [HttpGet]
         [Route("category/{categoryName}")]
-        public async Task<IActionResult> GetCategoryAsync(string categoryName)
+        public IActionResult GetCategoryAsync(string categoryName)
         {
-            var records = await _dbService.GetCategoryAsync(categoryName);
+            var records = _dbService.GetCategoryData(categoryName);
 
             if (!records.Any())
                 return NotFound("No APIs found for the category provided");
 
+            return Ok(records);
+        }
+
+        /// <summary>
+        /// Gets all the APIs found for the use provided
+        /// </summary>
+        /// <param name="use">The use of the api</param>
+        /// <param name="maxNum">The maximum no. of APIs to show (defaults to 5)</param>
+        [HttpGet]
+        [Route("{use}")]
+        public IActionResult GetFromUse(string use, int maxNum = 5)
+        {
+            if (string.IsNullOrEmpty(use))
+            {
+                return BadRequest("No use provided");
+            }
+            var words = use.Split(' ').Where(word => word.Length > 2).ToArray();
+
+            var records = _dbService.GetCategoriesFromUse(words, maxNum);
+
+            if (!records.Any())
+                return NotFound("No APIs found for the use provided");
+            
             return Ok(records);
         }
     }

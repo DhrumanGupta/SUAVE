@@ -6,6 +6,7 @@ using System.Net.WebSockets;
 using System.Threading.Tasks;
 using Cassandra;
 using Microsoft.Extensions.Configuration;
+using Microsoft.OpenApi.Models;
 using Newtonsoft.Json;
 using WebApp.Controllers;
 using WebApp.Models;
@@ -14,68 +15,91 @@ namespace WebApp.Services
 {
     public class DbService
     {
-        private readonly ISession _dbSession;
+        // private readonly ISession _dbSession;
 
-        public DbService(IConfiguration configuration)
+        private readonly ApiData[] _apiDatas;
+
+        public DbService()
         {
-            var section = configuration.GetSection("DbData");
-            _dbSession =
-                Cluster.Builder()
-                    .WithCloudSecureConnectionBundle(section.GetValue<string>("BundlePath"))
-                    .WithCredentials(section.GetValue<string>("ClientId"), section.GetValue<string>("ClientPassword"))
-                    .Build()
-                    .Connect(section.GetValue<string>("Keyspace"));
-            
-            UpdateData();
+            // _dbSession =
+            //     Cluster.Builder()
+            //         .WithCloudSecureConnectionBundle(configuration.GetValue<string>("BundlePath"))
+            //         .WithCredentials(configuration.GetValue<string>("ClientId"), configuration.GetValue<string>("ClientPassword"))
+            //         .Build()
+            //         .Connect(configuration.GetValue<string>("Keyspace"));
+
+            // UpdateData();
+            _apiDatas = JsonConvert.DeserializeObject<List<ApiData>>(File.ReadAllText("Data/API-list.json")).Distinct()
+                .ToArray();
         }
 
-        public async Task<List<string>> GetCategoriesAsync()
+        public List<string> GetCategories()
         {
-            var rows = await _dbSession.ExecuteAsync(
-                new SimpleStatement($"SELECT category FROM api_data"));
-            var records = rows.Select(x => x.GetValue<string>("category")).Distinct().ToList();
-            return records;
+            return _apiDatas.Select(x => x.Category).ToList();
         }
 
-        public async Task<List<ApiData>> GetCategoryAsync(string name)
+        public List<ApiData> GetCategoriesFromUse(string[] uses, int limit)
         {
-            var rows = await _dbSession.ExecuteAsync(
-                new SimpleStatement($"SELECT * FROM api_data WHERE category='{name}' ALLOW FILTERING"));
-            var records = rows.Select(FromRow).ToList();
-            return records;
-        }
-
-        private static ApiData FromRow(Row row)
-        {
-            return new()
+            var _scoreByName = new Dictionary<ApiData, int>();
+            foreach (var api in _apiDatas)
             {
-                Name = row.GetValue<string>("name"),
-                Description = row.GetValue<string>("description"),
-                Category = row.GetValue<string>("category"),
-                Endpoint = row.GetValue<string>("endpoint"),
-            };
-        }
+                _scoreByName.Add(api, 0);
+                foreach (var use in uses)
+                {
+                    if (api.Name.Contains(use, StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        _scoreByName[api] += 2;
+                    }
 
-        private void UpdateData()
-        {
-            var jsonApis =
-                (JsonConvert.DeserializeObject<List<ApiData>>(File.ReadAllText("Data/API-list.json")) ??
-                 new List<ApiData>()).Distinct().ToList();
+                    if (api.Category.Contains(use, StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        _scoreByName[api] += 2;
+                    }
 
-            var serverApis = _dbSession.Execute("SELECT * FROM api_data")
-                .Select(row => row.GetValue<string>("name")).ToList();
-
-            var newApis = jsonApis.Where(x => !serverApis.Contains(x.Name, StringComparer.InvariantCultureIgnoreCase)).Distinct().ToArray();
-            var baseQuery =
-                _dbSession.Prepare("INSERT INTO api_data (name, description, category, endpoint) VALUES (?, ?, ?, ?)");
-
-            var batch = new BatchStatement();
-            foreach (var api in newApis)
-            {
-                batch.Add(baseQuery.Bind(api.Name, api.Description, api.Category, api.Endpoint));
+                    if (api.Description.Contains(use, StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        _scoreByName[api] += 1;
+                    }
+                }
             }
 
-            _dbSession.Execute(batch);
+            _scoreByName = _scoreByName.Where(x => x.Value > 1).OrderBy(key => key.Value).Reverse().ToDictionary(x=> x.Key, x=> x.Value);
+
+
+            if (_scoreByName.Count <= 0)
+            {
+                return new List<ApiData>();
+            }
+
+            var apis = _scoreByName.Select(x => x.Key).Take(limit).ToList();
+            return apis;
         }
+
+        public List<ApiData> GetCategoryData(string name)
+        {
+            return _apiDatas.Where(x => x.Category == x.Name).ToList();
+        }
+
+        // private void UpdateData()
+        // {
+        //     var jsonApis =
+        //         (JsonConvert.DeserializeObject<List<ApiData>>(File.ReadAllText("Data/API-list.json")) ??
+        //          new List<ApiData>()).Distinct().ToList();
+        //
+        //     var serverApis = _dbSession.Execute("SELECT * FROM api_data")
+        //         .Select(row => row.GetValue<string>("name")).ToList();
+        //
+        //     var newApis = jsonApis.Where(x => !serverApis.Contains(x.Name, StringComparer.InvariantCultureIgnoreCase)).Distinct().ToArray();
+        //     var baseQuery =
+        //         _dbSession.Prepare("INSERT INTO api_data (name, description, category, endpoint) VALUES (?, ?, ?, ?)");
+        //
+        //     var batch = new BatchStatement();
+        //     foreach (var api in newApis)
+        //     {
+        //         batch.Add(baseQuery.Bind(api.Name, api.Description, api.Category, api.Endpoint));
+        //     }
+        //
+        //     _dbSession.Execute(batch);
+        // }
     }
 }
