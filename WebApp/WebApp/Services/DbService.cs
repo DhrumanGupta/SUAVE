@@ -31,10 +31,6 @@ namespace WebApp.Services
                     .Connect(configuration.GetValue<string>("Keyspace"));
             
             UpdateData();
-            // _apiData = JsonConvert
-            //     .DeserializeObject<List<ApiData>>(File.ReadAllText("Data/API-list.json"))!
-            //     .Distinct()
-            //     .ToArray();
         }
 
         public List<string> GetCategories()
