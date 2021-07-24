@@ -65,7 +65,7 @@ namespace WebApp.Controllers
             {
                 return BadRequest("No use provided");
             }
-            var words = use.Split(' ').Where(word => word.Length > 2).ToArray();
+            var words = use.Split(' ').Where(word => word.Length > 3).ToArray();
 
             var records = _dbService.GetCategoriesFromUse(words, maxNum);
 
