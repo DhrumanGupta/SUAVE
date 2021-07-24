@@ -1,1 +1,4 @@
 ﻿.idea/
+__pycache__
+apis.*
+env
