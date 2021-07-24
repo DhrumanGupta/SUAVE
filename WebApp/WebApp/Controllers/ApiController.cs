@@ -22,10 +22,22 @@ namespace WebApp.Controllers
         }
 
         [HttpGet]
+        [Route("category")]
+        public async Task<IActionResult> GetCategoriesAsync()
+        {
+            var records = await _dbService.GetCategoriesAsync();
+
+            if (!records.Any())
+                return NotFound("The database is under maintenance, please try again later");
+
+            return Ok(records);
+        }
+
+        [HttpGet]
         [Route("category/{categoryName}")]
         public async Task<IActionResult> GetCategoryAsync(string categoryName)
         {
-            var records = await _dbService.GetFromCategoryAsync(categoryName);
+            var records = await _dbService.GetCategoryAsync(categoryName);
 
             if (!records.Any())
                 return NotFound("No APIs found for the category provided");

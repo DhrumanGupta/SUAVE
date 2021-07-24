@@ -1,0 +1,615 @@
+[
+  {
+    "name": "Omdb",
+    "description": "The Open Movie Database API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.",
+    "category": "Entertainment",
+    "link": "https://www.omdbapi.com/"
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Daily Car Facts",
+    "category": "Animals",
+    "link": "https://alexwohlbruck.github.io/cat-facts/"
+  },
+  {
+    "name": "The Lord Of The Rings Api",
+    "description": "The one API serves your needs regarding data about The Lord of the Rings, the epic books by J. R. R. Tolkien and the movie adaptions by Peter Jackson. It provides information about the books, the movie trilogy, many characters and quotes.",
+    "category": "Entertainment",
+    "link": "https://the-one-api.dev/"
+  },
+  {
+    "name": "Api Meme",
+    "description": "Generate memes with a simple link!",
+    "category": "Funny",
+    "link": "https://apimeme.com/"
+  },
+  {
+    "name": "Food Api",
+    "description": "Let’s you access over 330,000 recipes and 80,000 food products",
+    "category": "Food",
+    "link": "https://spoonacular.com/food-api"
+  },
+  {
+    "name": "The Cocktail Db",
+    "description": "A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB.",
+    "category": "Food",
+    "link": "https://www.thecocktaildb.com/api.php"
+  },
+  {
+    "name": "MEME Generator",
+    "description": "Let’s you generate memes by choosing preloaded images, and short top and bottom text sentences",
+    "category": "Funny",
+    "link": "http://version1.api.memegenerator.net/"
+  },
+  {
+    "name": "SoundCloud API",
+    "description": "Discover, stream, and share a constantly expanding mix of music from emerging and major artists around the world.",
+    "category": "Music",
+    "link": "https://developers.soundcloud.com/"
+  },
+  {
+    "name": "Bing Search API",
+    "description": "Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements. The results can be automatically customized to your users' locations or markets, increasing relevancy by staying local.",
+    "category": "Search",
+    "link": "https://redirect.microsoft/dataset/bing/search"
+  },
+  {
+    "name": "Zestful Data",
+    "description": "The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free.",
+    "category": "Food",
+    "link": "https://zestfuldata.com/"
+  },
+  {
+    "name": "Coinmarketcap",
+    "description": "Cryptocurrencies Prices",
+    "category": "Finance",
+    "link": "https://coinmarketcap.com/api/"
+  },
+  {
+    "name": "IBM Watson Text To Speech",
+    "description": "A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage",
+    "category": "Audio",
+    "link": "https://www.ibm.com/thought-leadership/smart/"
+  },
+  {
+    "name": "Intellexer",
+    "description": "Processing (NLP) Service including sentiment analysis, content extraction, and language detection",
+    "category": "ML",
+    "link": "http://esapi.intellexer.com/"
+  },
+  {
+    "name": "WatchMouse API",
+    "description": "Offers self-service website and application performance monitoring solutions",
+    "category": "ML",
+    "link": "http://more.watchmouse.com/transaction_monitoring/"
+  },
+  {
+    "name": "API2Cart",
+    "description": "API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others.",
+    "category": "Shopping",
+    "link": "https://api2cart.com/"
+  },
+  {
+    "name": "Spotify",
+    "description": "View Spotify music catalog, manage users' libraries, get recommendations and more",
+    "category": "Music",
+    "link": "https://developer.spotify.com/documentation/web-api/"
+  },
+  {
+    "name": "Facebook API",
+    "description": "Helps developers build, grow and monetize their business.",
+    "category": "Social Media",
+    "link": "https://developers.facebook.com/"
+  },
+  {
+    "name": "Imgflip",
+    "description": "Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API.",
+    "category": "Funny",
+    "link": "https://imgflip.com/api"
+  },
+  {
+    "name": "Traveltime Api",
+    "description": "Create polygons to show how far you can travel within a time limit. Calculate times from an origin to thousands of destinations in a single API call.",
+    "category": "Travel",
+    "link": "https://traveltime.com/docs/api/overview/introduction"
+  },
+  {
+    "name": "Iplegit.Com",
+    "description": "Simple and free to use IP lookup service. Get basic and detailed data on IP addresses. Two free endpoints available.",
+    "category": "Miscellaneous",
+    "link": "https://iplegit.com/"
+  },
+  {
+    "name": "Randomdog",
+    "description": "Random pictures of dogs",
+    "category": "Animals",
+    "link": "https://random.dog/"
+  },
+  {
+    "name": "Riot Games",
+    "description": "League of Legends Game Information",
+    "category": "Entertainment",
+    "link": "https://developer.riotgames.com/"
+  },
+  {
+    "name": "Data Demograph",
+    "description": "Enrich your contact lists with intelligent demographics. Add gender age, income, education, ancestry, crime, and political leaning to your customer insights.",
+    "category": "ML",
+    "link": "https://datademograph.com/"
+  },
+  {
+    "name": "Robohash Image Generator",
+    "description": "Generates cool looking robot image for any text",
+    "category": "Funny",
+    "link": "https://www.mashape.com/blaazetech/robohash-image-generator"
+  },
+  {
+    "name": "FengShui",
+    "description": "Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship",
+    "category": "Astrology",
+    "link": "https://fengshui-api.com/"
+  },
+  {
+    "name": "Trace.Moe",
+    "description": "Scan anime image to get specific detail",
+    "category": "Anime",
+    "link": "https://soruly.github.io/trace.moe/"
+  },
+  {
+    "name": "The Meal Db",
+    "description": "This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!",
+    "category": "Food",
+    "link": "https://www.themealdb.com/api.php"
+  },
+  {
+    "name": "Lolwallpapers Api",
+    "description": "League of Legends Wallpapers website official API.",
+    "category": "Entertainment",
+    "link": "https://api.lolwallpapers.net/"
+  },
+  {
+    "name": "The Sports Db",
+    "description": "With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)",
+    "category": "Sports",
+    "link": "https://www.thesportsdb.com/api.php"
+  },
+  {
+    "name": "Furniture Store Data Api",
+    "description": "The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store. The API is developed on C# and json. The great thing in this api is that it very simple to use and edit. You will learn how to provide any type of data via api in seconds. Prerequisites: Visual Studio 4.0 and above Functionality: Can let your user get data based on keyset and its value set by specifying any TokenKey and value on which basis the API request can be validated. The updated version of the API is also available at <a href='https://getrit.com'>getrit.com</a>",
+    "category": "Shopping",
+    "link": "https://getrit.com/API/Token"
+  },
+  {
+    "name": "Adorable Avatars",
+    "description": "Generate random cartoon avatars",
+    "category": "Funny",
+    "link": "http://avatars.adorable.io/"
+  },
+  {
+    "name": "Httpcat",
+    "description": "Cat for every HTTP Status",
+    "category": "Animals",
+    "link": "https://http.cat/"
+  },
+  {
+    "name": "Qrcode Monkey",
+    "description": "Integrate custom and unique looking QR codes into your system or workflow. This API is perfect for creating thousands of high quality QR codes in png or svg vector format.",
+    "category": "Miscellaneous",
+    "link": "https://www.qrcode-monkey.com/qr-code-api-with-logo/"
+  },
+  {
+    "name": "Theaudiodb",
+    "description": "Music",
+    "category": "Music",
+    "link": "https://www.theaudiodb.com/"
+  },
+  {
+    "name": "Quora API",
+    "description": "Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world.",
+    "category": "Social Media",
+    "link": "https://edmondlausposts.quora.com/Quora-Extension-API"
+  },
+  {
+    "name": "MusixMatch",
+    "description": "Let’s you legally display lyrics of over 640k artists and 13M tracks on your app or website",
+    "category": "Music",
+    "link": "https://developer.musixmatch.com/documentation"
+  },
+  {
+    "name": "Wal-Mart",
+    "description": "Item price and availability",
+    "category": "Shopping",
+    "link": "https://developer.walmartlabs.com/"
+  },
+  {
+    "name": "Html2pdf.App",
+    "description": "Free Html to Pdf online generator Most realistic, high quality html to pdf api service! Free API - no payments No need your own server Maintainable and improving service Easy to use",
+    "category": "Miscellaneous",
+    "link": "https://html2pdf.app/"
+  },
+  {
+    "name": "Openweathermap",
+    "description": "Weather",
+    "category": "Weather",
+    "link": "https://openweathermap.org/api"
+  },
+  {
+    "name": "Jooble",
+    "description": "Job search engine",
+    "category": "Search",
+    "link": "https://jooble.org/api/about"
+  },
+  {
+    "name": "Fortnite Api",
+    "description": "A fortnite tracker api that returns data about and account",
+    "category": "Entertainment",
+    "link": "https://fortnite-api.com/"
+  },
+  {
+    "name": "Jobs2careers",
+    "description": "Job aggregator",
+    "category": "Search",
+    "link": "https://api.jobs2careers.com/api/"
+  },
+  {
+    "name": "Image-Charts",
+    "description": "Image-Charts API returns a chart image in response to a URL GET or POST request. The API can generate many kinds of charts, from pie or line charts to bar charts and radars. All the information about the chart that you want, such as chart data, size, colors, and labels, are part of the URL. It can generates animated gif as well!",
+    "category": "Miscellaneous",
+    "link": "https://www.image-charts.com/"
+  },
+  {
+    "name": "Cloudmersive",
+    "description": "Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.",
+    "category": "Miscellaneous",
+    "link": "https://api.cloudmersive.com/swagger/index.html?urls.primaryName=Convert%20API"
+  },
+  {
+    "name": "Football Prediction",
+    "description": "API that offers predictions for upcoming football (soccer) matches, odds and performance stats.",
+    "category": "Sports",
+    "link": "https://boggio-analytics.com/fp-api/"
+  },
+  {
+    "name": "The Star Wars Api",
+    "description": "All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species.",
+    "category": "Entertainment",
+    "link": "https://swapi.co/"
+  },
+  {
+    "name": "Foursquare API",
+    "description": "Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need.",
+    "category": "Search",
+    "link": "https://developer.foursquare.com/"
+  },
+  {
+    "name": "Ergast F1",
+    "description": "F1 data from the beginning of the world championships in 1950",
+    "category": "Sports",
+    "link": "http://ergast.com/mrd/"
+  },
+  {
+    "name": "Shutterstock",
+    "description": "The Shutterstock API provides access to Shutterstock's library of media, as well as information about customers' accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media.",
+    "category": "Miscellaneous",
+    "link": "https://www.shutterstock.com/developers/"
+  },
+  {
+    "name": "News Feed Search",
+    "description": "Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily",
+    "category": "Search",
+    "link": "https://imbrikapi.com/"
+  }
+][
+  {
+    "name": "Axolotl",
+    "description": "Collection of axolotl pictures and facts",
+    "category": "Animals",
+    "link": "https://theaxolotlapi.netlify.app/"
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Daily cat facts",
+    "category": "Animals",
+    "link": "https://alexwohlbruck.github.io/cat-facts/"
+  },
+  {
+    "name": "Cataas",
+    "description": "Cat as a service (cats pictures and gifs)",
+    "category": "Animals",
+    "link": "https://cataas.com/"
+  },
+  {
+    "name": "catAPI",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+  },
+  {
+    "name": "Cats",
+    "description": "Pictures of cats from Tumblr",
+    "category": "Animals",
+    "link": "https://docs.thecatapi.com/"
+  },
+  {
+    "name": "Dog Facts",
+    "description": "Random dog facts",
+    "category": "Animals",
+    "link": "https://dukengn.github.io/Dog-facts-API/"
+  },
+  {
+    "name": "Dogs",
+    "description": "",
+    "category": "Animals",
+    "link": "https://dog.ceo/dog-api/"
+  },
+  {
+    "name": "HTTPCat",
+    "description": "Cat for every HTTP Status",
+    "category": "Animals",
+    "link": "https://http.cat/"
+  },
+  {
+    "name": "IUCN",
+    "description": "IUCN Red List of Threatened Species",
+    "category": "Animals",
+    "link": "http://apiv3.iucnredlist.org/api/v3/docs"
+  },
+  {
+    "name": "Movebank",
+    "description": "Movement and Migration data of animals",
+    "category": "Animals",
+    "link": "https://github.com/movebank/movebank-api-doc"
+  },
+  {
+    "name": "PlaceBear",
+    "description": "Placeholder bear pictures",
+    "category": "Animals",
+    "link": "https://placebear.com/"
+  },
+  {
+    "name": "PlaceDog",
+    "description": "Placeholder Dog pictures",
+    "category": "Animals",
+    "link": "https://place.dog"
+  },
+  {
+    "name": "RandomCat",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://aws.random.cat/meow"
+  },
+  {
+    "name": "RandomDog",
+    "description": "Random pictures of dogs",
+    "category": "Animals",
+    "link": "https://random.dog/woof.json"
+  },
+  {
+    "name": "RandomFox",
+    "description": "Random pictures of foxes",
+    "category": "Animals",
+    "link": "https://randomfox.ca/floof/"
+  },
+  {
+    "name": "RescueGroups",
+    "description": "Adoption",
+    "category": "Animals",
+    "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+  },
+  {
+    "name": "Shibe.Online",
+    "description": "Random pictures of Shiba Inu, cats or birds",
+    "category": "Animals",
+    "link": "http://shibe.online/"
+  },
+  {
+    "name": "Axolotl",
+    "description": "Collection of axolotl pictures and facts",
+    "category": "Animals",
+    "link": "https://theaxolotlapi.netlify.app/"
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Daily cat facts",
+    "category": "Animals",
+    "link": "https://alexwohlbruck.github.io/cat-facts/"
+  },
+  {
+    "name": "Cataas",
+    "description": "Cat as a service (cats pictures and gifs)",
+    "category": "Animals",
+    "link": "https://cataas.com/"
+  },
+  {
+    "name": "catAPI",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://github.com/ThatCopy/catAPI/wiki/Usage"
+  },
+  {
+    "name": "Cats",
+    "description": "Pictures of cats from Tumblr",
+    "category": "Animals",
+    "link": "https://docs.thecatapi.com/"
+  },
+  {
+    "name": "Dog Facts",
+    "description": "Random dog facts",
+    "category": "Animals",
+    "link": "https://dukengn.github.io/Dog-facts-API/"
+  },
+  {
+    "name": "Dogs",
+    "description": "",
+    "category": "Animals",
+    "link": "https://dog.ceo/dog-api/"
+  },
+  {
+    "name": "HTTPCat",
+    "description": "Cat for every HTTP Status",
+    "category": "Animals",
+    "link": "https://http.cat/"
+  },
+  {
+    "name": "IUCN",
+    "description": "IUCN Red List of Threatened Species",
+    "category": "Animals",
+    "link": "http://apiv3.iucnredlist.org/api/v3/docs"
+  },
+  {
+    "name": "Movebank",
+    "description": "Movement and Migration data of animals",
+    "category": "Animals",
+    "link": "https://github.com/movebank/movebank-api-doc"
+  },
+  {
+    "name": "PlaceBear",
+    "description": "Placeholder bear pictures",
+    "category": "Animals",
+    "link": "https://placebear.com/"
+  },
+  {
+    "name": "PlaceDog",
+    "description": "Placeholder Dog pictures",
+    "category": "Animals",
+    "link": "https://place.dog"
+  },
+  {
+    "name": "RandomCat",
+    "description": "Random pictures of cats",
+    "category": "Animals",
+    "link": "https://aws.random.cat/meow"
+  },
+  {
+    "name": "RandomDog",
+    "description": "Random pictures of dogs",
+    "category": "Animals",
+    "link": "https://random.dog/woof.json"
+  },
+  {
+    "name": "RandomFox",
+    "description": "Random pictures of foxes",
+    "category": "Animals",
+    "link": "https://randomfox.ca/floof/"
+  },
+  {
+    "name": "RescueGroups",
+    "description": "Adoption",
+    "category": "Animals",
+    "link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home"
+  },
+  {
+    "name": "Shibe.Online",
+    "description": "Random pictures of Shiba Inu, cats or birds",
+    "category": "Animals",
+    "link": "http://shibe.online/"
+  },
+  {
+    "name": "AniAPI",
+    "description": "Anime discovery, streaming & syncing with trackers",
+    "category": "Anime",
+    "link": "https://github.com/AniAPI-Team/AniAPI"
+  },
+  {
+    "name": "AniList",
+    "description": "Anime discovery & tracking",
+    "category": "Anime",
+    "link": "https://github.com/AniList/ApiV2-GraphQL-Docs"
+  },
+  {
+    "name": "AnimeChan",
+    "description": "Anime quotes (over 10k+)",
+    "category": "Anime",
+    "link": "https://github.com/RocktimSaikia/anime-chan"
+  },
+  {
+    "name": "AnimeNewsNetwork",
+    "description": "Anime industry news",
+    "category": "Anime",
+    "link": "https://www.animenewsnetwork.com/encyclopedia/api.php"
+  },
+  {
+    "name": "Jikan",
+    "description": "Unofficial MyAnimeList API",
+    "category": "Anime",
+    "link": "https://jikan.moe"
+  },
+  {
+    "name": "Kitsu",
+    "description": "Anime discovery platform",
+    "category": "Anime",
+    "link": "https://kitsu.docs.apiary.io/"
+  },
+  {
+    "name": "MyAnimeList",
+    "description": "cid=13727) | ",
+    "category": "Anime",
+    "link": "https://myanimelist.net/clubs.php?cid=13727"
+  },
+  {
+    "name": "Shikimori",
+    "description": "Anime discovery, tracking, forum, rates",
+    "category": "Anime",
+    "link": "https://shikimori.one/api/doc"
+  },
+  {
+    "name": "Studio Ghibli",
+    "description": "Resources from Studio Ghibli films",
+    "category": "Anime",
+    "link": "https://ghibliapi.herokuapp.com"
+  },
+  {
+    "name": "Waifu.pics",
+    "description": "Image sharing platform for anime images",
+    "category": "Anime",
+    "link": "https://waifu.pics/docs"
+  },
+  {
+    "name": "What Anime",
+    "description": "Scan anime image to get specific detail",
+    "category": "Anime",
+    "link": "https://soruly.github.io/trace.moe/"
+  },
+  {
+    "name": "AbuseIPDB",
+    "description": "IP/domain/URL reputation",
+    "category": "Anti-Malware",
+    "link": "https://docs.abuseipdb.com/"
+  },
+  {
+    "name": "AlienVault Open Threat Exchange (OTX)",
+    "description": "IP/domain/URL reputation",
+    "category": "Anti-Malware",
+    "link": "OTX"
+  },
+  {
+    "name": "Google Safe Browsing",
+    "description": "Google Link/Domain Flagging",
+    "category": "Anti-Malware",
+    "link": "https://developers.google.com/safe-browsing/"
+  },
+  {
+    "name": "Metacert",
+    "description": "Metacert Link Flagging",
+    "category": "Anti-Malware",
+    "link": "https://metacert.com/"
+  },
+  {
+    "name": "URLhaus",
+    "description": "Bulk queries and Download Malware Samples",
+    "category": "Anti-Malware",
+    "link": "https://urlhaus-api.abuse.ch/"
+  },
+  {
+    "name": "URLScan.io",
+    "description": "Scan and Analyse URLs",
+    "category": "Anti-Malware",
+    "link": "https://urlscan.io/about-api/"
+  },
+  {
+    "name": "VirusTotal",
+    "description": "VirusTotal File/URL Analysis",
+    "category": "Anti-Malware",
+    "link": "https://www.virustotal.com/en/documentation/public-api/"
+  }
+]
