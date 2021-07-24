@@ -1,0 +1,4 @@
+jina[standard,torch,hub]
+pandas
+requests
+json
