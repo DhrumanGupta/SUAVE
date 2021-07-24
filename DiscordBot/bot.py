@@ -12,11 +12,10 @@ async def on_message(message):
   if message.author == client.user:
     return
   
-  if message.content.lower().startswith('!help'):
+    if message.content.lower().startswith('!help'):
     msg = "!list: list of categories\n!category [category]: get apis based on a category\n!use [search word/use case]: get apis on that use case"
     await message.channel.send(msg)
-  
-  if message.content.lower().startswith('!categorylist'):
+  elif message.content.lower().startswith('!list'):
     try:
       response = json.loads(requests.get(baseurl + "category").text)
       msg = ""
@@ -25,8 +24,7 @@ async def on_message(message):
       await message.channel.send(msg)
     except:
       await message.channel.send("I'll just be back. I had some lasagna that didn't suit me last night so I'm AFK.")
-
-  if message.content.lower().startswith('!category'):
+  elif message.content.lower().startswith('!category'):
     try:
       query = message.content.replace('!category ', '')
       response = json.loads(requests.get(baseurl + "category/" + query).text)
@@ -36,8 +34,7 @@ async def on_message(message):
       await message.channel.send(msg)
     except:
       await message.channel.send("Can you please use one of the listed categories in !categorylist? Why are you making my job so hard?")
-
-  if message.content.lower().startswith('!use'):
+  elif message.content.lower().startswith('!use'):
     try:
       query = message.content.replace('!use ', '')
       response = json.loads(requests.get(baseurl + query).text)
