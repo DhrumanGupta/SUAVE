@@ -298,8 +298,7 @@
     "description": "Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily",
     "category": "Search",
     "link": "https://imbrikapi.com/"
-  }
-][
+  },
   {
     "name": "Axolotl",
     "description": "Collection of axolotl pictures and facts",
