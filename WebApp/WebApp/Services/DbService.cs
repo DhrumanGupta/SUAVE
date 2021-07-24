@@ -35,7 +35,7 @@ namespace WebApp.Services
 
         public List<string> GetCategories()
         {
-            return _apiDatas.Select(x => x.Category).ToList();
+            return _apiDatas.Select(x => x.Category).Distinct().ToList();
         }
 
         public List<ApiData> GetCategoriesFromUse(string[] uses, int limit)
