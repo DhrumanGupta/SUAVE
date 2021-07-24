@@ -610,5 +610,83 @@
     "description": "VirusTotal File/URL Analysis",
     "category": "Anti-Malware",
     "link": "https://www.virustotal.com/en/documentation/public-api/"
+  },
+  {
+    "name": "Art Institute of Chicago",
+    "description": "Art",
+    "category": "Art and Design",
+    "link": "https://api.artic.edu/docs/"
+  },
+  {
+    "name": "ColourLovers",
+    "description": "Get various patterns, palettes and images",
+    "category": "Art and Design",
+    "link": "http://www.colourlovers.com/api"
+  },
+  {
+    "name": "Cooper Hewitt",
+    "description": "Smithsonian Design Museum",
+    "category": "Art and Design",
+    "link": "https://collection.cooperhewitt.org/api"
+  },
+  {
+    "name": "Dribbble",
+    "description": "Design",
+    "category": "Art and Design",
+    "link": "http://developer.dribbble.com/v2/"
+  },
+  {
+    "name": "Europeana",
+    "description": "European Museum and Galleries content",
+    "category": "Art and Design",
+    "link": "https://pro.europeana.eu/resources/apis/search"
+  },
+  {
+    "name": "Harvard Art Museums",
+    "description": "Art",
+    "category": "Art and Design",
+    "link": "https://github.com/harvardartmuseums/api-docs"
+  },
+  {
+    "name": "Iconfinder",
+    "description": "Icons",
+    "category": "Art and Design",
+    "link": "https://developer.iconfinder.com"
+  },
+  {
+    "name": "Icons8",
+    "description": "Icons",
+    "category": "Art and Design",
+    "link": "http://docs.icons8.apiary.io/#reference/0/meta"
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "description": "Met Museum of Art",
+    "category": "Art and Design",
+    "link": "https://metmuseum.github.io/"
+  },
+  {
+    "name": "Noun Project",
+    "description": "Icons",
+    "category": "Art and Design",
+    "link": "http://api.thenounproject.com/index.html"
+  },
+  {
+    "name": "PHP-Noise",
+    "description": "Noise Background Image Generator",
+    "category": "Art and Design",
+    "link": "https://php-noise.com/"
+  },
+  {
+    "name": "Pixel Encounter",
+    "description": "SVG Icon Generator",
+    "category": "Art and Design",
+    "link": "https://pixelencounter.com/api"
+  },
+  {
+    "name": "Rijksmuseum",
+    "description": "Art",
+    "category": "Art and Design",
+    "link": "https://www.rijksmuseum.nl/en/api"
   }
 ]

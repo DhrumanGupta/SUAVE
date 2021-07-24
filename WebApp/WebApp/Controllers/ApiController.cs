@@ -21,6 +21,9 @@ namespace WebApp.Controllers
             _dbService = dbService;
         }
 
+        /// <summary>
+        /// Gets all the categories available
+        /// </summary>
         [HttpGet]
         [Route("category")]
         public async Task<IActionResult> GetCategoriesAsync()
@@ -33,6 +36,10 @@ namespace WebApp.Controllers
             return Ok(records);
         }
 
+        /// <summary>
+        /// Gets all the APIs found for the category provided
+        /// </summary>
+        /// <param name="categoryName">The category to find for</param>
         [HttpGet]
         [Route("category/{categoryName}")]
         public async Task<IActionResult> GetCategoryAsync(string categoryName)
