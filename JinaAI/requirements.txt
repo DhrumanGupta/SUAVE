@@ -1,4 +1,6 @@
-jina[standard,torch,hub]
+jina[http,transformers,standard,torch,hub]
 pandas
 requests
-json
+git+https://github.com/jina-ai/jina-commons
+inquirer
+termcolor
