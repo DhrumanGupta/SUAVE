@@ -6,8 +6,7 @@ import {useSpring, animated, config} from "react-spring";
 import {Link} from "react-router-dom";
 import ProgressiveImage from "react-progressive-image";
 
-function Home(props) {
-	
+function Home() {
 	const animatedStyles = useSpring({
 		config: config.gentle,
 		from: {transform: "translateY(-20vh)", opacity: 0},
@@ -23,7 +22,7 @@ function Home(props) {
 							<Link to={'/search'}>Use Online</Link>
 						</li>
 						<li>
-							<a href={'PLEASEPUTTDISCORDBOTTOKENHERE'} target={'_blank'} rel="noreferrer">Discord Bot</a>
+							<a href={'https://discord.com/api/oauth2/authorize?client_id=868771461840637953&permissions=8&scope=bot'} target={'_blank'} rel="noreferrer">Discord Bot</a>
 						</li>
 						<li>
 							<a href={'https://github.com/DhrumanGupta/SUAVE/releases'} target={'_blank'} rel="noreferrer">AI Search</a>
