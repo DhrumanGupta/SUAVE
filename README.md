@@ -19,7 +19,7 @@ This allows easy search and traversal of APIs, unbiased searches with no promote
 ## Where Can I Access SUAVE?
 - [Website](http://exploreapiswith.tech/)
 - [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=868771461840637953&permissions=8&scope=bot)
-- [CLI](#) (Instructions Coming Soon)
+- [CLI](https://github.com/DhrumanGupta/SUAVE/releases/tag/v1.0.0-cli)
 
 ## The Story Behind SUAVE
 ### Inspiration
