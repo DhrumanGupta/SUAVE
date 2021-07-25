@@ -1,0 +1,17 @@
+.container {
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.categories {
+    display: flex;
+    max-width: 80%;
+    row-gap: 1rem;
+    column-gap: 1rem;
+}
+
+@media (min-width: 768px) {
+    .categories {
+        max-width: 70%;
+    }
+}
