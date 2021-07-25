@@ -2,17 +2,18 @@ import requests
 import json
 import discord
 import keep_alive
+import urllib
 
 client = discord.Client()
-baseurl = "https://exploreapis.azurewebsites.net/api/"
-TOKEN = "XXXXXXXXXXXX GET YOUR OWN TOKEN STOP TAKING MINE XXXXXXXXXXXX"
+baseurl = "http://exploreapiswith.tech/api/"
+TOKEN = "GET YOUR OWN DISCORD TOKEN BRO DON'T TAKE OURS ALSO YEET BLAHAJ.LOL/DISCORD"
 
 @client.event
 async def on_message(message):
   if message.author == client.user:
     return
   
-    if message.content.lower().startswith('!help'):
+  if message.content.lower().startswith('!help'):
     msg = "!list: list of categories\n!category [category]: get apis based on a category\n!use [search word/use case]: get apis on that use case"
     await message.channel.send(msg)
   elif message.content.lower().startswith('!list'):
@@ -27,9 +28,9 @@ async def on_message(message):
   elif message.content.lower().startswith('!category'):
     try:
       query = message.content.replace('!category ', '')
-      response = json.loads(requests.get(baseurl + "category/" + query).text)
+      response = json.loads(requests.get(baseurl + "category/" + urllib.parse.quote(query, safe='')).text)
       msg = ""
-      for i in range(0, 4):
+      for i in range(min(5,len(response))):
         msg += "Name: " + response[i]['name'] + "\nDescription: " + response[i]['description'] + "\nLink: <" + response[i]['link'] + ">\n--------------------------------\n"
       await message.channel.send(msg)
     except:
@@ -37,9 +38,10 @@ async def on_message(message):
   elif message.content.lower().startswith('!use'):
     try:
       query = message.content.replace('!use ', '')
+      query = urllib.parse.quote(query, safe='')
       response = json.loads(requests.get(baseurl + query).text)
       msg = ""
-      for i in range(0, 4):
+      for i in range(min(5,len(response))):
         msg += "Name: " + response[i]['name'] + "\nDescription: " + response[i]['description'] + "\nLink: <" + response[i]['link'] + ">\n--------------------------------\n"
       await message.channel.send(msg)
     except: 
