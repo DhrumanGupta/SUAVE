@@ -6,12 +6,6 @@ The Command Line Interface of SUAVE.
 
 # Installation
 
-## Using pip
-
-```bash
-    $ pip install suave_cli
-```
-
 ## Manual
 
 ### Clone the Repository
