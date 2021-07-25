@@ -4,7 +4,7 @@ import discord
 import keep_alive
 
 client = discord.Client()
-baseurl = "https://exploreapis.azurewebsites.net/api/"
+baseurl = "http://exploreapiswith.tech/"
 TOKEN = "XXXXXXXXXXXX GET YOUR OWN TOKEN STOP TAKING MINE XXXXXXXXXXXX"
 
 @client.event
