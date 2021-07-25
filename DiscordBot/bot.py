@@ -6,7 +6,7 @@ import urllib
 
 client = discord.Client()
 baseurl = "http://exploreapiswith.tech/api/"
-TOKEN = "ODY4NzcxNDYxODQwNjM3OTUz.YP0geQ._I8Wwi8gLE1dTICsGY3SP_eGPpQ"
+TOKEN = "GET YOUR OWN DISCORD TOKEN BRO DON'T TAKE OURS ALSO YEET BLAHAJ.LOL/DISCORD"
 
 @client.event
 async def on_message(message):
