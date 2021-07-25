@@ -1,0 +1,534 @@
+name,description,link,category
+Omdb,"The Open Movie Database API. The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.",https://www.omdbapi.com/,Entertainment
+Deck of Cards,Deck of Cards,http://deckofcardsapi.com/,Entertainment
+Animal Crossing: New Horizons,"API for critters, fossils, art, music, furniture and villagers",http://acnhapi.com/,Entertainment
+Hearthstone,Hearthstone Cards Information,http://hearthstoneapi.com/,Entertainment
+Random Facts,Random Facts from hundreds of categories,https://fungenerators.com/api/facts/,Entertainment
+Final Fantasy XIV,Final Fantasy XIV Game data API,https://xivapi.com/,Entertainment
+TVMaze,TV Show Data,http://www.tvmaze.com/api,Entertainment
+Hypixel,Hypixel player stats,https://api.hypixel.net/,Entertainment
+mod.io,Cross Platform Mod API,https://docs.mod.io,Entertainment
+Breaking Bad Quotes,Some Breaking Bad quotes,https://github.com/shevabam/breaking-bad-quotes,Entertainment
+Harry Potter,Harry Potter API,https://www.potterapi.com/,Entertainment
+Open Movie Database,Movie information,http://www.omdbapi.com/,Entertainment
+IGDB.com,Video Game Database,https://api.igdb.com/,Entertainment
+Lolwallpapers Api,League of Legends Wallpapers website official API.,https://api.lolwallpapers.net/,Entertainment
+SpaceTradersAPI,rel=pub-apis) | ,https://spacetraders.io?rel=pub-apis,Entertainment
+Scryfall,Magic: The Gathering database,https://scryfall.com/docs/api,Entertainment
+Chuck Norris Database,Jokes,http://www.icndb.com/api/,Entertainment
+Fortnite,Fortnite Stats,https://fortnitetracker.com/site-api,Entertainment
+Jservice,Jeopardy Question Database,http://jservice.io,Entertainment
+Comic Vine,Comics,https://comicvine.gamespot.com/api/documentation,Entertainment
+TVDB,Television data,https://api.thetvdb.com/swagger,Entertainment
+Hytale,Hytale blog posts and jobs,https://hytale-api.com/,Entertainment
+Tronald Dump,The dumbest things Donald Trump has ever said,https://www.tronalddump.io/,Entertainment
+Ron Swanson Quotes,Television,https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api,Entertainment
+Psychonauts,Psychonauts World Characters Information and PSI Powers,https://psychonauts-api.netlify.app/,Entertainment
+GW2Spidy,"GW2Spidy API, Items data on the Guild Wars 2 Trade Market",https://github.com/rubensayshi/gw2spidy/wiki,Entertainment
+An API of Ice And Fire,Game Of Thrones API,https://anapioficeandfire.com/,Entertainment
+TMDb,Community-based movie data,https://www.themoviedb.org/documentation/api,Entertainment
+The Star Wars Api,"All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species.",https://swapi.co/,Entertainment
+Final Space,Final Space API,https://finalspaceapi.com/docs/,Entertainment
+xkcd,Retrieve xkcd comics as JSON,https://xkcd.com/json.html,Entertainment
+RuneScape,RuneScape and OSRS RPGs information,https://runescape.wiki/w/Application_programming_interface,Entertainment
+PandaScore,E-sports games and results,https://developers.pandascore.co/,Entertainment
+Pokémon TCG,Pokémon TCG Information,https://pokemontcg.io,Entertainment
+Giant Bomb,Video Games,https://www.giantbomb.com/api/documentation,Entertainment
+Vimeo,Vimeo Developer API,https://developer.vimeo.com/,Entertainment
+Dailymotion,Dailymotion Developer API,https://developer.dailymotion.com/,Entertainment
+Steam,Steam Client Interaction,https://developer.valvesoftware.com/wiki/Steam_Web_API,Entertainment
+PlayerUnknown's Battlegrounds,PUBG Stats,https://pubgtracker.com/site-api,Entertainment
+Dark Souls 3,Information about Dark Souls 3 Items,https://blog.mugenmonkey.com/2017/09/10/ds3-api.html,Entertainment
+Clash of Clans,Clash of Clans Game Information,https://developer.clashofclans.com,Entertainment
+Magic The Gathering,Magic The Gathering Game Information,http://magicthegathering.io/,Entertainment
+The Lord Of The Rings Api,"The one API serves your needs regarding data about The Lord of the Rings, the epic books by J. R. R. Tolkien and the movie adaptions by Peter Jackson. It provides information about the books, the movie trilogy, many characters and quotes.",https://the-one-api.dev/,Entertainment
+CheapShark,Steam/PC Game Prices and Deals,https://www.cheapshark.com/api,Entertainment
+The Lord of the Rings,The Lord of the Rings API,https://the-one-api.dev/,Entertainment
+Halo,Halo 5 and Halo Wars 2 Information,https://developer.haloapi.com/,Entertainment
+Open Trivia,Trivia Questions,https://opentdb.com/api_config.php,Entertainment
+Fortnite Api,A fortnite tracker api that returns data about and account,https://fortnite-api.com/,Entertainment
+MCU Countdown,A Countdown to the next MCU Film,https://github.com/DiljotSG/MCU-Countdown,Entertainment
+Dota 2,"Provides information about Player stats , Match stats, Rankings for Dota 2",https://docs.opendota.com/,Entertainment
+FreeToGame,Free-To-Play Games Database,https://www.freetogame.com/api-doc,Entertainment
+Dungeons and Dragons,"Reference for 5th edition spells, classes, monsters, and more",http://www.dnd5eapi.co/,Entertainment
+Clash Royale,Clash Royale Game Information,https://developer.clashroyale.com,Entertainment
+Jokes One,Joke of the day and large category of jokes accessible via REST API,https://jokes.one/api/joke/,Entertainment
+Age of Empires II,Get information about Age of Empires II resources,https://age-of-empires-2-api.herokuapp.com,Entertainment
+Lichess,"Access to all data of users, games, puzzles and etc on Lichess",https://lichess.org/api,Entertainment
+Rick and Morty,"All the Rick and Morty information, including images",https://rickandmortyapi.com,Entertainment
+SWAPI,All things Star Wars,https://www.swapi.tech,Entertainment
+Jokes,Programming and general jokes,https://github.com/15Dkatz/official_joke_api,Entertainment
+Trakt,Movie and TV Data,https://trakt.tv/b/api-docs,Entertainment
+Czech Television,TV programme of Czech TV,http://www.ceskatelevize.cz/xml/tv-program/,Entertainment
+FIFA Ultimate Team,FIFA Ultimate Team items API,https://www.easports.com/fifa/ultimate-team/api/fut/item,Entertainment
+ErosNow,API for Bollywood films and many more,https://erosnow.com/developers/api/,Entertainment
+Humble Bundle,Humble Bundle's current bundles,https://rapidapi.com/Ziggoto/api/humble-bundle,Entertainment
+Hyrule Compendium,Data on all interactive items from The Legend of Zelda: BOTW,https://github.com/gadhagod/Hyrule-Compendium-API,Entertainment
+Pokéapi,Pokémon Information,https://pokeapi.co,Entertainment
+Breaking Bad,Breaking Bad API,https://breakingbadapi.com/documentation,Entertainment
+Riot Games,League of Legends Game Information,https://developer.riotgames.com/,Entertainment
+Mario Kart Tour,"API for Drivers, Karts, Gliders and Courses",https://mario-kart-tour-api.herokuapp.com/,Entertainment
+JokeAPI,"Programming, Miscellaneous and Dark Jokes",https://sv443.net/jokeapi/v2/,Entertainment
+SuperHeroes,All SuperHeroes and Villains data from all universes under a single API,https://superheroapi.com,Entertainment
+The Vampire Diaries,TV Show Data,https://vampire-diaries-api.netlify.app/,Entertainment
+Guild Wars 2,Guild Wars 2 Game Information,https://wiki.guildwars2.com/wiki/API:Main,Entertainment
+Autochess VNG,Rest Api for Autochess VNG,https://github.com/didadadida93/autochess-vng-api,Entertainment
+TCGdex,Multi languages Pokémon TCG Information,https://www.tcgdex.net/docs,Entertainment
+Brawl Stars,Brawl Stars Game Information,https://developer.brawlstars.com,Entertainment
+Eve Online,Third-Party Developer Documentation,https://esi.evetech.net/ui,Entertainment
+AmiiboAPI,Nintendo Amiibo Information,https://amiiboapi.com/,Entertainment
+Wargaming.net,Wargaming.net info and stats,https://developers.wargaming.net/,Entertainment
+STAPI,Information on all things Star Trek,http://stapi.co,Entertainment
+GamerPower,Game Giveaways Tracker,https://www.gamerpower.com/api-read,Entertainment
+Barter.VG,"Provides information about Game, DLC, Bundles, Giveaways, Trading",https://github.com/bartervg/barter.vg/wiki,Entertainment
+YouTube,Add YouTube functionality to your sites and apps,https://developers.google.com/youtube/,Entertainment
+Game of Thrones Quotes,Some Game of Thrones quotes,https://gameofthronesquotes.xyz/,Entertainment
+Destiny The Game,Bungie Platform API,https://github.com/Bungie-net/api,Entertainment
+Marvel,Marvel Comics,http://developer.marvel.com,Entertainment
+Board Game Geek,"Board games, RPG and videogames",https://boardgamegeek.com/wiki/page/BGG_XML_API2,Entertainment
+Movie Quote,Random Movie and Series Quotes,https://github.com/F4R4N/movie-quote/,Entertainment
+GitHub,"Make use of GitHub repositories, code and user info programmatically",https://docs.github.com/en/free-pro-team@latest/rest,Development
+SHOUTCLOUD,ALL-CAPS AS A SERVICE,http://shoutcloud.io/,Development
+Browshot,"Easily make screenshots of web pages in any screen size, as any device",https://browshot.com/api/documentation,Development
+Ciprand,Secure random string generator,https://github.com/polarspetroll/ciprand,Development
+Nationalize.io,Estimate the nationality of a first name,https://nationalize.io,Development
+import.io,Retrieve structured data from a website or RSS feed,http://api.docs.import.io/,Development
+Gorest,Online REST API for Testing and Prototyping,https://gorest.co.in/,Development
+IBM Text to Speech,Convert text to speech,https://cloud.ibm.com/docs/text-to-speech/getting-started.html,Development
+Tyk,Api and service management platform,https://tyk.io/open-source/,Development
+Agify.io,Estimates the age from a first name,https://agify.io,Development
+ScrapingDog,Proxy API for Web scraping,https://www.scrapingdog.com/,Development
+Scraper.AI,Extract and monitor data from any website,https://docs.scraper.ai/#/,Development
+jsDelivr,Package info and download stats on jsDelivr CDN,https://github.com/jsdelivr/data.jsdelivr.com,Development
+Serialif Color,"Color conversion, complementary, grayscale and contrasted text",https://color.serialif.com/,Development
+GETPing,Trigger an email notification with a simple GET request,https://www.getping.info,Development
+Pusher Beams,Push notifications for Android & iOS,https://pusher.com/beams,Development
+ExtendsClass JSON Storage,A simple JSON store API,https://extendsclass.com/json-storage.html,Development
+MicroENV,Fake Rest API for developers,https://microenv.com/,Development
+Httpbin Cloudflare,A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare,https://cloudflare-quic.com/b/,Development
+CDNJS,Library info on CDNJS,https://api.cdnjs.com/libraries/jquery,Development
+IFTTT,IFTTT Connect API,https://platform.ifttt.com/docs/connect_api,Development
+ScraperApi,Easily build scalable web scrapers,https://www.scraperapi.com,Development
+scraperBox,Undetectable web scraping API,https://scraperbox.com/,Development
+Bored,Find random activities to fight boredom,https://www.boredapi.com/,Development
+Bitbucket,Bitbucket API,https://developer.atlassian.com/bitbucket/api/2/reference/,Development
+Blitapp,Schedule screenshots of web pages and sync them to your cloud,https://blitapp.com/api/,Development
+Genderize.io,Estimates a gender from a first name,https://genderize.io,Development
+QuickChart,Generate chart and graph images,https://quickchart.io/,Development
+CountAPI,Free and simple counting service. You can use it to track page hits and specific events,https://countapi.xyz,Development
+Host.io,Domains Data API for Developers,https://host.io,Development
+JSON 2 JSONP,Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript,https://json2jsonp.com/,Development
+Form2Channel,"Send static html form submissions to Google Sheets, Email, Slack or Telegram",https://form2channel.com/,Development
+IP2WHOIS Information Lookup,WHOIS domain name lookup,https://www.ip2whois.com/,Development
+IPinfo,Another simple IP Address API,https://ipinfo.io/developers,Development
+DigitalOcean Status,Status of all DigitalOcean services,https://status.digitalocean.com/api,Development
+ApiFlash,Chrome based screenshot API for developers,https://apiflash.com/,Development
+24 Pull Requests,Project to promote open source collaboration during December,https://24pullrequests.com/api,Development
+ReqRes,A hosted REST-API ready to respond to your AJAX requests,https://reqres.in/ ,Development
+Statically,A free CDN for developers,https://statically.io/,Development
+APIs.guru,"Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",https://apis.guru/api-doc/,Development
+RSS feed to JSON,Returns RSS feed in JSON format using feed URL,https://rss-to-json-serverless-api.vercel.app,Development
+ApicAgent,Extract device details from user-agent string,https://www.apicagent.com,Development
+Judge0,Compile and run source code,https://api.judge0.com/,Development
+QR Code,Create new QR Code or decode existing one,https://fungenerators.com/api/qrcode/,Development
+Hexabin,"Convert and retrieve hexadecimal, binary, decimal, and octal values with ease",https://hexabin.herokuapp.com/,Development
+ProxyCrawl,Scraping and crawling anticaptcha service,https://proxycrawl.com,Development
+Gitter,Chat for Developers,https://developer.gitter.im/docs/welcome,Development
+host-t.com,Basic DNS query via HTTP GET request,https://host-t.com,Development
+Postman,Tool for testing APIs,https://docs.api.getpostman.com/,Development
+ScrapingAnt,Headless Chrome scraping with a simple API,https://scrapingant.com,Development
+serpstack,Real-Time & Accurate Google Search Results API,https://serpstack.com/,Development
+Gitlab,Automate GitLab interaction programmatically,https://docs.gitlab.com/ee/api/,Development
+DomainDb Info,Domain name search to find all domains containing particular words/phrases/etc,https://api.domainsdb.info/,Development
+StackExchange,Q&A forum for developers,https://api.stackexchange.com/,Development
+HTTP2.Pro,Test endpoints for client and server HTTP/2 protocol support,https://http2.pro/doc/api,Development
+Trending-Github,Discover what is currently trending on github,https://docs.trending-github.com,Development
+License-API,Unofficial REST API for choosealicense.com,https://github.com/cmccandless/license-api/blob/master/README.md,Development
+IPify,A simple IP Address API,https://www.ipify.org/,Development
+OOPSpam,Multiple spam filtering service,https://oopspam.com/,Development
+WebScraping.AI,Web Scraping API with built-in proxies and JS rendering,https://webscraping.ai/,Development
+Glitterly,Image generation API,https://developers.glitterly.app,Development
+Icanhazepoch,Get Epoch time,https://icanhazepoch.com,Development
+JSONbin.io,"Free JSON storage service. Ideal for small scale Web apps, Websites and Mobile apps",https://jsonbin.io,Development
+scrapestack,"Real-time, Scalable Proxy & Web Scraping REST API",https://scrapestack.com/,Development
+Httpbin,A Simple HTTP Request & Response Service,https://httpbin.org/,Development
+userstack,Secure User-Agent String Lookup JSON API,https://userstack.com/,Development
+Public APIs,A collective list of free JSON APIs for use in web development,https://github.com/davemachado/public-api,Development
+Kroki,Creates diagrams from textual descriptions,https://kroki.io,Development
+ScreenshotAPI.net,Create pixel-perfect website screenshots,https://screenshotapi.net/,Development
+PageCDN,"Public API for javascript, css and font libraries on PageCDN",https://pagecdn.com/docs/public-api,Development
+Cloudflare Trace,"Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",https://github.com/fawazahmed0/cloudflare-trace-api,Development
+MAC address vendor lookup,Retrieve vendor details and other information regarding a given MAC address or an OUI,https://macaddress.io/api,Development
+Icanhazip,IP Address API,https://major.io/icanhazip-com-faq/,Development
+Changelogs.md,Structured changelog metadata from open source projects,https://changelogs.md,Development
+QR code,Generate and decode / read QR code graphics,http://qrtag.net/api/,Development
+Abstract Screenshot,Take programmatic screenshots of web pages from any website,https://www.abstractapi.com/website-screenshot-api,Development
+Sport List & Data,List of and resources related to sports,https://developers.decathlon.com/products/sports,Sports
+Wger,"Workout manager data as exercises, muscles or equipment",https://wger.de/en/software/api,Sports
+balldontlie,Balldontlie provides access to stats data from the NBA,https://balldontlie.io,Sports
+SuredBits,"Query sports data, including teams, players, games, scores and statistics",https://suredbits.com/api/,Sports
+Ergast F1,F1 data from the beginning of the world championships in 1950,http://ergast.com/mrd/,Sports
+MLB Records and Stats,Current and historical MLB statistics,https://appac.github.io/mlb-data-api-docs/,Sports
+Football Prediction,"API that offers predictions for upcoming football (soccer) matches, odds and performance stats.",https://boggio-analytics.com/fp-api/,Sports
+Canadian Football League (CFL),"Official JSON API providing real-time league, team and player statistics about the CFL",CFL,Sports
+City Bikes,City Bikes around the world,http://api.citybik.es/v2/,Sports
+Strava,"Connect with athletes, activities and more",https://strava.github.io/api/,Sports
+TheSportsDB,Crowd-Sourced Sports Data and Artwork,https://www.thesportsdb.com/api.php,Sports
+BikeWise,"Bikewise is a place to learn about and report bike crashes, hazards and thefts",https://www.bikewise.org/documentation/api_v2,Sports
+NBA Stats,Current and historical NBA Statistics,https://any-api.com/nba_com/nba_com/docs/API_Description,Sports
+Football (Soccer) Videos,"Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",Soccer,Sports
+The Sports Db,"With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)",https://www.thesportsdb.com/api.php,Sports
+Football-Data.org,Football Data,http://api.football-data.org/index,Sports
+JCDecaux Bike,JCDecaux's self-service bicycles,https://developer.jcdecaux.com/,Sports
+Fitbit,Fitbit Information,https://dev.fitbit.com/,Sports
+NHL Records and Stats,NHL historical data and statistics,https://gitlab.com/dword4/nhlapi,Sports
+Mixcloud,Music,https://www.mixcloud.com/developers/,Music
+Genrenator,Music genre generator,https://binaryjazz.us/genrenator-api/,Music
+Genius,Crowdsourced lyrics and music knowledge,https://docs.genius.com/,Music
+Apple Music,Official API of the music streaming site Apple Music,https://developer.apple.com/documentation/applemusicapi/,Music
+LastFm,Music,https://www.last.fm/api,Music
+SoundCloud API,"Discover, stream, and share a constantly expanding mix of music from emerging and major artists around the world.",https://developers.soundcloud.com/,Music
+Songsterr,"Provides guitar, bass and drums tabs and chords",https://www.songsterr.com/a/wa/api/,Music
+SoundCloud,Allow users to upload and share sounds,https://developers.soundcloud.com/,Music
+Theaudiodb,Music,https://www.theaudiodb.com/,Music
+Jamendo,Music,https://developer.jamendo.com/v3.0/docs,Music
+TasteDive,Similar artist API (also works for movies and TV shows),https://tastedive.com/read/api,Music
+KKBOX,"Get music libraries, playlists, charts, and perform out of KKBOX's platform",https://developer.kkbox.com,Music
+Openwhyd,"Download curated playlists of streaming tracks YouTube, SoundCloud, etc...",https://openwhyd.github.io/openwhyd/API,Music
+Bandsintown,Music Events,https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0,Music
+7digital,Api of Music store 7digital,https://docs.7digital.com/reference,Music
+Audiomack,Api of the streaming music hub Audiomack,https://www.audiomack.com/data-api/docs,Music
+iTunes Search,Software products,https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/,Music
+BlipFm,Api of BlipFm,http://api.blip.fm/,Music
+Spotify,"View Spotify music catalog, manage users' libraries, get recommendations and more",https://developer.spotify.com/documentation/web-api/,Music
+JioSaavn,"API to retrive song information, album meta data and many more from JioSaavn",https://github.com/cyberboysumanjay/JioSaavnAPI,Music
+MusixMatch,Let’s you legally display lyrics of over 640k artists and 13M tracks on your app or website,https://developer.musixmatch.com/documentation,Music
+Deezer,Music,https://developers.deezer.com/api,Music
+KSoft.Si Lyrics,API to get lyrics for songs,https://docs.ksoft.si/api/lyrics-api,Music
+Freesound,Music Samples,https://freesound.org/docs/api/,Music
+MusicBrainz,Music,https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2,Music
+Lyrics.ovh,Simple API to retrieve the lyrics of a song,http://docs.lyricsovh.apiary.io/,Music
+Bandcamp,API of Music store Bandcamp,https://bandcamp.com/developer,Music
+Vagalume,Crowdsourced lyrics and music knowledge,https://api.vagalume.com.br/docs/,Music
+Songkick,Music Events,https://www.songkick.com/developer/,Music
+AI Mastering,Automated Music Mastering,https://aimastering.com/api_docs/,Music
+Discogs,Music,https://www.discogs.com/developers/,Music
+apilayer ipstack,Locate and identify website visitors by IP address,https://ipstack.com/,Location
+Geocoding.ai,Provides worldwide forward / reverse geocoding,https://nominatim.geocoding.ai/,Location
+US ZipCode,Validate and append data for any US ZipCode,https://smartystreets.com/docs/cloud/us-zipcode-api,Location
+GeoDataSource,Geocoding of city name by using latitude and longitude coordinates,https://www.geodatasource.com/web-service,Location
+IPGEO,Unlimited free IP Address API with useful information,https://api.techniknews.net/ipgeo/,Location
+Zippopotam.us,"Get information about place such as country, city, state, etc",http://www.zippopotam.us,Location
+Uebermaps,Discover and share maps with friends,https://uebermaps.com/api/v2,Location
+OpenStreetMap,"Navigation, geolocation and geographical data",http://wiki.openstreetmap.org/wiki/API,Location
+ZipCodeAPI,"US zip code distance, radius and location API",https://www.zipcodeapi.com,Location
+Airtel IP,full=true) | ,https://sys.airtel.lv/ip2country/1.1.1.1/?full=true,Location
+PostcodeData.nl,postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json) | ,http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json,Location
+Bing Maps,Create/customize digital maps based on Bing Maps data,https://www.microsoft.com/maps/,Location
+Localizr,"Get a list of countries,currencies or locales translated from a locale/language code",https://docs.localizr.xyz,Location
+OnWater,Determine if a lat/lon is on water or land,https://onwater.io/,Location
+Postcodes.io,Postcode lookup & Geolocation for the UK,https://postcodes.io,Location
+"One Map, Singapore",Singapore Land Authority REST API services for Singapore addresses,https://docs.onemap.sg/,Location
+GeoNames,Place names and other geographical data,http://www.geonames.org/export/web-services.html,Location
+IPInfoDB,"Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address",https://ipinfodb.com/api,Location
+Cep.la,"Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",http://cep.la/,Location
+GeoJS,IP geolocation with ChatOps integration,https://geojs.io/,Location
+HERE Maps,Create/customize digital maps based on HERE Maps data,https://developer.here.com,Location
+Daum Maps,Daum Maps provide multiple APIs for Korean maps,http://apis.map.daum.net/,Location
+GeoApi,French geographical data,https://api.gouv.fr/api/geoapi.html,Location
+RoadGoat Cities,Cities content & photos API,https://www.roadgoat.com/business/cities-api,Location
+geoPlugin,IP geolocation and currency conversion,https://www.geoplugin.com,Location
+IP2Proxy,Detect proxy and VPN using IP address,https://www.ip2location.com/web-service/ip2proxy,Location
+HelloSalut,Get hello translation following user language,https://www.fourtonfish.com/hellosalut/hello/,Location
+Abstract IP Geolocation,Geolocate website visitors from their IPs,https://www.abstractapi.com/ip-geolocation-api,Location
+OpenCage,Forward and reverse geocoding using open data,https://opencagedata.com,Location
+ViaCep,Brazil RESTful zip codes API,https://viacep.com.br,Location
+Geocodify.com,"Worldwide geocoding, geoparsing and autocomplete for addresses",https://geocodify.com/,Location
+Cartes.io,Create maps and markers for anything,https://github.com/M-Media-Group/Cartes.io/wiki/API,Location
+positionstack,Forward & Reverse Batch Geocoding REST API,https://positionstack.com/,Location
+Google Maps,Create/customize digital maps based on Google Maps data,https://developers.google.com/maps/,Location
+IP 2 Country,Map an IP to a country,https://ip2country.info,Location
+Country,Get your visitors' country from their IP,http://country.is/,Location
+IP Vigilante,Free IP Geolocation API,https://www.ipvigilante.com/,Location
+Google Earth Engine,A cloud-based platform for planetary-scale environmental data analysis,https://developers.google.com/earth-engine/,Location
+Geocod.io,Address geocoding / reverse geocoding in bulk,https://www.geocod.io/,Location
+LocationIQ,Provides forward/reverse geocoding and batch geocoding,https://locationiq.org/docs/,Location
+Ziptastic,"Get the country, state, and city of any US zip-code",https://ziptasticapi.com/,Location
+Utah AGRC,Utah Web API for geocoding Utah addresses,https://api.mapserv.utah.gov,Location
+REST Countries,Get information about countries via a RESTful API,https://restcountries.eu,Location
+openrouteservice.org,"Directions, POIs, isochrones, geocoding (+reverse), elevation, and more",https://openrouteservice.org/,Location
+Hong Kong GeoData Store,API for accessing geo-data of Hong Kong,https://geodata.gov.hk/gs/,Location
+CountryStateCity,"World countries, states, regions, provinces, cities & towns in JSON, SQL, XML, YAML, & CSV format",https://countrystatecity.in/,Location
+Geocode.xyz,"Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",https://geocode.xyz/api,Location
+Graph Countries,"Country-related data like currencies, languages, flags, regions+subregions and bordering countries",https://github.com/lennertVanSever/graphcountries,Location
+IPGeolocationAPI.com,Locate your visitors by IP with country details,https://ipgeolocationapi.com/,Location
+Mexico,Mexico RESTful zip codes API,https://github.com/IcaliaLabs/sepomex,Location
+FreeGeoIP,"Free geo ip information, no registration required. 15k/hour rate limit",https://freegeoip.app/,Location
+IP Sidekick,Geolocation API that returns extra information about an IP address,https://ipsidekick.com,Location
+Geoapify,"Forward and reverse geocoding, address autocomplete",https://www.geoapify.com/api/geocoding-api/,Location
+Battuta,A country/region/city in-cascade location API,http://battuta.medunes.net,Location
+IP Address Details,Find geolocation with ip address,https://ipinfo.io/,Location
+Mapbox,Create/customize beautiful digital maps,https://www.mapbox.com/developers/,Location
+Open Topo Data,Elevation and ocean depth for a latitude and longitude,https://www.opentopodata.org,Location
+CitySDK,Open APIs for select European cities,http://www.citysdk.eu/citysdk-toolkit/,Location
+IP Location,Find location with ip address,https://ipapi.co/api/#introduction,Location
+SpotSense,Add location based interactions to your mobile app,https://www.spotsense.io,Location
+adresse.data.gouv.fr,"Address database of France, geocoding and reverse",https://adresse.data.gouv.fr,Location
+ipapi,Real-time Geolocation & Reverse IP Lookup REST API,https://ipapi.com/,Location
+IP2Location,IP geolocation web service to get more than 55 parameters,https://www.ip2location.com/web-service/ip2location,Location
+bng2latlong,Convert British OSGB36 easting and northing British National Grid to WGS84 latitude and longitude,https://www.getthedata.com/bng2latlong,Location
+BigDataCloud,Provides fast and accurate IP geolocation APIs along with security checks and confidence area,https://www.bigdatacloud.com/ip-geolocation-apis,Location
+QWeather,Location-based weather data,https://dev.qweather.com/,Weather
+Openweathermap,Weather,https://openweathermap.org/api,Weather
+openSenseMap,Data from Personal Weather Stations called senseBoxes,https://api.opensensemap.org/,Weather
+TheRainery,Forecast models from meteorological institutes,https://therainery.com/documentation/,Weather
+Troposphere,Global weather and climate data,https://www.troposphere.io/developer,Weather
+AccuWeather,Weather and forecast data,https://developer.accuweather.com/apis,Weather
+Meteorologisk Institutt,Weather and climate data,https://api.met.no/weatherapi/documentation,Weather
+ColorfulClouds,Weather,https://open.caiyunapp.com/ColorfulClouds_Weather_API,Weather
+AviationWeather,NOAA aviation weather forecasts and observations,https://www.aviationweather.gov/dataserver,Weather
+Weatherbit,Weather,https://www.weatherbit.io/api,Weather
+7Timer!,lang=en) | ,http://www.7timer.info/doc.php?lang=en,Weather
+weatherstack,Real-Time & Historical World Weather Data API,https://weatherstack.com/,Weather
+ODWeather,Weather and weather webcams,http://api.oceandrivers.com/static/docs.html,Weather
+Storm Glass,Global marine weather from multiple sources,https://stormglass.io/,Weather
+APIXU,Weather,https://www.apixu.com/doc/request.aspx,Weather
+Visual Crossing,Global historical and weather forecast data,https://www.visualcrossing.com/weather-api,Weather
+NOAA Climate Data,Weather and climate data,https://www.ncdc.noaa.gov/cdo-web/,Weather
+OpenUV,Real-time UV Index Forecast,https://www.openuv.io,Weather
+weather-api,A RESTful free API to check the weather,https://github.com/robertoduessmann/weather-api,Weather
+MetaWeather,Weather,https://www.metaweather.com/api/,Weather
+Foreca,Weather,https://developer.foreca.com,Weather
+Coinmarketcap,Cryptocurrencies Prices,https://coinmarketcap.com/api/,Finance
+Rig Veda,"Gods and poets, their categories, and the verse meters, with the mandal and sukta number",https://aninditabasu.github.io/indica/html/rv.html,Books
+Open Library,"Books, book covers and related data",https://openlibrary.org/developers/api,Books
+Bible,"RESTful Bible API with 7 versions, 4 languages and multiple features",https://bibleapi.co/,Books
+Vedic Society,"Descriptions of all nouns (names, places, animals, things) from vedic literature",https://aninditabasu.github.io/indica/html/vs.html,Books
+Crossref Metadata Search,Books & Articles Metadata,https://github.com/CrossRef/rest-api-doc,Books
+Quran Cloud,"A RESTful Quran API to retrieve an Ayah, Surah, Juz or the enitre Holy Quran",https://alquran.cloud/api,Books
+Google Books,Books,https://developers.google.com/books/,Books
+Penguin Publishing,"Books, book covers and related data",http://www.penguinrandomhouse.biz/webservices/rest/,Books
+Bhagavad Gita,Open Source Shrimad Bhagavad Gita API including 21+ authors translation in Sanskrit/English/Hindi,https://docs.bhagavadgitaapi.in,Books
+Wolne Lektury,API for obtaining information about e-books available on the WolneLektury.pl website,https://wolnelektury.pl/api/,Books
+Quran,RESTful Quran API with multiple languages,https://quran.api-docs.io/,Books
+LibGen,Library Genesis search engine,https://garbage.world/posts/libgen/,Books
+British National Bibliography,Books,http://bnb.data.bl.uk/,Books
+Thirukkural,1330 Thirukkural poems and explanation in Tamil and English,https://api-thirukkural.web.app/,Books
+Quran-api,Free Quran API Service with 90+ different languages and 400+ translations,https://github.com/fawazahmed0/quran-api#readme,Books
+New York Times Books,Book reviews and The New York Times Best Sellers lists,https://developer.nytimes.com/docs/books-product/1/overview,Books
+AlienVault Open Threat Exchange (OTX),IP/domain/URL reputation,OTX,Anti-Malware
+Google Safe Browsing,Google Link/Domain Flagging,https://developers.google.com/safe-browsing/,Anti-Malware
+AbuseIPDB,IP/domain/URL reputation,https://docs.abuseipdb.com/,Anti-Malware
+URLScan.io,Scan and Analyse URLs,https://urlscan.io/about-api/,Anti-Malware
+URLhaus,Bulk queries and Download Malware Samples,https://urlhaus-api.abuse.ch/,Anti-Malware
+Metacert,Metacert Link Flagging,https://metacert.com/,Anti-Malware
+VirusTotal,VirusTotal File/URL Analysis,https://www.virustotal.com/en/documentation/public-api/,Anti-Malware
+PHP-Noise,Noise Background Image Generator,https://php-noise.com/,Art and Design
+Art Institute of Chicago,Art,https://api.artic.edu/docs/,Art and Design
+Rijksmuseum,Art,https://www.rijksmuseum.nl/en/api,Art and Design
+Noun Project,Icons,http://api.thenounproject.com/index.html,Art and Design
+Dribbble,Design,http://developer.dribbble.com/v2/,Art and Design
+Iconfinder,Icons,https://developer.iconfinder.com,Art and Design
+Pixel Encounter,SVG Icon Generator,https://pixelencounter.com/api,Art and Design
+Europeana,European Museum and Galleries content,https://pro.europeana.eu/resources/apis/search,Art and Design
+ColourLovers,"Get various patterns, palettes and images",http://www.colourlovers.com/api,Art and Design
+Cooper Hewitt,Smithsonian Design Museum,https://collection.cooperhewitt.org/api,Art and Design
+Harvard Art Museums,Art,https://github.com/harvardartmuseums/api-docs,Art and Design
+Metropolitan Museum of Art,Met Museum of Art,https://metmuseum.github.io/,Art and Design
+Icons8,Icons,http://docs.icons8.apiary.io/#reference/0/meta,Art and Design
+Currency-api,Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits,https://github.com/fawazahmed0/currency-api#readme,Currency
+Blockchain,"Bitcoin Payment, Wallet & Transaction Data",https://www.blockchain.com/api,Currency
+CoinRanking,Live Cryptocurrency data,https://docs.coinranking.com/,Currency
+Cryptonator,Cryptocurrencies Exchange Rates,https://www.cryptonator.com/api/,Currency
+Binance,Exchange for Trading Cryptocurrencies based in China,https://github.com/binance/binance-spot-api-docs,Currency
+Coinlore,"Cryptocurrencies prices, volume and more",https://www.coinlore.com/cryptocurrency-data-api,Currency
+VATComply.com,"Exchange rates, geolocation and VAT number validation",https://www.vatcomply.com/documentation,Currency
+CoinCap,Real time Cryptocurrency prices through a RESTful API,https://docs.coincap.io/,Currency
+Coinbase,"Bitcoin, Bitcoin Cash, Litecoin and Ethereum Prices",https://developers.coinbase.com,Currency
+Czech National Bank,A collection of exchange rates,https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml,Currency
+Coinbase Pro,Cryptocurrency Trading Platform,https://docs.pro.coinbase.com/#api,Currency
+1Forge,Forex currency market data,https://1forge.com/forex-data-api/api-documentation,Currency
+WorldCoinIndex,Cryptocurrencies Prices,https://www.worldcoinindex.com/apiservice,Currency
+MercadoBitcoin,Brazilian Cryptocurrency Information,https://www.mercadobitcoin.net/api-doc/,Currency
+ExchangeRate-API,Free currency conversion,https://www.exchangerate-api.com,Currency
+CoinGecko,"Cryptocurrency Price, Market, and Developer/Social Data",http://www.coingecko.com/api,Currency
+BitcoinCharts,Financial and Technical Data related to the Bitcoin Network,https://bitcoincharts.com/about/exchanges/,Currency
+Coinlib,Crypto Currency Prices,https://coinlib.io/apidocs,Currency
+CoinDesk,Bitcoin Price Index,http://www.coindesk.com/api/,Currency
+BlockFacts,"Real-time crypto data from multiple exchanges via a single unified API, and much more",https://blockfacts.io/,Currency
+Technical Analysis,Cryptocurrency prices and technical analysis,https://technical-analysis-api.com,Currency
+CryptoMarket,Cryptocurrencies Trading platform,https://developers.cryptomkt.com,Currency
+Poloniex,US based digital asset exchange,https://poloniex.com/support/api/,Currency
+Coinigy,Interacting with Coinigy Accounts and Exchange Directly,https://coinigy.docs.apiary.io,Currency
+Bittrex,Next Generation Crypto Trading Platform,https://bittrex.com/Home/Api,Currency
+CoinStats,version=latest) | ,https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest,Currency
+VALR,Cryptocurrency Exchange based in South Africa,https://docs.valr.com/,Currency
+Nexchange,Automated cryptocurrency exchange service,https://nexchange2.docs.apiary.io/,Currency
+Currencylayer,Exchange rates and currency conversion,https://currencylayer.com/documentation,Currency
+Gemini,Cryptocurrencies Exchange,https://docs.gemini.com/rest-api/,Currency
+Nomics,Historical and realtime cryptocurrency prices and market data,https://nomics.com/docs/,Currency
+WallstreetBets,WallstreetBets Stock Comments Sentiment Analysis,https://dashboard.nbshare.io/apps/reddit/api/,Currency
+ICObench,"Various information on listing, ratings, stats, and more",https://icobench.com/developers,Currency
+National Bank of Poland,A collection of currency exchange rates (data in XML and JSON),http://api.nbp.pl/en.html,Currency
+Block,"Bitcoin Payment, Wallet & Transaction Data",https://www.block.io/docs/basic,Currency
+CoinAPI,All Currency Exchanges integrate under a single api,https://docs.coinapi.io/,Currency
+Exchangeratesapi.io,Exchange rates with currency conversion,https://exchangeratesapi.io,Currency
+Coinpaprika,"Cryptocurrencies prices, volume and more",https://api.coinpaprika.com,Currency
+Exchangerate.host,Free foreign exchange & crypto rates API,https://exchangerate.host,Currency
+coinlayer,Real-time Crypto Currency Exchange Rates,https://coinlayer.com,Currency
+BitcoinAverage,Digital Asset Price Data for the blockchain industry,https://apiv2.bitcoinaverage.com/,Currency
+Bitmex,Real-Time Cryptocurrency derivatives trading platform based in Hong Kong,https://www.bitmex.com/app/apiOverview,Currency
+Covalent,Multi-blockchain data aggregator,https://www.covalenthq.com/docs/api/,Currency
+CryptoCompare,Cryptocurrencies Comparison,https://www.cryptocompare.com/api#,Currency
+CurrencyScoop,Real-time and historical currency rates JSON API,https://currencyscoop.com/api-documentation,Currency
+Bitfinex,Cryptocurrency Trading Platform,https://docs.bitfinex.com/docs,Currency
+apilayer fixer.io,Exchange rates and currency conversion,https://fixer.io,Currency
+Frankfurter,"Exchange rates, currency conversion and time series",https://www.frankfurter.app/docs,Currency
+Intellexer,"Processing (NLP) Service including sentiment analysis, content extraction, and language detection",http://esapi.intellexer.com/,ML
+WatchMouse API,Offers self-service website and application performance monitoring solutions,http://more.watchmouse.com/transaction_monitoring/,ML
+Data Demograph,"Enrich your contact lists with intelligent demographics. Add gender age, income, education, ancestry, crime, and political leaning to your customer insights.",https://datademograph.com/,ML
+Trash Nothing,A freecycling community with thousands of free items posted every day,https://trashnothing.com/developer,Social Media
+Cisco Spark,Team Collaboration Software,https://developer.ciscospark.com,Social Media
+Disqus,Communicate with Disqus data,https://disqus.com/api/docs/auth/,Social Media
+Facebook API,"Helps developers build, grow and monetize their business.",https://developers.facebook.com/,Social Media
+Telegram Bot,Simplified HTTP version of the MTProto API for bots,https://core.telegram.org/bots/api,Social Media
+HackerNews,Social news for CS and entrepreneurship,https://github.com/HackerNews/API,Social Media
+Pinterest,The world's catalog of ideas,https://developers.pinterest.com/,Social Media
+Full Contact,Get Social Media profiles and contact Information,https://www.fullcontact.com/developer/docs/,Social Media
+Discord,"Make bots for Discord, integrate Discord onto an external platform",https://discord.com/developers/docs/intro,Social Media
+Saidit,Open Source Reddit Clone,https://www.saidit.net/dev/api,Social Media
+Tumblr,Read and write Tumblr Data,https://www.tumblr.com/docs/en/api/v2,Social Media
+Open Collective,Get Open Collective data,https://docs.opencollective.com/help/developers/api,Social Media
+Telegram MTProto,Read and write Telegram data,https://core.telegram.org/api#getting-started,Social Media
+Facebook,"Facebook Login, Share on FB, Social Plugins, Analytics and more",https://developers.facebook.com/,Social Media
+Buffer,Access to pending and sent updates in Buffer,https://buffer.com/developers/api,Social Media
+Twitch,Game Streaming API,https://dev.twitch.tv/docs,Social Media
+Quora API,"Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world.",https://edmondlausposts.quora.com/Quora-Extension-API,Social Media
+vk,Read and write vk data,https://vk.com/dev/sites,Social Media
+4chan,Simple image-based bulletin board dedicated to a variety of topics,https://github.com/4chan/4chan-API,Social Media
+MySocialApp,"Seamless Social Networking features, API, SDK to any app",https://mysocialapp.io,Social Media
+Twitter,Read and write Twitter data,https://developer.twitter.com/en/docs,Social Media
+Instagram,"Instagram Login, Share on Instagram, Social Plugins and more",https://www.instagram.com/developer/,Social Media
+Reddit,Homepage of the internet,https://www.reddit.com/dev/api,Social Media
+Fuck Off as a Service,Asks someone to fuck off,https://www.foaas.com,Social Media
+Meetup.com,Data about Meetups from Meetup.com,https://www.meetup.com/meetup_api/,Social Media
+Slack,Team Instant Messaging,https://api.slack.com/,Social Media
+Foursquare,"Interact with Foursquare users and places geolocation-based checkins, photos, tips, events, etc",https://developer.foursquare.com/,Social Media
+UnixTime Converter,A REST API to convert UnixTime to DateTime and DateTime to UnixTime,https://unixtime.co.za,Calendar
+Megavangelical,A (satirical) Evangelical liturgical calendar,https://megavangelicals.com/sundays.json,Calendar
+Calendar Index,Worldwide Holidays and Working Days,https://www.calendarindex.com/,Calendar
+Namedays Calendar,Provides namedays for multiple countries,https://nameday.abalin.net,Calendar
+UK Bank Holidays,"Bank holidays in England and Wales, Scotland and Northern Ireland",https://www.gov.uk/bank-holidays.json,Calendar
+Russian Calendar,Check if a date is a Russian holiday or not,https://github.com/egno/work-calendar,Calendar
+Church Calendar,Catholic liturgical calendar,http://calapi.inadiutorium.cz/,Calendar
+Nager.Date,Public holidays for more than 90 countries,https://date.nager.at,Calendar
+Abstract Public Holidays,"Data on national, regional, and religious holidays via API",https://www.abstractapi.com/holidays-api,Calendar
+Google Calendar,"Display, create and modify Google calendar events",https://developers.google.com/google-apps/calendar/,Calendar
+LectServe,Protestant liturgical calendar,http://www.lectserve.com,Calendar
+Hebrew Calendar,"Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",https://www.hebcal.com/home/developer-apis,Calendar
+Holidays,Historical data regarding holidays,https://holidayapi.com/,Calendar
+Non-Working Days,"Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",https://isdayoff.ru,Calendar
+Czech Namedays Calendar,Lookup for a name and returns nameday date,https://svatky.adresa.info,Calendar
+Satellite Passes,Query next satellite passes above you,https://satellites.fly.dev,Science and Maths
+arXiv,"Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",https://arxiv.org/help/api/user-manual,Science and Maths
+inspirehep.net,High Energy Physics info. system,https://github.com/inspirehep/rest-api-doc,Science and Maths
+Open Notify,"ISS astronauts, current location, etc",http://open-notify.org/Open-Notify-API/,Science and Maths
+NASA APOD (unofficial API),API for getting Astronomy Image of the Day images along with metadata,unofficial API,Science and Maths
+USGS Water Services,Water quality and level info for rivers and lakes,https://waterservices.usgs.gov/,Science and Maths
+hubblesite,Space Telescope News Releases,https://hubblesite.org/api/documentation/,Science and Maths
+SHARE,"A free, open, dataset about research and scholarly activities",https://share.osf.io/api/v2/,Science and Maths
+Sunrise and Sunset,Sunset and sunrise times for a given latitude and longitude,https://sunrise-sunset.org/api,Science and Maths
+ITIS,Integrated Taxonomic Information System,https://www.itis.gov/ws_description.html,Science and Maths
+NASA APOD (official API),api_key=DEMO_KEY) | ,official API,Science and Maths
+GBIF,Global Biodiversity Information Facility,https://www.gbif.org/developer/summary,Science and Maths
+CORE,Access the world's Open Access research papers,https://core.ac.uk/services#api,Science and Maths
+arcsecond.io,Multiple astronomy data sources,https://api.arcsecond.io/,Science and Maths
+World Bank,World Data,https://datahelpdesk.worldbank.org/knowledgebase/topics/125589,Science and Maths
+Newton,Symbolic and Arithmetic Math Calculator,https://newton.now.sh/,Science and Maths
+Open Science Framework,"Repository and archive for study designs, research materials, data, manuscripts, etc",https://developer.osf.io,Science and Maths
+Numbers,"Number of the day, random number, number facts and anything else you want to do with numbers",https://math.tools/api/numbers/,Science and Maths
+iDigBio,Access millions of museum specimens from organizations around the world,https://github.com/idigbio/idigbio-search-api/wiki,Science and Maths
+isEven (humor),Check if a number is even,humor,Science and Maths
+USGS Earthquake Hazards Program,Earthquakes data real-time,https://earthquake.usgs.gov/fdsnws/event/1/,Science and Maths
+NASA,"NASA data, including imagery",https://api.nasa.gov,Science and Maths
+Launch Library 2,Spaceflight launches and events database,https://thespacedevs.com/llapi,Science and Maths
+Materials Platform for Data Science,Curated experimental data for materials science,https://mpds.io,Science and Maths
+Purple Air,Real Time Air Quality Monitoring,https://www2.purpleair.com/,Science and Maths
+SpaceX,"Company, vehicle, launchpad and launch data",https://github.com/r-spacex/SpaceX-API,Science and Maths
+Minor Planet Center,Asterank.com Information,http://www.asterank.com/mpc,Science and Maths
+Gmail,"Flexible, RESTful access to the user's inbox",https://developers.google.com/gmail/api/,Business
+MailboxValidator,Validate email address to improve deliverability,https://www.mailboxvalidator.com/api-email-free,Business
+ORB Intelligence,Company lookup,https://api.orb-intelligence.com/docs/,Business
+Charity Search,Non-profit charity data,http://charityapi.orghunter.com/,Business
+mailgun,Email Service,https://www.mailgun.com/,Business
+Domainsdb.info,Registered Domain Names Search,https://domainsdb.info/,Business
+Ticksel,Friendly website analytics made for humans,https://ticksel.com,Business
+Google Analytics,"Collect, configure and analyze your data to reach the right audience",https://developers.google.com/analytics/,Business
+Clearbit Logo,Search for company logos and embed them in your projects,https://clearbit.com/docs#logo-api,Business
+Trello,"Boards, lists and cards to help you organize and prioritize your projects",https://developers.trello.com/,Business
+Freelancer,Hire freelancers to get work done,https://developers.freelancer.com,Business
+mail.tm,Temporary Email Service,https://docs.mail.tm,Business
+Smartsheet,Allows you to programmatically access and Smartsheet data and account information,https://smartsheet-platform.github.io/api-docs/,Business
+markerapi,Trademark Search,http://www.markerapi.com/,Business
+SwiftKanban,"Kanban software, Visualize Work, Increase Organizations Lead Time, Throughput & Productivity",https://www.digite.com/swiftkanban/,Business
+Zestful Data,"The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free.",https://zestfuldata.com/,Food
+The Meal Db,"This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!",https://www.themealdb.com/api.php,Food
+Food Api,"Let’s you access over 330,000 recipes and 80,000 food products",https://spoonacular.com/food-api,Food
+The Cocktail Db,"A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB.",https://www.thecocktaildb.com/api.php,Food
+Trace.Moe,Scan anime image to get specific detail,https://soruly.github.io/trace.moe/,Anime
+AnimeNewsNetwork,Anime industry news,https://www.animenewsnetwork.com/encyclopedia/api.php,Anime
+Jikan,Unofficial MyAnimeList API,https://jikan.moe,Anime
+AnimeChan,Anime quotes (over 10k+),https://github.com/RocktimSaikia/anime-chan,Anime
+Shikimori,"Anime discovery, tracking, forum, rates",https://shikimori.one/api/doc,Anime
+What Anime,Scan anime image to get specific detail,https://soruly.github.io/trace.moe/,Anime
+Kitsu,Anime discovery platform,https://kitsu.docs.apiary.io/,Anime
+AniList,Anime discovery & tracking,https://github.com/AniList/ApiV2-GraphQL-Docs,Anime
+Waifu.pics,Image sharing platform for anime images,https://waifu.pics/docs,Anime
+AniAPI,"Anime discovery, streaming & syncing with trackers",https://github.com/AniAPI-Team/AniAPI,Anime
+MyAnimeList,cid=13727) | ,https://myanimelist.net/clubs.php?cid=13727,Anime
+Studio Ghibli,Resources from Studio Ghibli films,https://ghibliapi.herokuapp.com,Anime
+API2Cart,"API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others.",https://api2cart.com/,Shopping
+Etsy,Manage shop and interact with listings,https://www.etsy.com/developers/documentation/getting_started/api_basics,Shopping
+Bratabase,Database of different types of Bra Sizes,https://developers.bratabase.com/,Shopping
+Wegmans,Wegmans Food Markets,https://dev.wegmans.io,Shopping
+Best Buy,"Products, Buying Options, Categories, Recommendations, Stores and Commerce",https://bestbuyapis.github.io/api-documentation/#overview,Shopping
+Wal-Mart,Item price and availability,https://developer.walmartlabs.com/,Shopping
+Dummy Products,An api to fetch dummy e-commerce products JSON data with placeholder images,https://dummyproducts-api.herokuapp.com/,Shopping
+Furniture Store Data Api,The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store. The API is developed on C# and json. The great thing in this api is that it very simple to use and edit. You will learn how to provide any type of data via api in seconds. Prerequisites: Visual Studio 4.0 and above Functionality: Can let your user get data based on keyset and its value set by specifying any TokenKey and value on which basis the API request can be validated. The updated version of the API is also available at <a href='https://getrit.com'>getrit.com</a>,https://getrit.com/API/Token,Shopping
+eBay,Sell and Buy on eBay,https://go.developer.ebay.com/,Shopping
+FengShui,Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship,https://fengshui-api.com/,Astrology
+Html2pdf.App,"Free Html to Pdf online generator Most realistic, high quality html to pdf api service! Free API - no payments No need your own server Maintainable and improving service Easy to use",https://html2pdf.app/,Miscellaneous
+Shutterstock,"The Shutterstock API provides access to Shutterstock's library of media, as well as information about customers' accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media.",https://www.shutterstock.com/developers/,Miscellaneous
+Image-Charts,"Image-Charts API returns a chart image in response to a URL GET or POST request. The API can generate many kinds of charts, from pie or line charts to bar charts and radars. All the information about the chart that you want, such as chart data, size, colors, and labels, are part of the URL. It can generates animated gif as well!",https://www.image-charts.com/,Miscellaneous
+Iplegit.Com,Simple and free to use IP lookup service. Get basic and detailed data on IP addresses. Two free endpoints available.,https://iplegit.com/,Miscellaneous
+Cloudmersive,"Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.",https://api.cloudmersive.com/swagger/index.html?urls.primaryName=Convert%20API,Miscellaneous
+Qrcode Monkey,Integrate custom and unique looking QR codes into your system or workflow. This API is perfect for creating thousands of high quality QR codes in png or svg vector format.,https://www.qrcode-monkey.com/qr-code-api-with-logo/,Miscellaneous
+PlaceBear,Placeholder bear pictures,https://placebear.com/,Animals
+Movebank,Movement and Migration data of animals,https://github.com/movebank/movebank-api-doc,Animals
+Cataas,Cat as a service (cats pictures and gifs),https://cataas.com/,Animals
+Cat Facts,Daily Car Facts,https://alexwohlbruck.github.io/cat-facts/,Animals
+RandomFox,Random pictures of foxes,https://randomfox.ca/floof/,Animals
+Dogs,,https://dog.ceo/dog-api/,Animals
+Axolotl,Collection of axolotl pictures and facts,https://theaxolotlapi.netlify.app/,Animals
+Shibe.Online,"Random pictures of Shiba Inu, cats or birds",http://shibe.online/,Animals
+RandomCat,Random pictures of cats,https://aws.random.cat/meow,Animals
+Httpcat,Cat for every HTTP Status,https://http.cat/,Animals
+IUCN,IUCN Red List of Threatened Species,http://apiv3.iucnredlist.org/api/v3/docs,Animals
+Cats,Pictures of cats from Tumblr,https://docs.thecatapi.com/,Animals
+catAPI,Random pictures of cats,https://github.com/ThatCopy/catAPI/wiki/Usage,Animals
+RescueGroups,Adoption,https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home,Animals
+Dog Facts,Random dog facts,https://dukengn.github.io/Dog-facts-API/,Animals
+Randomdog,Random pictures of dogs,https://random.dog/,Animals
+PlaceDog,Placeholder Dog pictures,https://place.dog,Animals
+Bing Search API,"Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements. The results can be automatically customized to your users' locations or markets, increasing relevancy by staying local.",https://redirect.microsoft/dataset/bing/search,Search
+Jooble,Job search engine,https://jooble.org/api/about,Search
+Jobs2careers,Job aggregator,https://api.jobs2careers.com/api/,Search
+Foursquare API,Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need.,https://developer.foursquare.com/,Search
+News Feed Search,Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily,https://imbrikapi.com/,Search
+Robohash Image Generator,Generates cool looking robot image for any text,https://www.mashape.com/blaazetech/robohash-image-generator,Funny
+Api Meme,Generate memes with a simple link!,https://apimeme.com/,Funny
+Imgflip,"Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API.",https://imgflip.com/api,Funny
+Adorable Avatars,Generate random cartoon avatars,http://avatars.adorable.io/,Funny
+MEME Generator,"Let’s you generate memes by choosing preloaded images, and short top and bottom text sentences",http://version1.api.memegenerator.net/,Funny
+Traveltime Api,Create polygons to show how far you can travel within a time limit. Calculate times from an origin to thousands of destinations in a single API call.,https://traveltime.com/docs/api/overview/introduction,Travel
+IBM Watson Text To Speech,A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage,https://www.ibm.com/thought-leadership/smart/,Audio
