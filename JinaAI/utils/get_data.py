@@ -3,11 +3,11 @@ import requests
 import pandas as pd
 import os
 
-baseurl = "https://exploreapis.azurewebsites.net/api/"
+baseurl = "http://exploreapiswith.tech/api/"
 
 
 categories = json.loads(requests.get(
-    "https://exploreapis.azurewebsites.net/api/category").text)
+    baseurl + "category").text)
 
 
 def get_category_api(category_name=None):
