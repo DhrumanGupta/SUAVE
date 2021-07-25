@@ -1,6 +1,7 @@
 import json
 import requests
 import pandas as pd
+import os
 
 baseurl = "https://exploreapis.azurewebsites.net/api/"
 
@@ -20,6 +21,13 @@ for category in categories:
 
     api = get_category_api(category)
     api_list += api
+
+if os.path.exists("data/apis.json"):
+    os.remove("data/apis.json")
+
+
+if os.path.exists("data/apis.csv"):
+    os.remove("data/apis.csv")
 
 with open(r"data/apis.json", "x") as f:
     json.dump(api_list, f)
