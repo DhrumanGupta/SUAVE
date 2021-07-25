@@ -1,6 +1,7 @@
 import json
 import requests
 from time import sleep
+import os
 
 sauve_logo = """
 
@@ -34,7 +35,9 @@ sauve_logo = """
 categories = ["Weather", "Entertainment", "Sports", "Social Media", "Shopping", "Science and Maths", "Music", "Location", "Development", "Currency", "Calendar", "Business",
               "Books", "Art and Design", "Anti-Malware", "Anime", "Animals"]
 
-data = json.load(open("../data/apis.json"))
+data_dir = os.path.abspath(os.path.dirname(__file__) + "/../data/apis.json")
+
+data = json.load(open(data_dir))
 
 
 def gen_category_apis(category):
